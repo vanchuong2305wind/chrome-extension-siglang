@@ -1,0 +1,40 @@
+{
+  "manifest_version": 3,
+  "name": "SignLang 3D — Dịch Âm Thanh Sang Ngôn Ngữ Ký Hiệu",
+  "version": "1.1.0",
+  "description": "Ghi âm và đồng bộ âm thanh/phụ đề video (YouTube, Web) sang mô hình ngôn ngữ ký hiệu 3D theo thời gian thực với nút nổi kéo thả trực tiếp trên màn hình.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "SignLang 3D — Bật phiên dịch ký hiệu 3D"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage",
+    "tabs"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "popup.html",
+        "models/*",
+        "data/*",
+        "assets/*"
+      ],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}

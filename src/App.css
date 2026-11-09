@@ -1,0 +1,685 @@
+/* ==========================================================================
+   App.css — EARTHY WARM & ORGANIC PORTFOLIO
+   ========================================================================== */
+
+.ext-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 14px 14px 72px 14px;
+  min-height: 620px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* Header & Top Contact/Status Bar */
+.ext-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border-warm);
+}
+
+.ext-brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.ext-logo-badge {
+  width: 34px;
+  height: 34px;
+  border-radius: 100px;
+  background: var(--accent-terracotta);
+  color: var(--bg-cream);
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-weight: 700;
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 3px 10px rgba(82, 43, 18, 0.18);
+}
+
+.ext-title {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 19px;
+  font-weight: 700;
+  color: var(--text-charcoal);
+  letter-spacing: -0.3px;
+  line-height: 1.15;
+}
+
+.ext-subtitle {
+  font-family: var(--font-sans);
+  font-size: 11px;
+  color: var(--text-brown);
+  opacity: 0.82;
+}
+
+.ext-header-actions {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* Badge xanh rêu thẫm với viền gợn sóng vẽ tay (#nav-wobble) */
+.ext-moss-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 4px 10px;
+  border-radius: 100px;
+  background: rgba(50, 88, 37, 0.1);
+  border: 1.2px solid var(--accent-moss);
+  color: var(--accent-moss);
+  font-family: var(--font-sans);
+  font-size: 10.5px;
+  font-weight: 700;
+  filter: url(#nav-wobble);
+}
+
+.ext-moss-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent-moss-light);
+}
+
+.ext-icon-btn {
+  width: 30px;
+  height: 30px;
+  border-radius: 100px;
+  border: 1px solid var(--border-warm);
+  background: var(--bg-oatmeal);
+  color: var(--text-brown);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.ext-icon-btn:hover {
+  background: var(--accent-terracotta-hover);
+  color: var(--bg-cream);
+  border-color: var(--accent-terracotta-hover);
+}
+
+.ext-icon-btn.active {
+  background: var(--accent-terracotta);
+  color: var(--bg-cream);
+  border-color: var(--accent-terracotta);
+}
+
+/* 3D Stage Card (bo góc 12px với lớp màu mờ nhẹ #0601000a) */
+.ext-stage-wrapper {
+  position: relative;
+  width: 100%;
+  height: 265px;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #0601000a;
+  border: 1px solid var(--border-warm);
+  box-shadow: 0 6px 20px rgba(75, 45, 21, 0.08);
+}
+
+/* Chế độ Full màn hình chỉ hiện nhân vật 3D (ẩn toàn bộ thành phần khác) */
+.ext-container.full-avatar-mode {
+  padding: 0;
+  margin: 0;
+  max-width: none;
+  min-height: 100vh;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.ext-container.full-avatar-mode .ext-header,
+.ext-container.full-avatar-mode .ext-control-card,
+.ext-container.full-avatar-mode .ext-transcript-card,
+.ext-container.full-avatar-mode .ext-input-bar,
+.ext-container.full-avatar-mode .ext-samples-row,
+.ext-container.full-avatar-mode .ext-floating-nav {
+  display: none !important;
+}
+
+.ext-container.full-avatar-mode .ext-stage-wrapper {
+  position: fixed;
+  inset: 0;
+  width: 100vw;
+  height: 100vh;
+  border-radius: 0;
+  border: none;
+  box-shadow: none;
+  z-index: 100;
+}
+
+.ext-fullscreen-floating-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 32px;
+  height: 32px;
+  border-radius: 100px;
+  border: 1px solid var(--border-warm);
+  background: rgba(232, 230, 218, 0.92);
+  color: var(--text-brown-deep);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 4;
+  transition: all 0.2s ease;
+}
+
+.ext-fullscreen-floating-btn.in-full {
+  opacity: 0.28;
+}
+
+.ext-fullscreen-floating-btn:hover,
+.ext-fullscreen-floating-btn.in-full:hover {
+  opacity: 1;
+  background: var(--accent-terracotta-hover);
+  color: var(--bg-cream);
+}
+
+.ext-replay-floating-btn {
+  position: absolute;
+  top: 10px;
+  right: 48px;
+  width: 32px;
+  height: 32px;
+  border-radius: 100px;
+  border: 1px solid var(--border-warm);
+  background: rgba(232, 230, 218, 0.92);
+  color: var(--text-brown-deep);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 3;
+  transition: all 0.2s ease;
+}
+
+.ext-replay-floating-btn:hover {
+  background: var(--accent-terracotta-hover);
+  color: var(--bg-cream);
+}
+
+/* Control Card (Soft Oatmeal) */
+.ext-control-card {
+  background: var(--bg-oatmeal-soft);
+  border: 1px solid var(--border-warm);
+  border-radius: 12px;
+  padding: 10px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.ext-video-status-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.ext-video-info {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  min-width: 0;
+  flex: 1;
+}
+
+.ext-status-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgba(75, 45, 21, 0.35);
+  flex-shrink: 0;
+}
+
+.ext-status-dot.live {
+  background: var(--accent-moss-light);
+  box-shadow: 0 0 6px rgba(48, 116, 54, 0.5);
+}
+
+.ext-video-title {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--text-charcoal);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.ext-video-controls {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-shrink: 0;
+}
+
+.ext-time-badge {
+  font-size: 10.5px;
+  font-weight: 600;
+  color: var(--text-brown);
+  background: var(--tag-bg);
+  padding: 3px 8px;
+  border-radius: 100px;
+}
+
+.ext-mini-btn {
+  width: 26px;
+  height: 26px;
+  border-radius: 100px;
+  border: 1px solid var(--border-warm);
+  background: var(--bg-cream);
+  color: var(--text-brown-deep);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.ext-mini-btn:hover {
+  background: var(--accent-terracotta-hover);
+  color: var(--bg-cream);
+}
+
+.ext-sync-actions {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* Nút bấm Action (.btn): Hình viên thuốc bo tròn 100px, màu nền nâu thẫm #522B12, chữ màu kem #FFFCED.
+   Hover State: Chuyển sang màu nâu đỏ #5F2A1A, font chữ tự động đổi sang chữ nghiêng (Libre italic) */
+.btn,
+.ext-primary-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  padding: 8px 14px;
+  border-radius: 100px;
+  border: 1px solid var(--accent-terracotta);
+  background: var(--accent-terracotta);
+  color: var(--bg-cream);
+  font-family: var(--font-sans);
+  font-size: 12px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.15s ease;
+}
+
+.ext-primary-btn {
+  flex: 1;
+}
+
+.btn:hover,
+.ext-primary-btn:hover {
+  background: var(--accent-terracotta-hover);
+  border-color: var(--accent-terracotta-hover);
+  font-family: var(--font-serif);
+  font-style: italic;
+}
+
+.ext-primary-btn.listening {
+  background: var(--accent-moss);
+  border-color: var(--accent-moss);
+}
+
+.ext-primary-btn.listening:hover {
+  background: var(--accent-moss-light);
+  border-color: var(--accent-moss-light);
+}
+
+.ext-primary-btn.recording {
+  background: var(--accent-terracotta-hover);
+  animation: ext-warm-pulse 1.5s infinite;
+}
+
+@keyframes ext-warm-pulse {
+  0%, 100% {
+    box-shadow: 0 0 0 0 rgba(95, 42, 26, 0.4);
+  }
+  50% {
+    box-shadow: 0 0 0 6px rgba(95, 42, 26, 0);
+  }
+}
+
+.ext-secondary-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 7px 11px;
+  border-radius: 100px;
+  border: 1px solid var(--border-warm);
+  background: var(--bg-cream);
+  color: var(--text-brown-deep);
+  font-size: 11.5px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.ext-secondary-btn:hover,
+.ext-secondary-btn.active {
+  background: var(--accent-terracotta-hover);
+  border-color: var(--accent-terracotta-hover);
+  color: var(--bg-cream);
+  font-family: var(--font-serif);
+  font-style: italic;
+}
+
+.ext-caption-hint {
+  font-size: 11px;
+  color: var(--accent-moss);
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+.ext-cue-list {
+  max-height: 130px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding-right: 4px;
+  margin-top: 2px;
+  border-top: 1px solid var(--border-warm);
+  padding-top: 6px;
+}
+
+.ext-cue-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 5px 10px;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  background: var(--bg-cream);
+  color: var(--text-brown);
+  font-size: 11.5px;
+  text-align: left;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.ext-cue-item:hover {
+  background: var(--bg-oatmeal);
+  border-color: var(--border-warm);
+}
+
+.ext-cue-item.active {
+  background: rgba(50, 88, 37, 0.12);
+  border-color: var(--accent-moss);
+  color: var(--text-charcoal);
+  font-weight: 600;
+}
+
+.ext-cue-time {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 10.5px;
+  color: var(--accent-moss);
+  flex-shrink: 0;
+  padding-top: 1px;
+}
+
+.ext-cue-text {
+  line-height: 1.35;
+}
+
+.ext-error-box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 6px 10px;
+  border-radius: 10px;
+  background: rgba(95, 42, 26, 0.1);
+  border: 1px solid rgba(95, 42, 26, 0.3);
+  color: var(--accent-terracotta-hover);
+  font-size: 11px;
+  font-weight: 600;
+}
+
+.ext-link-btn {
+  padding: 4px 10px;
+  font-size: 10.5px;
+  flex-shrink: 0;
+}
+
+/* Transcript & Gloss Badges Card */
+.ext-transcript-card {
+  background: var(--bg-oatmeal-soft);
+  border: 1px solid var(--border-warm);
+  border-radius: 12px;
+  padding: 10px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+.ext-transcript-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.ext-section-label {
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.6px;
+  color: var(--text-brown);
+  opacity: 0.75;
+}
+
+.ext-match-badge {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 10.5px;
+  font-weight: 700;
+  color: var(--accent-moss);
+  background: rgba(50, 88, 37, 0.1);
+  padding: 2px 9px;
+  border-radius: 100px;
+}
+
+.ext-transcript-text {
+  font-family: var(--font-serif);
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text-charcoal);
+  min-height: 20px;
+  line-height: 1.45;
+}
+
+.ext-interim {
+  color: var(--accent-moss);
+  font-style: italic;
+}
+
+.ext-placeholder {
+  font-family: var(--font-sans);
+  font-size: 11.5px;
+  font-weight: 500;
+  color: var(--text-brown);
+  opacity: 0.68;
+}
+
+/* Thẻ tag phân loại (Badges / Tags): Bo tròn 100px, nền màu nâu trong suốt rgba(75, 45, 21, 0.07), chữ màu nâu sẫm */
+.ext-gloss-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  padding-top: 2px;
+}
+
+.ext-gloss-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 4px 10px;
+  border-radius: 100px;
+  font-size: 11.5px;
+  cursor: pointer;
+  background: var(--tag-bg);
+  border: 1px solid rgba(75, 45, 21, 0.15);
+  color: var(--text-brown-deep);
+  transition: all 0.18s ease;
+}
+
+.ext-gloss-chip:hover {
+  background: var(--accent-terracotta-hover);
+  border-color: var(--accent-terracotta-hover);
+  color: var(--bg-cream);
+  font-family: var(--font-serif);
+  font-style: italic;
+}
+
+.ext-gloss-chip:hover .chip-en {
+  color: var(--bg-oatmeal);
+}
+
+.ext-gloss-chip.active {
+  background: var(--accent-moss);
+  border-color: var(--accent-moss);
+  color: var(--bg-cream);
+  box-shadow: 0 2px 8px rgba(50, 88, 37, 0.25);
+}
+
+.ext-gloss-chip.active .chip-en {
+  color: var(--bg-cream);
+}
+
+.chip-vi {
+  font-weight: 700;
+}
+
+.chip-en {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 10px;
+  text-transform: uppercase;
+  color: var(--accent-moss);
+}
+
+/* Manual input & sample pills */
+.ext-input-bar {
+  display: flex;
+  gap: 6px;
+}
+
+.ext-text-input {
+  flex: 1;
+  padding: 8px 14px;
+  border-radius: 100px;
+  border: 1px solid var(--border-warm);
+  background: var(--bg-oatmeal-soft);
+  color: var(--text-brown-deep);
+  font-family: var(--font-sans);
+  font-size: 12px;
+  font-weight: 500;
+  outline: none;
+  transition: border-color 0.2s ease;
+}
+
+.ext-text-input::placeholder {
+  color: rgba(75, 45, 21, 0.5);
+}
+
+.ext-text-input:focus {
+  border-color: var(--accent-terracotta);
+  background: var(--bg-cream);
+}
+
+.ext-send-btn {
+  width: 38px;
+  padding: 0;
+  border-radius: 100px;
+}
+
+.ext-samples-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.ext-sample-pill {
+  padding: 4px 10px;
+  border-radius: 100px;
+  border: 1px solid rgba(75, 45, 21, 0.12);
+  background: var(--tag-bg);
+  color: var(--text-brown);
+  font-size: 10.5px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.18s ease;
+}
+
+.ext-sample-pill:hover {
+  background: var(--accent-terracotta-hover);
+  border-color: var(--accent-terracotta-hover);
+  color: var(--bg-cream);
+  font-family: var(--font-serif);
+  font-style: italic;
+}
+
+/* Floating Bottom Navigation Pill (Thanh điều hướng viên thuốc bo tròn 60px ở đáy màn hình) */
+.ext-floating-nav {
+  position: fixed;
+  bottom: 12px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px;
+  border-radius: 60px;
+  background: var(--bg-oatmeal);
+  border: 1px solid rgba(75, 45, 21, 0.18);
+  box-shadow: 0 8px 24px rgba(75, 45, 21, 0.14);
+  z-index: 20;
+  width: calc(100% - 28px);
+  max-width: 380px;
+}
+
+.ext-nav-pill-item {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 7px 12px;
+  border-radius: 60px;
+  border: none;
+  background: transparent;
+  color: var(--text-brown);
+  font-family: var(--font-sans);
+  font-size: 11.5px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.ext-nav-pill-item:hover {
+  color: var(--accent-moss);
+  font-family: var(--font-serif);
+  font-style: italic;
+}
+
+.ext-nav-pill-item.active {
+  background: var(--accent-terracotta);
+  color: var(--bg-cream);
+  font-family: var(--font-serif);
+  font-style: italic;
+  box-shadow: 0 2px 8px rgba(82, 43, 18, 0.25);
+}

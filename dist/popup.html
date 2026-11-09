@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SignLang 3D — Âm thanh sang Ngôn ngữ Ký hiệu</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Manrope:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <script type="module" crossorigin src="./assets/popup.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/popup.css">
+  </head>
+  <body>
+    <!-- Bộ lọc SVG gợn sóng vẽ tay (#nav-wobble) và hạt giấy mỹ thuật -->
+    <svg style="position: absolute; width: 0; height: 0; pointer-events: none" aria-hidden="true">
+      <defs>
+        <filter id="nav-wobble">
+          <feTurbulence type="fractalNoise" baseFrequency="0.04" numOctaves="2" result="noise" />
+          <feDisplacementMap in="SourceGraphic" in2="noise" scale="1.5" />
+        </filter>
+      </defs>
+    </svg>
+    <div class="bgimage"></div>
+    <div id="root"></div>
+  </body>
+</html>
