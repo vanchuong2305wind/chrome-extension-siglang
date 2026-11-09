@@ -13,79 +13,16 @@ import * as THREE from 'three';
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
 import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
 import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
-import * as SkeletonUtils from 'three/addons/utils/SkeletonUtils.js';
 import { VRMLoaderPlugin, VRMUtils } from '@pixiv/three-vrm';
 import { VrmHolisticRetargeter } from './vrm-holistic-retargeter';
 import { resolveExtensionUrl } from '../../services/signEngine';
 
 /* ==================== CONSTANTS ==================== */
 
-const BONE_MAP = {
-  thumb: { base: 'thumb_baseR', b01: 'thumb_01R', b02: 'thumb_02R', b03: 'thumb_03R' },
-  index: { base: 'index_baseR', b01: 'index_01R', b02: 'index_02R', b03: 'index_03R' },
-  middle: { base: 'middle_baseR', b01: 'middle_01R', b02: 'middle_02R', b03: 'middle_03R' },
-  ring: { base: 'ring_baseR', b01: 'ring_01R', b02: 'ring_02R', b03: 'ring_03R' },
-  pinky: { base: 'pinky_baseR', b01: 'pinky_01R', b02: 'pinky_02R', b03: 'pinky_03R' },
-};
-
-const FINGER_LM = {
-  thumb: [0, 1, 2, 3, 4],
-  index: [0, 5, 6, 7, 8],
-  middle: [0, 9, 10, 11, 12],
-  ring: [0, 13, 14, 15, 16],
-  pinky: [0, 17, 18, 19, 20],
-};
-
-const FINGER_NAMES = Object.keys(FINGER_LM);
-const BONE_KEYS = ['b01', 'b02', 'b03'];
 const TRANSITION_DURATION = 0.16;
 const PLAYBACK_SPEED_MULTIPLIER = 1.25;
 
-/* ==================== PRE-ALLOCATED MATH OBJECTS ==================== */
-
-const _v3a = new THREE.Vector3();
-const _v3b = new THREE.Vector3();
-const _v3c = new THREE.Vector3();
-const _v3d = new THREE.Vector3();
-const _quat = new THREE.Quaternion();
-const _quatTarget = new THREE.Quaternion();
-const _mat4 = new THREE.Matrix4();
-
-const _pts = Array.from({ length: 21 }, () => new THREE.Vector3());
-
-const _curlAxisThumb = new THREE.Vector3(0.8, 0, 0.6).normalize();
-const _curlAxisFinger = new THREE.Vector3(1, 0, 0);
-const _splayAxis = new THREE.Vector3(0, 0, 1);
-
 /* ==================== HELPER FUNCTIONS ==================== */
-
-function collectBones(handModel) {
-  const bones = {};
-  handModel.traverse((node) => {
-    if (!node.name) return;
-    const cleanName = node.name.replace(/_0?\d{1,3}$/, '');
-    for (const [finger, boneNames] of Object.entries(BONE_MAP)) {
-      for (const [key, targetName] of Object.entries(boneNames)) {
-        if (cleanName === targetName || node.name.startsWith(targetName + '_')) {
-          bones[`${finger}_${key}`] = node;
-        }
-      }
-    }
-    if (cleanName === 'pulseR' || node.name.startsWith('pulseR_')) bones['wrist'] = node;
-    if (cleanName === 'handR' || (node.name.startsWith('handR_') && !node.name.includes('001'))) {
-      bones['hand'] = node;
-    }
-  });
-  return bones;
-}
-
-function saveRestPose(bones) {
-  const quats = {};
-  for (const [key, bone] of Object.entries(bones)) {
-    quats[key] = bone.quaternion.clone();
-  }
-  return quats;
-}
 
 function lerpLandmarks(a, b, t) {
   if (!a || !b) return a || b;
@@ -99,94 +36,11 @@ function lerpLandmarks(a, b, t) {
   });
 }
 
-function easeInOutCubic(t) {
-  return t < 0.5 ? 4 * t * t * t : 1 - (-2 * t + 2) ** 3 / 2;
-}
-
-function landmarksToPoints(landmarks) {
-  for (let i = 0; i < 21; i++) {
-    const lm = landmarks[i];
-    _pts[i].set(lm.x - 0.5, -(lm.y - 0.5), -(lm.z || 0) * 0.5);
-  }
-  return _pts;
-}
-
-function applyHandLandmarks(bones, restQuats, landmarks) {
-  if (!landmarks || landmarks.length < 21) return;
-
-  const pts = landmarksToPoints(landmarks);
-
-  const wristBone = bones['wrist'] || bones['hand'];
-  if (wristBone) {
-    _v3a.subVectors(pts[9], pts[0]).normalize();
-    _v3b.subVectors(pts[17], pts[5]).normalize();
-    _v3c.crossVectors(_v3a, _v3b).normalize();
-    _v3d.crossVectors(_v3a, _v3c).normalize();
-
-    _mat4.makeBasis(_v3d, _v3a, _v3c);
-    _quatTarget.setFromRotationMatrix(_mat4);
-    wristBone.quaternion.slerp(_quatTarget, 0.15);
-  }
-
-  for (let fi = 0; fi < FINGER_NAMES.length; fi++) {
-    const fingerName = FINGER_NAMES[fi];
-    const lmIndices = FINGER_LM[fingerName];
-
-    for (let j = 0; j < 3; j++) {
-      const boneKey = `${fingerName}_${BONE_KEYS[j]}`;
-      const bone = bones[boneKey];
-      if (!bone) continue;
-
-      const restQ = restQuats[boneKey];
-      if (!restQ) continue;
-
-      _v3a.subVectors(pts[lmIndices[j]], pts[lmIndices[j + 1]]).normalize();
-      _v3b.subVectors(pts[lmIndices[j + 2]], pts[lmIndices[j + 1]]).normalize();
-
-      const straightAngle = _v3a.angleTo(_v3b);
-      const bendAmount = Math.PI - straightAngle;
-      const curlAxis = fingerName === 'thumb' ? _curlAxisThumb : _curlAxisFinger;
-      const scaledBend = Math.min(Math.max(bendAmount * 1.2, 0), 2.2);
-
-      _quat.setFromAxisAngle(curlAxis, scaledBend);
-      _quatTarget.copy(restQ).multiply(_quat);
-      bone.quaternion.slerp(_quatTarget, 0.5);
-    }
-
-    if (fingerName === 'thumb') continue;
-    const baseBone = bones[`${fingerName}_base`];
-    if (!baseBone) continue;
-    const restBaseQ = restQuats[`${fingerName}_base`];
-    if (!restBaseQ) continue;
-
-    _v3a.subVectors(pts[9], pts[0]).normalize();
-    _v3b.subVectors(pts[lmIndices[1]], pts[0]).normalize();
-    _v3c.crossVectors(_v3a, _v3b);
-    const splayAngle = _v3a.angleTo(_v3b) * Math.sign(_v3c.z) * 0.4;
-    const clampedSplay = Math.min(Math.max(splayAngle, -0.3), 0.3);
-
-    _quat.setFromAxisAngle(_splayAxis, clampedSplay);
-    _quatTarget.copy(restBaseQ).multiply(_quat);
-    baseBone.quaternion.slerp(_quatTarget, 0.3);
-  }
-}
-
 function resetPose(sd) {
   if (!sd) return;
   if (sd.vrmRetargeter) {
     sd.vrmRetargeter.reset();
-    return;
   }
-  const restore = (bones, quats) => {
-    if (!bones || !quats) return;
-    for (const [key, quat] of Object.entries(quats)) {
-      if (bones[key]) bones[key].quaternion.copy(quat);
-    }
-  };
-  restore(sd.leftBones, sd.leftRestQuats);
-  restore(sd.rightBones, sd.rightRestQuats);
-  if (sd.leftHand) sd.leftHand.rotation.set(0, Math.PI, 0);
-  if (sd.rightHand) sd.rightHand.rotation.set(0, 0, 0);
 }
 
 function disposeObject(obj, { disposeTextures = true } = {}) {
@@ -219,7 +73,6 @@ const ACCESSORY_MATERIALS = new Set([
   'green_emit',
   'robo_face',
   'glass',
-  'anim_logo',
   'arm_mat',
   'arm_plastic',
 ]);
@@ -227,7 +80,13 @@ const ACCESSORY_MATERIALS = new Set([
 function isAccessoryMaterial(material) {
   if (!material) return false;
   const materials = Array.isArray(material) ? material : [material];
-  return materials.some((mat) => ACCESSORY_MATERIALS.has((mat?.name || '').toLowerCase()));
+  return materials.some((mat) => {
+    const cleanName = (mat?.name || '')
+      .toLowerCase()
+      .replace(/\s*\(outline\)\s*$/i, '')
+      .trim();
+    return ACCESSORY_MATERIALS.has(cleanName);
+  });
 }
 
 function removeNonHumanAccessories(root) {
@@ -245,6 +104,380 @@ function removeNonHumanAccessories(root) {
     accessory.removeFromParent();
     disposeObject(accessory, { disposeTextures: false });
   }
+}
+
+/**
+ * Tạo texture mặt sàn bên trong vòng tròn màu xanh có chữ "DUT" viết hoa dưới chân mô hình
+ */
+function createDutFloorDisc() {
+  const canvas = document.createElement('canvas');
+  canvas.width = 1024;
+  canvas.height = 1024;
+  const ctx = canvas.getContext('2d');
+
+  const cx = 512;
+  const cy = 512;
+
+  // Nền tròn kem ấm bên trong vòng xanh
+  const grad = ctx.createRadialGradient(cx, cy, 40, cx, cy, 500);
+  grad.addColorStop(0, '#F5F1DF');
+  grad.addColorStop(0.78, '#EAE4CE');
+  grad.addColorStop(1, '#DFD8BE');
+
+  ctx.beginPath();
+  ctx.arc(cx, cy, 504, 0, Math.PI * 2);
+  ctx.fillStyle = grad;
+  ctx.fill();
+
+  // Vòng chỉ mảnh màu xanh rêu bên trong
+  ctx.beginPath();
+  ctx.arc(cx, cy, 468, 0, Math.PI * 2);
+  ctx.strokeStyle = 'rgba(50, 88, 37, 0.35)';
+  ctx.lineWidth = 6;
+  ctx.stroke();
+
+  ctx.beginPath();
+  ctx.arc(cx, cy, 448, 0, Math.PI * 2);
+  ctx.strokeStyle = 'rgba(50, 88, 37, 0.18)';
+  ctx.lineWidth = 2.5;
+  ctx.setLineDash([12, 10]);
+  ctx.stroke();
+  ctx.setLineDash([]);
+
+  // Chữ "DUT" viết hoa sắc nét đặt dưới chân mô hình bên trong vòng tròn xanh
+  ctx.save();
+  ctx.textAlign = 'center';
+  ctx.textBaseline = 'middle';
+  ctx.font = '900 148px "Libre Baskerville", "Georgia", "Arial Black", serif';
+
+  // Bóng đổ nhẹ dưới chữ DUT
+  ctx.fillStyle = 'rgba(50, 88, 37, 0.16)';
+  ctx.fillText('DUT', cx, 736);
+
+  // Viền kem sáng nổi bật
+  ctx.lineWidth = 10;
+  ctx.strokeStyle = '#FFFCED';
+  ctx.strokeText('DUT', cx, 730);
+
+  // Màu chữ xanh rêu đậm đồng bộ với vòng tròn xanh
+  ctx.fillStyle = '#325825';
+  ctx.fillText('DUT', cx, 730);
+  ctx.restore();
+
+  const texture = new THREE.CanvasTexture(canvas);
+  texture.colorSpace = THREE.SRGBColorSpace;
+  texture.anisotropy = 4;
+  texture.needsUpdate = true;
+
+  const discGeo = new THREE.CircleGeometry(0.675, 64);
+  const discMat = new THREE.MeshStandardMaterial({
+    map: texture,
+    roughness: 0.68,
+    metalness: 0.05,
+  });
+  const disc = new THREE.Mesh(discGeo, discMat);
+  disc.rotation.x = -Math.PI / 2;
+  disc.position.y = 0.003;
+  disc.receiveShadow = true;
+  return disc;
+}
+
+/**
+ * Tạo texture lá cọ và các vòng tre đồng tâm cho chiếc Nón lá Việt Nam
+ */
+function createNonLaTexture() {
+  const canvas = document.createElement('canvas');
+  canvas.width = 512;
+  canvas.height = 512;
+  const ctx = canvas.getContext('2d');
+
+  // Nền màu lá nón tự nhiên
+  const grad = ctx.createLinearGradient(0, 0, 0, 512);
+  grad.addColorStop(0, '#DFC48C');
+  grad.addColorStop(0.5, '#EAD4A4');
+  grad.addColorStop(1, '#D3B57A');
+  ctx.fillStyle = grad;
+  ctx.fillRect(0, 0, 512, 512);
+
+  // Các đường gân lá dọc theo thân nón
+  ctx.strokeStyle = 'rgba(138, 102, 48, 0.16)';
+  ctx.lineWidth = 1.5;
+  for (let x = 0; x < 512; x += 6) {
+    ctx.beginPath();
+    ctx.moveTo(x, 0);
+    ctx.lineTo(x, 512);
+    ctx.stroke();
+  }
+
+  // Các vòng vành tre khâu đồng tâm trên nón lá
+  for (let y = 28; y < 500; y += 30) {
+    ctx.beginPath();
+    ctx.moveTo(0, y);
+    ctx.lineTo(512, y);
+    ctx.strokeStyle = 'rgba(120, 82, 32, 0.36)';
+    ctx.lineWidth = 2.2;
+    ctx.stroke();
+
+    // Đường mũi khâu nhỏ trên mỗi vành nón
+    ctx.beginPath();
+    ctx.setLineDash([4, 6]);
+    ctx.moveTo(0, y + 2);
+    ctx.lineTo(512, y + 2);
+    ctx.strokeStyle = 'rgba(255, 248, 225, 0.45)';
+    ctx.lineWidth = 1.2;
+    ctx.stroke();
+    ctx.setLineDash([]);
+  }
+
+  const tex = new THREE.CanvasTexture(canvas);
+  tex.colorSpace = THREE.SRGBColorSpace;
+  tex.wrapS = THREE.RepeatWrapping;
+  tex.wrapT = THREE.ClampToEdgeWrapping;
+  return tex;
+}
+
+/**
+ * Tạo hình ngôi sao vàng 5 cánh 3D chuẩn Quốc kỳ Việt Nam
+ */
+function createGoldenStarMesh(outerRadius = 0.056, innerRadius = 0.022, depth = 0.008) {
+  const shape = new THREE.Shape();
+  const points = 5;
+  for (let i = 0; i < points * 2; i++) {
+    const r = i % 2 === 0 ? outerRadius : innerRadius;
+    const angle = (i * Math.PI) / points + Math.PI / 2;
+    const x = Math.cos(angle) * r;
+    const y = Math.sin(angle) * r;
+    if (i === 0) shape.moveTo(x, y);
+    else shape.lineTo(x, y);
+  }
+  shape.closePath();
+
+  const geo = new THREE.ExtrudeGeometry(shape, {
+    depth,
+    bevelEnabled: true,
+    bevelThickness: 0.0025,
+    bevelSize: 0.002,
+    bevelSegments: 2,
+  });
+  geo.center();
+
+  const mat = new THREE.MeshStandardMaterial({
+    color: 0xffd700,
+    emissive: 0xffb300,
+    emissiveIntensity: 0.35,
+    roughness: 0.25,
+    metalness: 0.35,
+  });
+
+  const star = new THREE.Mesh(geo, mat);
+  star.castShadow = true;
+  return star;
+}
+
+/**
+ * Nhuộm texture bộ đồ gốc (wear.png) sang màu đỏ cờ Việt Nam (#D81E1E),
+ * giữ nguyên toàn bộ nếp gấp vải của bộ đồ gốc và vẽ thêm ngôi sao vàng 5 cánh ở chính giữa ngực.
+ */
+function createRedOriginalOutfitTexture(originalTex) {
+  const img = originalTex?.image || originalTex?.source?.data;
+  const width = img?.width || 1024;
+  const height = img?.height || 1024;
+
+  const canvas = document.createElement('canvas');
+  canvas.width = width;
+  canvas.height = height;
+  const ctx = canvas.getContext('2d');
+
+  if (img) {
+    ctx.drawImage(img, 0, 0, width, height);
+    const imgData = ctx.getImageData(0, 0, width, height);
+    const data = imgData.data;
+
+    for (let i = 0; i < data.length; i += 4) {
+      const r = data[i];
+      const g = data[i + 1];
+      const b = data[i + 2];
+
+      // Độ sáng giữ lại chi tiết nếp gấp vải gốc của bộ quần áo
+      const lum = (0.299 * r + 0.587 * g + 0.114 * b) / 255;
+      const shade = Math.min(1, Math.max(0.78, lum * 1.05));
+
+      // Nhuộm toàn bộ áo và quần gốc sang màu đỏ cờ Việt Nam (#E01B1B) đồng nhất
+      data[i] = Math.min(255, Math.round(shade * 232 + 12));
+      data[i + 1] = Math.min(255, Math.round(shade * 22));
+      data[i + 2] = Math.min(255, Math.round(shade * 22));
+    }
+    ctx.putImageData(imgData, 0, 0);
+  } else {
+    ctx.fillStyle = '#E01B1B';
+    ctx.fillRect(0, 0, width, height);
+  }
+
+  // Vùng ngực trái nơi mesh anim_logo lấp vào 4 lỗ lục giác của áo:
+  // Tô đồng nhất một màu đỏ chuẩn (#E81E1E) để 4 hình lục giác tiệp hoàn toàn vào nền áo đỏ, không còn dấu vết
+  ctx.fillStyle = '#E81E1E';
+  ctx.fillRect(Math.round(width * 0.32), Math.round(height * 0.15), Math.round(width * 0.18), Math.round(height * 0.25));
+
+  const redTex = new THREE.CanvasTexture(canvas);
+  redTex.colorSpace = THREE.SRGBColorSpace;
+  redTex.flipY = originalTex ? originalTex.flipY : false;
+  redTex.needsUpdate = true;
+  return redTex;
+}
+
+/**
+ * Giữ nguyên bộ quần áo gốc của nhân vật, đổi sang màu đỏ có ngôi sao vàng ở chính giữa ngực + đội Nón lá
+ */
+function applyVietnameseAoDaiAndNonLa(vrm) {
+  let sharedRedTex = null;
+  let baseRedMToonMat = null;
+
+  // Bước 1: Tìm chất liệu MToon gốc của áo (huku_bake) để dùng chung cho cả phần vá lỗ logo (anim_logo)
+  vrm.scene.traverse((node) => {
+    if (!node.isMesh && !node.isSkinnedMesh) return;
+    const mats = Array.isArray(node.material) ? node.material : [node.material];
+    for (const mat of mats) {
+      if (!mat) continue;
+      const rawName = (mat.name || '').toLowerCase();
+      const mName = rawName.replace(/\s*\(outline\)\s*$/i, '').trim();
+      if (mName === 'huku_bake' && !rawName.includes('(outline)') && !baseRedMToonMat) {
+        const origTex = mat.map || mat.uniforms?.map?.value || null;
+        sharedRedTex = createRedOriginalOutfitTexture(origTex);
+        baseRedMToonMat = mat;
+      }
+    }
+  });
+
+  // Bước 2: Cập nhật màu đỏ cho toàn bộ quần áo gốc + lấp kín 4 lỗ lục giác (anim_logo) cùng màu đỏ áo
+  vrm.scene.traverse((node) => {
+    if (!node.isMesh && !node.isSkinnedMesh) return;
+    if (!node.material) return;
+
+    const updateMat = (mat) => {
+      if (!mat) return mat;
+      const rawName = (mat.name || '').toLowerCase();
+      const isOutline = rawName.includes('(outline)');
+      const mName = rawName.replace(/\s*\(outline\)\s*$/i, '').trim();
+
+      // Ẩn lớp viền (Outline) trên áo để không vẽ viền nâu/đen bên trong 4 lỗ lục giác trên ngực
+      if (isOutline && (mName === 'huku_bake' || mName === 'armgear_plastic' || mName === 'wear_metal')) {
+        mat.visible = false;
+        if ('outlineWidthFactor' in mat) mat.outlineWidthFactor = 0;
+        if (mat.uniforms?.outlineWidthFactor) mat.uniforms.outlineWidthFactor.value = 0;
+        mat.needsUpdate = true;
+        return mat;
+      }
+
+      // Gán chất liệu MToon đỏ của áo vào mesh anim_logo để bít kín 4 lỗ lục giác trên ngực trái
+      if (mName === 'anim_logo' && baseRedMToonMat) {
+        const patchMat = baseRedMToonMat.clone();
+        patchMat.map = sharedRedTex;
+        patchMat.shadeMultiplyTexture = sharedRedTex;
+        if (patchMat.shadeColorFactor?.setRGB) {
+          patchMat.shadeColorFactor.setRGB(0.82, 0.82, 0.82);
+        }
+        patchMat.needsUpdate = true;
+        return patchMat;
+      }
+
+      if (mName === 'huku_bake' || mName === 'armgear_plastic' || mName === 'wear_metal' || mName === 'anim_logo') {
+        if (!sharedRedTex) {
+          const origTex = mat.map || mat.uniforms?.map?.value || null;
+          sharedRedTex = createRedOriginalOutfitTexture(origTex);
+        }
+        if ('map' in mat) mat.map = sharedRedTex;
+        if ('shadeMultiplyTexture' in mat) mat.shadeMultiplyTexture = sharedRedTex;
+        if (mat.uniforms?.map) mat.uniforms.map.value = sharedRedTex;
+        if (mat.uniforms?.shadeMultiplyTexture) {
+          mat.uniforms.shadeMultiplyTexture.value = sharedRedTex;
+        }
+        if (mat.shadeColorFactor?.setRGB) {
+          mat.shadeColorFactor.setRGB(0.82, 0.82, 0.82);
+        } else if (mat.uniforms?.shadeColorFactor?.value?.setRGB) {
+          mat.uniforms.shadeColorFactor.value.setRGB(0.82, 0.82, 0.82);
+        }
+        mat.needsUpdate = true;
+        return mat;
+      }
+      return mat;
+    };
+
+    if (Array.isArray(node.material)) {
+      node.material = node.material.map(updateMat);
+    } else {
+      node.material = updateMat(node.material);
+    }
+  });
+
+  const outfitGroup = new THREE.Group();
+  outfitGroup.name = 'vietnam_star_and_nonla';
+
+  // 2. Ngôi sao vàng 5 cánh 3D đặt ngay chính giữa ngực bộ đồ gốc
+  const frontStar = createGoldenStarMesh(0.052, 0.021, 0.007);
+  frontStar.position.set(0, 1.072, 0.097);
+  frontStar.rotation.x = -0.05;
+  outfitGroup.add(frontStar);
+
+  // 3. Đầu đội Nón lá Việt Nam
+  const nonLaGroup = new THREE.Group();
+  nonLaGroup.name = 'vietnam_non_la';
+
+  const nonLaTex = createNonLaTexture();
+  const nonLaMat = new THREE.MeshStandardMaterial({
+    map: nonLaTex,
+    roughness: 0.65,
+    metalness: 0.04,
+    side: THREE.DoubleSide,
+  });
+
+  // Thân nón hình chóp
+  const coneGeo = new THREE.ConeGeometry(0.245, 0.145, 64, 1, true);
+  const coneMesh = new THREE.Mesh(coneGeo, nonLaMat);
+  coneMesh.castShadow = true;
+  coneMesh.receiveShadow = true;
+  nonLaGroup.add(coneMesh);
+
+  // Vành tre ngoài cùng của nón lá
+  const brimMat = new THREE.MeshStandardMaterial({
+    color: 0xc8a464,
+    roughness: 0.55,
+    metalness: 0.05,
+  });
+  const brimRingGeo = new THREE.TorusGeometry(0.245, 0.0045, 12, 64);
+  const brimRing = new THREE.Mesh(brimRingGeo, brimMat);
+  brimRing.rotation.x = Math.PI / 2;
+  brimRing.position.y = -0.0725;
+  nonLaGroup.add(brimRing);
+
+  // Chóp nón nhỏ trên đỉnh
+  const tipGeo = new THREE.ConeGeometry(0.014, 0.018, 24);
+  const tipMesh = new THREE.Mesh(tipGeo, brimMat);
+  tipMesh.position.y = 0.076;
+  nonLaGroup.add(tipMesh);
+
+  // Quai nón lụa đỏ mềm mại dưới cằm
+  const strapMat = new THREE.MeshStandardMaterial({
+    color: 0xd81e1e,
+    roughness: 0.45,
+    metalness: 0.05,
+  });
+  const strapCurve = new THREE.CatmullRomCurve3([
+    new THREE.Vector3(-0.095, -0.055, 0.02),
+    new THREE.Vector3(-0.075, -0.16, 0.045),
+    new THREE.Vector3(0, -0.225, 0.062),
+    new THREE.Vector3(0.075, -0.16, 0.045),
+    new THREE.Vector3(0.095, -0.055, 0.02),
+  ]);
+  const strapGeo = new THREE.TubeGeometry(strapCurve, 32, 0.0032, 8, false);
+  const strapMesh = new THREE.Mesh(strapGeo, strapMat);
+  nonLaGroup.add(strapMesh);
+
+  // Đặt nón lá ngay ngắn trên đầu nhân vật (hơi nghiêng nhẹ ra sau để lộ rõ gương mặt)
+  nonLaGroup.position.set(0, 1.565, -0.018);
+  nonLaGroup.rotation.x = -0.15;
+  outfitGroup.add(nonLaGroup);
+
+  vrm.scene.add(outfitGroup);
 }
 
 /* ==================== COMPONENT ==================== */
@@ -341,9 +574,9 @@ const AvatarScene3D = forwardRef(function AvatarScene3D(
     renderer.domElement.addEventListener('webglcontextrestored', onContextRestored);
 
     const aspect = Math.max(container.clientWidth, 1) / Math.max(container.clientHeight, 1);
-    const camera = new THREE.PerspectiveCamera(36, aspect, 0.05, 50);
-    camera.position.set(0, 0.52, 1.32);
-    camera.lookAt(0, 0.38, 0);
+    const camera = new THREE.PerspectiveCamera(38, aspect, 0.05, 50);
+    camera.position.set(0, 0.72, 2.15);
+    camera.lookAt(0, 0.58, 0);
 
     scene.add(new THREE.AmbientLight(0xffffff, 0.55));
 
@@ -371,7 +604,7 @@ const AvatarScene3D = forwardRef(function AvatarScene3D(
     pmrem.dispose();
 
     const controls = new OrbitControls(camera, renderer.domElement);
-    controls.target.set(0, 0.38, 0);
+    controls.target.set(0, 0.58, 0);
     controls.enableDamping = true;
     controls.dampingFactor = 0.08;
     controls.minDistance = 0.5;
@@ -393,17 +626,21 @@ const AvatarScene3D = forwardRef(function AvatarScene3D(
     floor.receiveShadow = true;
     scene.add(floor);
 
-    const ringGeo = new THREE.TorusGeometry(0.68, 0.009, 8, 48);
+    // Mặt sàn bên trong vòng tròn màu xanh có chữ "DUT" viết hoa dưới chân mô hình
+    const dutFloorDisc = createDutFloorDisc();
+    scene.add(dutFloorDisc);
+
+    const ringGeo = new THREE.TorusGeometry(0.68, 0.014, 12, 64);
     const ringMat = new THREE.MeshStandardMaterial({
       color: 0x325825,
       emissive: 0x307436,
-      emissiveIntensity: 0.25,
-      roughness: 0.5,
+      emissiveIntensity: 0.28,
+      roughness: 0.45,
       metalness: 0.1,
     });
     const ring = new THREE.Mesh(ringGeo, ringMat);
     ring.rotation.x = Math.PI / 2;
-    ring.position.y = 0.005;
+    ring.position.y = 0.006;
     scene.add(ring);
 
     const grid = new THREE.GridHelper(3, 18, 0xc7bfa8, 0xdad4c0);
@@ -411,73 +648,6 @@ const AvatarScene3D = forwardRef(function AvatarScene3D(
     grid.material.transparent = true;
     grid.material.opacity = 0.45;
     scene.add(grid);
-
-    async function loadFallbackHands() {
-      const loader = new GLTFLoader();
-      const handUrl = resolveExtensionUrl('models/rigged_hand.glb');
-      const gltf = await loader.loadAsync(handUrl);
-      if (disposed) return;
-
-      const original = gltf.scene;
-      const box = new THREE.Box3().setFromObject(original);
-      const size = box.getSize(new THREE.Vector3());
-      const maxDim = Math.max(size.x, size.y, size.z);
-      const scaleFactor = 0.45 / maxDim;
-
-      const mainMat = new THREE.MeshPhysicalMaterial({
-        color: 0xd8e2ec,
-        metalness: 0.75,
-        roughness: 0.2,
-        clearcoat: 0.8,
-        clearcoatRoughness: 0.1,
-        envMapIntensity: 1.5,
-      });
-
-      function applyMaterial(model) {
-        model.traverse((node) => {
-          if (!node.isMesh) return;
-          node.material = mainMat;
-          node.castShadow = true;
-          node.receiveShadow = true;
-          node.frustumCulled = false;
-        });
-      }
-
-      const leftHand = SkeletonUtils.clone(original);
-      leftHand.name = 'left_hand';
-      leftHand.scale.setScalar(scaleFactor);
-      leftHand.position.set(-0.22, 0.35, 0.05);
-      leftHand.rotation.set(0, Math.PI, 0);
-      applyMaterial(leftHand);
-      scene.add(leftHand);
-
-      const rightHand = SkeletonUtils.clone(original);
-      rightHand.name = 'right_hand';
-      rightHand.scale.setScalar(scaleFactor);
-      rightHand.position.set(0.22, 0.35, 0.05);
-      rightHand.rotation.set(0, 0, 0);
-      applyMaterial(rightHand);
-      scene.add(rightHand);
-
-      leftHand.updateMatrixWorld(true);
-      rightHand.updateMatrixWorld(true);
-
-      const leftBones = collectBones(leftHand);
-      const rightBones = collectBones(rightHand);
-
-      sceneDataRef.current = {
-        leftHand,
-        rightHand,
-        leftBones,
-        rightBones,
-        leftRestQuats: saveRestPose(leftBones),
-        rightRestQuats: saveRestPose(rightBones),
-        mainMat,
-      };
-
-      setIsModelLoaded(true);
-      updateStatus('Mô hình 2 bàn tay 3D sẵn sàng');
-    }
 
     async function loadVrmAvatar() {
       const vrmUrl = resolveExtensionUrl('models/avatar.vrm');
@@ -489,6 +659,7 @@ const AvatarScene3D = forwardRef(function AvatarScene3D(
       const vrm = gltf.userData.vrm;
       if (!vrm) throw new Error('avatar.vrm lacks VRM metadata');
 
+      removeNonHumanAccessories(gltf.scene);
       VRMUtils.removeUnnecessaryVertices(gltf.scene);
       VRMUtils.combineSkeletons(gltf.scene);
       VRMUtils.rotateVRM0(vrm);
@@ -499,6 +670,10 @@ const AvatarScene3D = forwardRef(function AvatarScene3D(
       const size = box.getSize(new THREE.Vector3());
       vrm.scene.scale.setScalar(1.35 / Math.max(size.y, 0.01));
       vrm.scene.position.set(0, 0, 0);
+
+      // Mặc Áo dài Việt Nam màu đỏ có ngôi sao vàng ở chính giữa + đội Nón lá
+      applyVietnameseAoDaiAndNonLa(vrm);
+
       vrm.scene.traverse((node) => {
         if (!node.isMesh) return;
         node.castShadow = true;
@@ -579,27 +754,9 @@ const AvatarScene3D = forwardRef(function AvatarScene3D(
           anim.isTransitioning = false;
           anim.transitionProgress = 1;
         }
-        if (anim.currentFrames.length > 0) {
+        if (anim.currentFrames.length > 0 && sd.vrmRetargeter) {
           const firstFrame = anim.currentFrames[0];
-          const t = easeInOutCubic(Math.min(anim.transitionProgress, 1));
-          if (sd.vrmRetargeter) {
-            sd.vrmRetargeter.apply(firstFrame, delta);
-          } else if (firstFrame.left_hand) {
-            const from = anim.prevLeftLandmarks || firstFrame.left_hand;
-            applyHandLandmarks(
-              sd.leftBones,
-              sd.leftRestQuats,
-              lerpLandmarks(from, firstFrame.left_hand, t)
-            );
-          }
-          if (!sd.vrmRetargeter && firstFrame.right_hand) {
-            const from = anim.prevRightLandmarks || firstFrame.right_hand;
-            applyHandLandmarks(
-              sd.rightBones,
-              sd.rightRestQuats,
-              lerpLandmarks(from, firstFrame.right_hand, t)
-            );
-          }
+          sd.vrmRetargeter.apply(firstFrame, delta);
         }
         return;
       }
@@ -612,9 +769,6 @@ const AvatarScene3D = forwardRef(function AvatarScene3D(
         anim.currentFrameIdx++;
 
         if (anim.currentFrameIdx >= anim.currentFrames.length) {
-          const lastFrame = anim.currentFrames[anim.currentFrames.length - 1];
-          anim.prevLeftLandmarks = lastFrame?.left_hand || null;
-          anim.prevRightLandmarks = lastFrame?.right_hand || null;
           playNextInQueue();
           return;
         }
@@ -645,19 +799,6 @@ const AvatarScene3D = forwardRef(function AvatarScene3D(
             ),
           },
           delta
-        );
-      } else if (frame.left_hand) {
-        applyHandLandmarks(
-          sd.leftBones,
-          sd.leftRestQuats,
-          lerpLandmarks(frame.left_hand, nextFrame?.left_hand || frame.left_hand, t)
-        );
-      }
-      if (!sd.vrmRetargeter && frame.right_hand) {
-        applyHandLandmarks(
-          sd.rightBones,
-          sd.rightRestQuats,
-          lerpLandmarks(frame.right_hand, nextFrame?.right_hand || frame.right_hand, t)
         );
       }
     }
