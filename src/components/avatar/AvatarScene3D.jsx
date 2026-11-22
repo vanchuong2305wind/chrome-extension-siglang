@@ -735,9 +735,11 @@ const AvatarScene3D = forwardRef(function AvatarScene3D(
       anim.isTransitioning = true;
       anim.transitionProgress = 0;
 
-      const label = `Đang ký: ${current.vi} (${current.gloss.toUpperCase()})`;
+      // VieSign dùng mã vsl-… nên hiển thị ngôn ngữ (VSL/ASL) thay cho mã.
+      const tag = current.language ? current.language.toUpperCase() : current.gloss.toUpperCase();
+      const label = `Đang ký: ${current.vi} (${tag})`;
       updateStatus(label);
-      setCurrentGloss(current.gloss);
+      setCurrentGloss(current.language ? current.vi : current.gloss);
       callbacksRef.current.onPlayingSign?.(current);
     }
 
@@ -860,19 +862,23 @@ const AvatarScene3D = forwardRef(function AvatarScene3D(
   }, [updateStatus]);
 
   /* ---------- Load Landmarks Directly from Bundled Extension Files ---------- */
+  // Ký hiệu VieSign mang sẵn đường dẫn `landmark` (data/viesign/landmarks/… hoặc
+  // data/landmarks_v2/… cho từ ASL bổ sung); bộ ASL cũ vẫn dùng data/landmarks_v2/<gloss>.json.
   const loadLandmarks = useCallback(async (sign) => {
     const glossKey = (sign.gloss || '').toLowerCase().trim();
     if (!glossKey) return null;
 
+    const relativePath = sign.landmark || `data/landmarks_v2/${encodeURIComponent(glossKey)}.json`;
+    const loaded = (data) => ({ gloss: glossKey, vi: sign.vi, language: sign.language, data });
     const cache = landmarkCacheRef.current;
-    const cached = cache.get(glossKey);
+    const cached = cache.get(relativePath);
     if (cached) {
       const data = await cached;
-      return data ? { gloss: glossKey, vi: sign.vi, data } : null;
+      return data ? loaded(data) : null;
     }
 
     const request = (async () => {
-      const fileUrl = resolveExtensionUrl(`data/landmarks_v2/${encodeURIComponent(glossKey)}.json`);
+      const fileUrl = resolveExtensionUrl(relativePath);
       const resp = await fetch(fileUrl);
       if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
       const data = await resp.json();
@@ -880,13 +886,13 @@ const AvatarScene3D = forwardRef(function AvatarScene3D(
       return data;
     })();
 
-    cache.set(glossKey, request);
+    cache.set(relativePath, request);
     try {
       const data = await request;
-      cache.set(glossKey, data);
-      return { gloss: glossKey, vi: sign.vi, data };
+      cache.set(relativePath, data);
+      return loaded(data);
     } catch (err) {
-      cache.delete(glossKey);
+      cache.delete(relativePath);
       throw err;
     }
   }, []);

@@ -28,6 +28,23 @@ import {
 import AvatarScene3D from './components/avatar/AvatarScene3D';
 import useSpeechRecognition from './hooks/useSpeechRecognition';
 import { translateTextToSigns, signDict } from './services/signEngine';
+import { translateTextToVieSigns, viesignDict } from './services/viesignEngine';
+
+// VieSign (ký hiệu Việt Nam, giống signlangue) là mặc định; bộ ASL/WLASL cũ vẫn giữ để chọn lại.
+const DATASETS = {
+  viesign: { label: 'VieSign', title: 'Ngôn ngữ ký hiệu Việt Nam (VieSign)', dict: viesignDict, translate: translateTextToVieSigns },
+  asl: { label: 'ASL', title: 'Bộ dữ liệu ASL/WLASL cũ (2000 từ)', dict: signDict, translate: translateTextToSigns },
+};
+const DATASET_STORAGE_KEY = 'signlang.dataset';
+
+function readSavedDataset() {
+  try {
+    const saved = window.localStorage.getItem(DATASET_STORAGE_KEY);
+    return DATASETS[saved] ? saved : 'viesign';
+  } catch {
+    return 'viesign';
+  }
+}
 import './App.css';
 
 function formatTime(sec) {
@@ -96,6 +113,8 @@ export default function App() {
   const [playingGloss, setPlayingGloss] = useState(null);
   const [manualInput, setManualInput] = useState('');
   const [errorBanner, setErrorBanner] = useState('');
+  const [dataset, setDataset] = useState(readSavedDataset);
+  const activeDataset = DATASETS[dataset];
 
   const lastTranslatedSentenceRef = useRef('');
   const lastPlayedCueRef = useRef(-1);
@@ -128,12 +147,30 @@ export default function App() {
   }, [isFullAvatar, toggleFullAvatar]);
 
   useEffect(() => {
-    signDict.load().catch((err) => {
-      console.error('[App] Lỗi tải từ điển:', err);
-    });
     return () => {
       if (modelPollRef.current) clearInterval(modelPollRef.current);
     };
+  }, []);
+
+  useEffect(() => {
+    activeDataset.dict.load().catch((err) => {
+      console.error('[App] Lỗi tải từ điển:', err);
+    });
+  }, [activeDataset]);
+
+  const handleToggleDataset = useCallback(() => {
+    setDataset((prev) => {
+      const next = prev === 'viesign' ? 'asl' : 'viesign';
+      try {
+        window.localStorage.setItem(DATASET_STORAGE_KEY, next);
+      } catch {
+        // ignore
+      }
+      return next;
+    });
+    avatarRef.current?.stopAnimation?.();
+    setTranslation(null);
+    lastTranslatedSentenceRef.current = '';
   }, []);
 
   const playOnAvatar = useCallback((signList) => {
@@ -178,7 +215,7 @@ export default function App() {
       setErrorBanner('');
 
       try {
-        const result = await translateTextToSigns(clean);
+        const result = await activeDataset.translate(clean);
         setTranslation(result);
 
         if (result.signs.length > 0) {
@@ -188,17 +225,17 @@ export default function App() {
         console.warn('[App] Lỗi dịch:', err);
       }
     },
-    [playOnAvatar]
+    [playOnAvatar, activeDataset]
   );
 
   // Tải trước (prefetch) toàn bộ dữ liệu landmark của các câu thoại trong video để đạt độ trễ 0ms
   const prefetchVideoLandmarks = useCallback(async (cueList) => {
-    await signDict.load();
+    await activeDataset.dict.load();
     const parsedList = [];
     const uniqueSigns = new Map();
 
     for (const cue of cueList) {
-      const res = await translateTextToSigns(cue.text);
+      const res = await activeDataset.translate(cue.text);
       parsedList.push(res);
       for (const s of res.signs) {
         if (s.found && s.gloss && !uniqueSigns.has(s.gloss)) {
@@ -211,7 +248,7 @@ export default function App() {
     // Nạp trước các từ xuất hiện trong video vào bộ nhớ đệm của Avatar 3D
     const signsToPreload = Array.from(uniqueSigns.values());
     avatarRef.current?.preloadSigns?.(signsToPreload.slice(0, 35));
-  }, []);
+  }, [activeDataset]);
 
   const {
     state: speechState,
@@ -442,6 +479,16 @@ export default function App() {
         </div>
 
         <div className="ext-header-actions">
+          <button
+            type="button"
+            className={`ext-icon-btn ${dataset === 'viesign' ? 'active' : ''}`}
+            style={{ width: 'auto', padding: '0 10px', fontSize: '11px', fontWeight: 700 }}
+            title={`Bộ dữ liệu: ${activeDataset.title} — bấm để đổi`}
+            onClick={handleToggleDataset}
+          >
+            {activeDataset.label}
+          </button>
+
           <span className="ext-moss-badge">
             <span className="ext-moss-dot" />
             {videoState.hasVideo && !videoState.paused ? 'Live Syncing' : 'Ready'}
@@ -664,7 +711,9 @@ export default function App() {
                   title={`Bấm để xem động tác: ${sign.vi} (${sign.gloss})`}
                 >
                   <span className="chip-vi">{sign.vi}</span>
-                  <span className="chip-en">{sign.gloss}</span>
+                  <span className="chip-en">
+                    {sign.language ? sign.language.toUpperCase() : sign.gloss}
+                  </span>
                 </button>
               );
             })}
