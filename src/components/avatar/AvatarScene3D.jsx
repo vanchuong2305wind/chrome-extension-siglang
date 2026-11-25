@@ -735,10 +735,7 @@ const AvatarScene3D = forwardRef(function AvatarScene3D(
       anim.isTransitioning = true;
       anim.transitionProgress = 0;
 
-      // VieSign dùng mã vsl-… nên hiển thị ngôn ngữ (VSL/ASL) thay cho mã.
-      const tag = current.language ? current.language.toUpperCase() : current.gloss.toUpperCase();
-      const label = `Đang ký: ${current.vi} (${tag})`;
-      updateStatus(label);
+      updateStatus(`Đang ký: ${current.vi}`);
       setCurrentGloss(current.language ? current.vi : current.gloss);
       callbacksRef.current.onPlayingSign?.(current);
     }

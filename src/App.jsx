@@ -708,12 +708,9 @@ export default function App() {
                   type="button"
                   className={`ext-gloss-chip ${isPlaying ? 'active' : ''}`}
                   onClick={() => playOnAvatar([sign])}
-                  title={`Bấm để xem động tác: ${sign.vi} (${sign.gloss})`}
+                  title={`Bấm để xem động tác: ${sign.vi}`}
                 >
-                  <span className="chip-vi">{sign.vi}</span>
-                  <span className="chip-en">
-                    {sign.language ? sign.language.toUpperCase() : sign.gloss}
-                  </span>
+                  {sign.vi}
                 </button>
               );
             })}

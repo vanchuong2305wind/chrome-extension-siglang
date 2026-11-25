@@ -526,10 +526,10 @@
 .ext-gloss-chip {
   display: inline-flex;
   align-items: center;
-  gap: 5px;
   padding: 4px 10px;
   border-radius: 100px;
   font-size: 11.5px;
+  font-weight: 700;
   cursor: pointer;
   background: var(--tag-bg);
   border: 1px solid rgba(75, 45, 21, 0.15);
@@ -545,31 +545,11 @@
   font-style: italic;
 }
 
-.ext-gloss-chip:hover .chip-en {
-  color: var(--bg-oatmeal);
-}
-
 .ext-gloss-chip.active {
   background: var(--accent-moss);
   border-color: var(--accent-moss);
   color: var(--bg-cream);
   box-shadow: 0 2px 8px rgba(50, 88, 37, 0.25);
-}
-
-.ext-gloss-chip.active .chip-en {
-  color: var(--bg-cream);
-}
-
-.chip-vi {
-  font-weight: 700;
-}
-
-.chip-en {
-  font-family: var(--font-serif);
-  font-style: italic;
-  font-size: 10px;
-  text-transform: uppercase;
-  color: var(--accent-moss);
 }
 
 /* Manual input & sample pills */
