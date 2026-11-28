@@ -1,0 +1,4466 @@
+vsl-e530a4ec95132d4fdc30	tôi
+vsl-a2e15d9d7a8d92f146db	bạn
+vsl-63212601c9d62167abf4	chào
+vsl-8aaecd06d85c7f743d35	xin chào
+vsl-def27973aeed2adc7fdf	cảm ơn
+vsl-add350465f84fd73e8e5	xin lỗi
+vsl-0ec84c3fdadbdb8c0d84	không
+vsl-5cf219bdecbf1936bbf5	chưa
+vsl-0a78ad59517262e0f253	muốn
+vsl-e7dd41d2407658c46ee8	cứu
+vsl-15470a340cbabe2a91bd	đau
+vsl-a1d849270aa3801cae13	ở đâu
+vsl-b9fef27d814a549c2bfd	hôm nay
+vsl-285f40421201fa1ad9d8	ngày mai
+vsl-b296050694ba7cbe39de	tạm biệt
+vsl-b224805e1139bf4e6336	gia đình
+vsl-7b87ef07f711b0331b96	mẹ
+vsl-81d2e9131590df439a24	bố
+vsl-b8216256c432b8cea6d7	ăn
+vsl-ca1a350fb99675765b90	uống
+vsl-a2a970e1200ea5c44cd0	nước
+vsl-8af0322af1a5814f034c	nhà
+vsl-61e2f157d1e5aca198a5	trường học
+vsl-d364408233d68ac752ef	bệnh viện
+vsl-32b88ebf0168d40869c3	bác sĩ
+vsl-2f73f175c0955e2e9a35	điện thoại
+vsl-471b15800a0e807ab559	đi
+vsl-80b69c87ec1ee0021f16	đến
+vsl-f3edcc620f4aca6b3b23	về
+vsl-4f589488c45405b82c11	làm
+vsl-afea00de1d5603788895	học
+vsl-462075e5128e41c383a0	đợi
+vsl-c50123de5919373e7882	đúng
+vsl-83eb5874f315bf4b4dbf	sai
+vsl-8e3aafe8f85bcb4a59bc	có
+vsl-162cd5b03be047a9e09a	tình cảm
+vsl-85aa0abbe30280b2441c	giúp đỡ
+vsl-2f20c57ffd715068f7dd	thật thà
+vsl-e1dc8c123a5b976c2446	đầu đĩa
+vsl-b975a9f564cac5b98aaf	quần bò
+vsl-8a856942911a58221940	tự lập
+vsl-543aa8ed587b907d2ec2	vâng lời
+vsl-229cc14ce93b14fa59a6	xe máy
+vsl-fde153f84d613b014f34	xe buýt
+vsl-3d506a76a545d23fd4e9	yêu
+vsl-eb0affc0fd9119d60a68	điều hòa
+vsl-4d7c18630fd35ce8a21e	con mèo
+vsl-009b3f22c6fe6a84bcf7	con mực
+vsl-96ada157d1f715bd47ed	muối
+vsl-82ffff28b3c79402cb14	quần âu
+vsl-0e7a7e95127318738517	bức tranh
+vsl-3b1579381329ffd3f4c6	môn toán
+vsl-15990f76234c40fbd2ab	con khỉ
+vsl-e0aed21ba5d93e520c75	kéo
+vsl-4875e9415922974a7cbd	trà
+vsl-9d74c03a1968b3c3632e	tủ
+vsl-4bc05ae244c2daf5e679	đường
+vsl-bf4b8931a2e7222d1d93	con chó
+vsl-7d9a1b113e955dde42b6	rửa bát
+vsl-2a8fa39ab44c9941e816	ô tô
+vsl-2f2ddef5daae7f95e7d2	giấy màu
+vsl-96c1da4ec550a02109c0	lòng đường
+vsl-763f66723bed682b83df	lọ mực
+vsl-07a62ff84b59b29ca20e	chăm sóc
+vsl-df91d3b519bab586f4cc	vòi nước
+vsl-db04ac10c329449bed08	ê ke
+vsl-368c6b4d698689cbc8d0	phòng khách
+vsl-9d5c79d9969ff7a91a92	bể cá
+vsl-b5dff28e516aafaf3e19	thoải mái
+vsl-ed5129a58ebb8c5f291f	hồ dán
+vsl-9dcc4ab409693fbf6e44	gọt bút chì
+vsl-dffe64b5f657d7fa6537	môn tiếng việt
+vsl-d9300d9df76a0a168d5b	môn đạo đức
+vsl-14ea501c5b9f0546ba96	hiểu
+vsl-58e9dac65d2b298c9a42	hư
+vsl-47143a1fccaa31d5b773	ghét
+vsl-207c74e54fb197d85f66	nói dối
+vsl-88c9e9785c583768b6ef	sinh tố
+vsl-fe3ae45e5d138cde3ed4	con voi
+vsl-6994894741a243da9238	tự tin
+vsl-ae22473cb8e9cb527546	bộ đội
+vsl-298d367a083702b7e677	con bò
+vsl-1b5d0c1a446d380aeffc	nước mắm
+vsl-a6eba3b5ce86f860b487	áo phông
+vsl-a8c41ce44ea7e83fca90	com pa
+vsl-b31d5dd5069838287f77	xe đạp
+vsl-c5a229a8b0c0ce70740e	lau nhà
+vsl-cf7dcf2b8298d3a3015f	xà phòng
+vsl-8132244fa3150918585f	nấu ăn
+vsl-48de446a60fb400fff0e	nước tương
+vsl-6daa62cbe6ba952d8297	mỳ chính
+vsl-800f34f4c4041eca3ff5	giày thể thao
+vsl-a4fe03bbf6fd1ed06e17	con sư tử
+vsl-ff3fa2c270a76225454e	bồn rửa mặt
+vsl-3ae0d18b9dacbd2eff60	sơn
+vsl-12929c84622b0b5fdc29	ôm
+vsl-45b9c8d0d680f891ec18	ghế
+vsl-65e6f7adf7206e0183e4	phấn
+vsl-fea5558b2dc2ee95ab2f	con ếch
+vsl-afabdf9a8393cc5779fa	vỉa hè
+vsl-f22bb4e3ed6371d59a92	hót rác
+vsl-c2466039d0aff1a5b4b0	áo khoác
+vsl-c17a7f4ba1592f12b697	phấn màu
+vsl-86713f8ce12e53031046	người quen
+vsl-b541ddc6d6578e2dc2ab	cầu lông
+vsl-2b70a7f20a9e002ec1d8	lớp trưởng
+vsl-354887cfa16a8c33b63e	con gà
+vsl-c3c0c57eaa3a752d697d	lớp phó
+vsl-8fd6cb58177639fe2fc6	cái chiếu
+vsl-6df8c520d7b542419c8b	cá voi
+vsl-06eddcf0a019e56a4601	dầu ăn
+vsl-3589125af87986e7d2b8	mặt trời
+vsl-838381fac12ca461c3b8	bông tắm
+vsl-d04a5a37f6e33c5bf49f	áo sơ mi
+vsl-3c2de8a037de646a5724	trường cấp hai
+vsl-9a15c323481b2394e58b	nồi
+vsl-5e429bf1be0289f59cef	tiêm
+vsl-dfb3c9aac79bac448ca7	sau
+vsl-e0a3ed703446862b42cd	kẹo
+vsl-3519f473e8ad1615482c	cốc
+vsl-01cb79234ea25c63bb77	vé
+vsl-edc92d93440eae6c2347	phở
+vsl-22e6f96e3d189a00b70c	trước
+vsl-398e87d2a3b5b1eb31cb	canh
+vsl-cba2d4d0c5da9a9af767	yếu
+vsl-a1e5eabbc0990fa4cf07	bát
+vsl-3ed8bec62b7f44a9d0a6	chăn
+vsl-d119e17f0f97aeb85830	trẻ
+vsl-27a0ca51fe8db56e5cd4	màn
+vsl-4b2f3cf33eca60c922e7	sủa
+vsl-0e6fc19a9e494b456a14	giặt
+vsl-3a4405284a7a9f5b56c5	thạch
+vsl-00db7fb640a62b2d9a9b	mặn
+vsl-78a7b705fcf9bf10c43c	con tôm
+vsl-8582ba74a3a997fd2ec8	rau cải
+vsl-ff909e662aac176daa87	ông nội
+vsl-cf918f3bb8a088c837d8	rau ngót
+vsl-ab61bc64f6d3eced27f1	quả nhãn
+vsl-ff4b0f5222e1b033a742	phi công
+vsl-2b06353aa16e14c52d56	độc ác
+vsl-3959a3f82a97364e54ee	đá bóng
+vsl-0ad86e05c9e81d1a996d	nước ngọt
+vsl-d43c4bc3a66d02eab067	người lạ
+vsl-495135fb0ef458fcbfa4	bà ngoại
+vsl-c486eda75bb8dc7bcb6e	mỳ tôm
+vsl-4b1b9621647b63b6b3b9	bóng rổ
+vsl-37573ce319651811305b	con ốc
+vsl-3aa0c382f894b57c0157	nguy hiểm
+vsl-783a2913f966a01cf100	giá vẽ
+vsl-70c03c99e07092cbf9ae	cấp cứu
+vsl-690241cd09d17bf3b9a2	hiệu trưởng
+vsl-ef00429a7756f420dacd	bồn tắm
+vsl-c2a776b236cec44b3f80	màu nước
+vsl-b70870e8dc8e871bcfda	mua vé
+vsl-9f93997ec5c725632eb0	con hổ
+vsl-b2b4c37b86c3858214de	bến tàu
+vsl-ca75fa7aee21ed2021f8	chú rể
+vsl-85584b1def50d2b363df	diễn viên
+vsl-c49911a3b77df243fbc9	ghế sofa
+vsl-c40d1d1b831663952681	con vịt
+vsl-0b954ba7dd139b396132	con chim
+vsl-d1dad99b2e3ce258d8dd	con sóc
+vsl-6c1b2dcb50d6a4916b63	công tắc
+vsl-6b72c08f0109551e6b9c	tủ lạnh
+vsl-9fa8fdf2984352383094	phòng ngủ
+vsl-a70b9dbb0a0e0ecf33f2	bồn cầu
+vsl-806001be6a5adde25128	áo len
+vsl-6b3e99cb6e7e93dad65e	sàn nhà
+vsl-48ad2a780bd18a14e796	bàn thờ
+vsl-8187751b9750a7f90ba4	tranh giành
+vsl-26b063f7c875ddb9f7b6	trạm y tế
+vsl-63f132e3b386f47c7605	rau mồng tơi
+vsl-128b26d54bea5fc50f88	trạm xe buýt
+vsl-fc7419a2f455b6326313	ấm đun nước
+vsl-d099bdbfa7c236cce1e1	người lái xe
+vsl-d0cf458bd64d6b0b3385	mũ lưỡi trai
+vsl-7d0b9cf70f481581e33b	máy vi tính
+vsl-666188577600fdd1283a	nước hoa quả
+vsl-f2d775622c8f1edaf295	dầu gội đầu
+vsl-0c5febc271fbfd9b53bb	xà phòng giặt
+vsl-1e13e9b8d3f6e40d642a	trường cấp ba
+vsl-864f14ae9d2c44c99873	đồng hồ treo tường
+vsl-5c6ef05c88cd4ce3859b	giấy
+vsl-e21ef299a0c39ff3cf41	mời
+vsl-2080150a7f6914e9d0e9	kem
+vsl-f8308c8a2ae4c91de38d	cơm
+vsl-dc5ea85c3de811e67f0d	cá
+vsl-6e5ed49aebca71938514	cay
+vsl-40d8c6a2a3bd5b5e9ed2	nặn
+vsl-ed4c4df730b06aa2a87f	hôn
+vsl-b0386740ac5a73f10cb4	bút
+vsl-2dd411308b37266d33c9	ao
+vsl-339349c255afaca62d13	đệm
+vsl-3156d4ac09a12e1a5a63	ti-vi
+vsl-d5a8d0643d357a7493e3	rừng
+vsl-496b2c6bfca01d5066a9	đĩa
+vsl-b5025ad3d9d73198392f	ngọt
+vsl-a4cb8249d750e26c53cf	gối
+vsl-0d67b68e9b5520408b94	con lợn
+vsl-b2459ea8d3a9220bd5c8	đèn vàng
+vsl-a0b2200d22c4f26213d2	đèn xanh
+vsl-34462b0801df2e8533b6	đèn điện
+vsl-8be84bcb4005ea03ac23	sân thượng
+vsl-395edbfd14c9284a1798	thông minh
+vsl-361954d5325dd4ef7bcf	sợ hãi
+vsl-90d22f6dfdae40cdc5e0	đường phố
+vsl-fa7db3764b6a2228b3d2	cảm cúm
+vsl-d3883df9de195432e9f3	sang đường
+vsl-3d041784b7ae0bde44cd	vất vả
+vsl-e99a899a8906fdba7836	hàng ngang
+vsl-d599c55cbaf883b64a4f	kẹp tóc
+vsl-f8a3ba3729659f052054	con ngựa
+vsl-9395f2ce9c04fcb0bbf7	ấm trà
+vsl-7c59ed8381022d9b13b3	ông ngoại
+vsl-2b4bcce8f9ff51055518	bà nội
+vsl-f123584bfea3da11edea	hội trường
+vsl-571148738f09714a6549	đường làng
+vsl-54d718f6a9990b0c3158	người mẫu
+vsl-b320491d0b74b1e45222	dưa hấu
+vsl-a8a91f2321fcf9ff351a	công an
+vsl-bd47caec50c3bbb484d6	bắp cải
+vsl-154a7ef22311568770bc	bệnh nhân
+vsl-365a5dd1ab0b37b974c8	con trâu
+vsl-3100db9a3c4c6580c349	xích đu
+vsl-4d2e4c8a891081d3a32f	quạt trần
+vsl-537a11a92fb859064e3d	bí xanh
+vsl-efba26f4d23ceff5e801	phòng bếp
+vsl-e55e46818490a3e88e64	trầy xước
+vsl-43a188a21eb031fd4bdb	con hươu
+vsl-1909fa3c10851f508e8e	hành khách
+vsl-f4d665ffc7d6feff1b39	con nuôi
+vsl-e400cf1c4240528f31e1	bế giảng
+vsl-83c6ffbcda066d50576c	nhà xe
+vsl-de30c0f808582e0d7b48	vòng tròn
+vsl-b0d942742c7cdad619d3	trần nhà
+vsl-60f05388ab6562a7a5e0	tô màu
+vsl-478999b2bcaf6d377e2a	bút màu
+vsl-0687fa7c60eee762e2d4	sữa tắm
+vsl-4c7c46945559ec130671	vòng tay
+vsl-558ce254eb31edda390c	con nai
+vsl-ad7e25c4948b98e7e872	bầu trời
+vsl-26da6a2b3250ae9e6375	cá vàng
+vsl-65d68846430057c8c737	dép quai hậu
+vsl-66266b4ffe9dec7862c2	xe xích lô
+vsl-77688432dc16c5870612	tập thể dục
+vsl-4165ba27c839ac28a82f	sữa rửa mặt
+vsl-dacceb063782b7d51c66	áo ba lỗ
+vsl-b3e571d0e8753adc01fb	xe cứu thương
+vsl-687d9bff178344b5d020	môn kỹ thuật
+vsl-3e62b8b7c1339792a230	môn mĩ thuật
+vsl-b311049e414f101b1e6d	trường mầm non
+vsl-da5fe14252ec3a719c75	máy tính bỏ túi
+vsl-2c5fbcd405cc113dea5a	môn tự nhiên xã hội
+vsl-39b681cce0d5a013ef87	thác
+vsl-8ab9ad26f0f2700913cc	xây
+vsl-a821c62e8104f8519d63	ho
+vsl-f7c3f4bdb143504ad571	mệt
+vsl-89d757e06cc0f06a34f4	sữa
+vsl-c92e539329625a5a382b	đũa
+vsl-14d584ebebf4f5630d01	sáng
+vsl-6919d962bc37d1eb392a	mở
+vsl-188e5399bd64a648e994	múa
+vsl-10f542adeee6b776e82e	quạt
+vsl-ebda18dc5211aa4d9011	đọc
+vsl-9ff3e8e40ac582801768	dán
+vsl-0c5095899c0fbdbd86e8	hồ
+vsl-fdb3039d5a933c2b8ca6	thảm
+vsl-e4b8b7bef89d83b7b11b	nhạt
+vsl-3c862eca78c03d61dcb7	xé
+vsl-ea99c21cbbac3398be17	cố gắng
+vsl-c467f9e9276ae02da0d4	nhường nhịn
+vsl-b4e5bc0987571d2e9193	trung bình
+vsl-9ef6b931fe2fe447b683	tham quan
+vsl-6a3cf956de9f67276675	áo dài
+vsl-3e7079b19a0a0eb2ceda	không hiểu
+vsl-c2c8d814b08b2fa4c1ad	y tá
+vsl-5bf0c0e14947f002ea7f	que tính
+vsl-d7bc496710ba1725f952	cô dâu
+vsl-2cb0e3be793344ee730f	băng dính
+vsl-0280a23ef06f5e55924f	bắn bi
+vsl-835f9275cfbc044571cb	làm việc
+vsl-1b3738c31116b8df0cdf	cà chua
+vsl-21bb0fd96ab9c95bea27	nghỉ học
+vsl-ab7cfecaaf32464d5901	bờm tóc
+vsl-0e01755e8a40f161789c	an toàn
+vsl-9381038cfa762a90cb70	bóng chuyền
+vsl-9d50257c2171cb51212a	bí đỏ
+vsl-ecf67f5ae947c932b628	đồng cỏ
+vsl-61431c801ed73750f887	chữa bệnh
+vsl-408ce4b809954e98b3fa	con rắn
+vsl-10213008c7dc67e89936	con cua
+vsl-7b5d2f35ea627465e679	thợ xây
+vsl-b1afdfc3f0dd4c6e0220	kệ sách
+vsl-0f42dbfea28166554302	khẩu trang
+vsl-9c20e41c9241bb319555	điều khiển
+vsl-d0d7f4f85f5cb9b66669	dây buộc tóc
+vsl-1d0a44f443619cf0f0fd	thợ cắt tóc
+vsl-3b527a8813da82092bc3	trường cấp một
+vsl-77598b3a31bf1a1774e8	đồ dùng học tập
+vsl-719717c45f3f6f0fd79f	chơi
+vsl-d8cc142da12d048d0ad3	hỏi
+vsl-a2bffd347267d18ec6ff	kém
+vsl-38042eb9047e9d6f6a79	suối
+vsl-e3b98a4da31a127d4bde	t
+vsl-f4ddd195cab04430d459	tai
+vsl-271f6a9e368cb84cf125	nón
+vsl-a96b023550a6e3f690ab	chị
+vsl-2093ea0811829deeb33c	áo
+vsl-2491e9934f2d569361d4	giờ
+vsl-e909e5498202090f9fd2	má
+vsl-b8c066ae10d522bc68e5	hát
+vsl-c343f041a1c2038b7ddd	sưng
+vsl-451bb93b2972fbc4f112	mũ
+vsl-c452420738770799878f	mũi
+vsl-ff97296b036c34d0033d	già
+vsl-dd267765fcc99255d839	bùn
+vsl-8de61bbe45e825bfabf2	tối
+vsl-84a47f61dd341ce73139	em
+vsl-6ad0427a1205be81b9ec	bảng
+vsl-9797669cc4d609eeac72	sông
+vsl-d2b2c6566f69436d73cb	cây
+vsl-3779c5e906e36e5f918c	ngoài
+vsl-0d2364b51bd1db6eec27	nói
+vsl-c91d3122d0be159a16b3	chồng
+vsl-276623cd63a3fb7cb6b6	cát
+vsl-137168b411e3d2e5ab6e	viết
+vsl-a43655ff30eaac368a99	tường
+vsl-7455f95a781e3149c355	ruột
+vsl-1a47a3c61d4db7fbdfa4	xôi
+vsl-3d8d18e0a12d93b55352	thắng
+vsl-dea6d44e672c99096a5a	núi
+vsl-795d0444a99bd6dda888	con kiến
+vsl-4cf0e68c31319d56340d	quyển vở
+vsl-3d36f2656a83c50ecbac	quả cam
+vsl-800b370f2b12df9dc54d	quần đùi
+vsl-8b5bcaefa805e34b0663	phát biểu
+vsl-c481dee6b9a2d9bb0eb8	quả nho
+vsl-eeb7f0b71e9c4a57a64c	quả chuối
+vsl-55bdeeeaadd82c07c59a	đèn đỏ
+vsl-283500cc46f3d201e138	thầy giáo
+vsl-c4498c925c3a264fdff4	cầu vòng
+vsl-7829924e5d3c91e44309	ngôi sao
+vsl-805f39141f61dbf6a27c	đánh trống
+vsl-6ef6af5a892f23f20b15	cá heo
+vsl-0773503ee84ab13dafcc	cảnh sát
+vsl-e25b3986d0b3cc799197	lớp học
+vsl-b3d41f94d50437336118	máy bay
+vsl-9e79c71c9f77360ef7c8	quả vải
+vsl-adb77cada70e655be498	con đường
+vsl-8d6681eb3ec1a7b3415d	sữa chua
+vsl-375a367cfa5c2c7a1908	đồ chơi
+vsl-af27995c6c618ecaf369	khó chịu
+vsl-94a5dadb7674e0d3ecc7	sức khỏe
+vsl-7d286b3675f04e0f01fc	người lớn
+vsl-1c2a26d82288d2a6f5bc	cổng trường
+vsl-c7c26a5b4eb9794e969a	bập bênh
+vsl-d6ba578bb6c9eb950511	bút mực
+vsl-3436220ba354e4f1cd5b	công nhân
+vsl-a17294ff3757da8d97b3	cửa sổ
+vsl-28787d83448f43e8ac81	bút bi
+vsl-92d84dfe9627f36c5faa	cắm trại
+vsl-94ba1b719bc6ae683567	ban công
+vsl-1b76c30b31db0ed40bcf	cá sấu
+vsl-9e6e53ee1a1c3593f890	con bướm
+vsl-c6bb1038b35b32e0354f	khám bệnh
+vsl-91b8ae22bb48d5fff00b	nông dân
+vsl-2cfa43beed0914228ec4	lây bệnh
+vsl-36381649e805143f2cb7	thùng rác
+vsl-a7e39a10d00f77e68519	con gấu
+vsl-c26c627c586a26522162	nhảy dây
+vsl-b1a5e9b60ddd2d54f7ff	hàng rào
+vsl-45bcd400f2270bfb6b07	bến xe
+vsl-19fcf7ce164d8517aaa3	buổi sáng
+vsl-6f3da0a816c92830a46f	cà phê
+vsl-f4a12f2d884c232b5528	sân bay
+vsl-05a89254ce9d50068929	ghép hình
+vsl-7f7106b9e2c5c7f55a45	bếp ga
+vsl-5a34838fb0852e2e2075	mái nhà
+vsl-a2ede21f67f30de94812	buổi trưa
+vsl-8eafc2266e59bdebb988	máy tính
+vsl-fe6de6996348fec98061	chăm chỉ
+vsl-dd3b209c1c6b3d850f1c	cái thìa
+vsl-60aa18e4202e0a4f324d	con lươn
+vsl-dfe4fa9b8807613fa01b	năm học
+vsl-57dd744ab0d7aa8a1c7e	găng tay
+vsl-ff1287ddf7381eca05f8	gà gáy
+vsl-ab62bd5fd7c60ee07b97	buổi tối
+vsl-a2d80a2bc1e886024502	họ hàng
+vsl-8ee3ba5b2a46c184ea38	nhà ga
+vsl-eedf683b7ef4aa0bdc50	sổ mũi
+vsl-74ecf49e690aef7a0164	ca sĩ
+vsl-e00982d9f814e2359a8f	nhà vệ sinh
+vsl-aea455e698974578c8ce	đau mắt đỏ
+vsl-9e9ce1a4e0fe51271df8	cất quần áo
+vsl-ff770bf759c8d83e13cb	giờ ngoại khóa
+vsl-17bcdaa103c7ac4bfdc5	mặt trời lặn
+vsl-38de4f8f178bc2f8e5e2	người bán hàng
+vsl-2faabce4475b10e3f39e	gấp quần áo
+vsl-13e7ba8a53fa0c24f0f5	mặt trời mọc
+vsl-71ac32bcf864cbbe8ca6	môn thể dục
+vsl-faf12482a87812841cf1	đội sao đỏ
+vsl-2e2ab418a938f97ca06c	củ su hào
+vsl-6231230f58c5b2517e44	phương tiện giao thông
+vsl-4797b95b67d88a8c2809	đồng hồ đeo tay
+vsl-0e4d14a66b00121f4272	người lái tàu thủy
+vsl-1a318133955f14453f19	người lái tàu hỏa
+vsl-468eb532286ce000ed3e	phà
+vsl-5771d96ff32a378ce8ed	sốt
+vsl-c3cdbe28d1476809ce02	tốt
+vsl-9f5be128390f2182f1fb	váy
+vsl-12796d3d5f4e132385f8	taxi
+vsl-6281c2d1e25e49ecb20f	thuốc
+vsl-a1e141ecd45b7e5d756f	tháng
+vsl-7f3de329d0d4e647aca8	phút
+vsl-863fb2dca5111dbf19d0	ngồi
+vsl-a9a7f5e89fa7e29f1aeb	phạt
+vsl-818255285fd9eb39ff3f	bệnh
+vsl-4d450027c20172537977	sống
+vsl-1d8bf3323a723e06d200	rác
+vsl-ffefc77bef26a000e9a2	mổ
+vsl-2fa9223271a7e65fc8d6	xấu
+vsl-32526299e91fab25e668	tuần
+vsl-12ec794b0deefa084b05	trên
+vsl-22629a25845a64c126c0	năm
+vsl-e106a727d541b91fa4bc	ông
+vsl-2eaaaaa039aaace920d3	thua
+vsl-127f1dca79c943bb117b	khỏe
+vsl-f7e6313576233a6e49e0	trong
+vsl-6f78647a96096457d128	rèm
+vsl-4e4739982ec2b0fd54c5	biển
+vsl-79ab1b655aad24a5b6bc	thịt
+vsl-f6e386e86ba0518ef227	đóng
+vsl-4bf8127ee2a5fbc4127a	vẽ
+vsl-b0d2df224ddc8a2cee1a	sỏi
+vsl-c96a6815a1f0a7f802d6	dưới
+vsl-5eb93309f0f0571126e3	đất
+vsl-a542e281b8429e6a0144	mắt
+vsl-958136d5ebc36a83ea5d	tắt
+vsl-d85ff1f8e260a115528c	bật
+vsl-1a8171a4637a86a36a5a	vợ
+vsl-f1533755a2f3c4732fa0	giường
+vsl-3bd394fd12abf3f3a6ff	tivi
+vsl-45d7da35b3dbe7af2808	bàn
+vsl-1e11dbb53b9d44e1f2ba	bánh
+vsl-f8a0b589265be6a53846	sóng
+vsl-5d3293a578d101eebf9a	sân
+vsl-7f188b0b02e593544d44	kêu
+vsl-c5571993c386e5e95d3e	chết
+vsl-f8e83184a99be527a39e	chảo
+vsl-f100a000aa93b194ef45	đẹp
+vsl-58ecc34b3806ae61c7e7	nho
+vsl-707a3c64c7c00e52ae88	cam
+vsl-373bd8999bf9fd9c6478	thẳng
+vsl-738efd566bba9a99b1d8	quả mít
+vsl-2ad3c9f5ca466a7d2b44	quả xoài
+vsl-67efc714c3d7734b75a2	quả ổi
+vsl-1a1e33884b9acdc2622b	sân trường
+vsl-b66177a1d2a22d951e60	súc miệng
+vsl-4b24d52d5006abefd1b1	thương yêu
+vsl-89b89af3de4671a9c41e	tàu thủy
+vsl-eac4b47d45151bf683ff	mệt mỏi
+vsl-10010a394c63e5bdf431	cô giáo
+vsl-0b0d903e27341092f7da	tai nạn
+vsl-edfe9ac02bb8af2976ba	quét nhà
+vsl-ba57d57f7f99381c9f2e	con chuột
+vsl-0bb63b31bc9fe3f75224	đẹp không
+vsl-172d29f3fb79353c42eb	rửa mặt
+vsl-6194a490e0d1be8b270d	kéo co
+vsl-b2d3673dc668d6ba6b1a	quả táo
+vsl-7aeed1e66bb2dcf74684	lười biếng
+vsl-f7d690bd74006eac77b6	kiểm tra
+vsl-6a83831950818e2c0ded	ngã tư
+vsl-ca0b702542b2c247a4d9	trả lời
+vsl-e30d023ddf37b73d7f28	ôn tập
+vsl-7df0a6f92b0fd1c87e37	đài casset
+vsl-effce30b72daa40b7387	đánh răng
+vsl-b4c56de4cca4be6806e9	lọ hoa
+vsl-bb82c010b31408ea99e3	cà rốt
+vsl-35a09368a881f7b541b1	con đẻ
+vsl-abbe111cb7b0f7695932	chén trà
+vsl-c3fd5666c215fcf5e1cf	mắt kính
+vsl-f135539f27640ada4ba6	đứt tay
+vsl-07a829a54dfd775a5eaa	hạnh phúc
+vsl-6644e75635a079ce1d58	hộp bút
+vsl-371d02d5692679f6d4a2	thi đua
+vsl-5bf87133b0fb3f092382	áo complê
+vsl-6558d44c8659edcc4442	nhặt rau
+vsl-1bd0397445cd3a557b00	cầu thang
+vsl-60a443cca5faee02dfb1	học nhóm
+vsl-bc430d45debe5107554a	hàng dọc
+vsl-ce51dd12f75bdae4d50f	đá cầu
+vsl-17ed3b66cf17bf72e828	giấy khen
+vsl-0f8a642b3732ac310c21	chó sói
+vsl-2d7f1a2aedf7b32a3206	bút chì
+vsl-2830baee2bab72c7c856	đội kèn
+vsl-6cf896c30c078d177258	kết nạp
+vsl-6e87258c5c892776ea91	cầu trượt
+vsl-e0fa5b66fba4f5ecdb32	buổi chiều
+vsl-60c86d4049d16880f96e	bán vé
+vsl-c5a83c57fda1a74026e7	đất nặn
+vsl-b55dc9f837f44bab553a	trồng cây
+vsl-b13d1e0c44eaeeebf6f6	con rùa
+vsl-0cf4d8d9168496d7103c	đội trống
+vsl-e0ce4ade0f157b9ebd74	đám cưới
+vsl-8b78a1f34309559825b1	tàu hỏa
+vsl-c8b1cb8ad0560b7c24ab	thước kẻ
+vsl-2bb2ccdde5dab5fd3681	bắt đầu
+vsl-f6c34f9c073ccd495e1a	đoàn kết
+vsl-bfc5a8c76eaa59d6bc8a	cầu vượt
+vsl-1d0fcad51bd93e39c5a0	đoàn viên
+vsl-01aaa886bee108cf7118	lễ phép
+vsl-9840afeb7cc2471e98c5	con ong
+vsl-f982a84a39fc9080c409	thợ may
+vsl-de4fc61250b1ffe2217e	học kì
+vsl-5fb8b31f4fb0fdec35b3	hiền lành
+vsl-c3242714b6d75f547044	đu quay
+vsl-862ba3d99b2b578582b7	đội viên
+vsl-e108903ed6e2aecb1de3	lên xe
+vsl-bffedd603626fb3a7b60	thuyền buồm
+vsl-767a9d8ff3046d0d7911	xương sườn
+vsl-629ec7cc8b2ff66705a3	xương sống
+vsl-41822b7eac6d8aff13d6	trẻ em
+vsl-378fb5deddf777d8b1f3	thời khóa biểu
+vsl-893b869516a2ab6dbb2f	giờ ra chơi
+vsl-7aaec35e6a1bf5ceda87	môn âm nhạc
+vsl-d88e35c15c8738b0a400	môn thủ công
+vsl-c0d19e4483571ff07cb0	tim
+vsl-e36b1cb6966e772269f7	tám
+vsl-817789243c880b917385	ă
+vsl-aaa9402664f1a41f40eb	h
+vsl-d4735e3a265e16eee03f	2
+vsl-6038fbfb22d3d10185a8	nghe
+vsl-3bc384d33bae8f55b718	đùa
+vsl-84fce3b948a4162e60dd	nắng
+vsl-8cc28d7bb429b13e1c0d	chạy
+vsl-b1c619553bbff3a27aab	tay
+vsl-e24cffd3e72184919d19	miệng
+vsl-cc912dbca598fd80ca7f	ô
+vsl-09ca6c44fbf4e5c76a53	khăn
+vsl-1a86b1e7e56f76f2ef73	giây
+vsl-a2d86630c64dc899d50d	ngoan
+vsl-1a13add5a0157735468b	chân
+vsl-adae32fb26d4c8506596	phơi
+vsl-3d53a4deffeb2ae8d5d4	trống
+vsl-d2a84f31fe5334fe1536	nhìn
+vsl-11590b7ed3373e0924c8	dép
+vsl-1ce1ae5ed2bbed651b92	ngã
+vsl-efb00e271478a45124a7	chổi
+vsl-7f813dff052a8d454965	vườn
+vsl-322ce8417e444602816c	điểm
+vsl-616195ac03000946e6cb	tẩy
+vsl-6ded7948111cd4609c36	đá
+vsl-d51fc374f775e3651d56	xương
+vsl-8acef9cab1d747ebb7be	dấu sắc
+vsl-3233437747f6ba1386fb	dừng lại
+vsl-ed67b133a3f2c5cbe8c1	họp nhóm
+vsl-004f59c9754828b0513b	ngữ pháp
+vsl-4dd20a943d301e0285ec	ung thư
+vsl-24d571ff509048d912cc	dấu hỏi
+vsl-f9faa2e88bc196efdb33	chúng tôi
+vsl-4a84ecf0dc92f9eb917a	không quen
+vsl-22728bdac9962724f1fb	con muỗi
+vsl-31589cadf603479dd34e	chú ý
+vsl-089f7375e69b7eb94bfb	bình minh
+vsl-0ad6a6cc6f438ee02a61	khoai tây
+vsl-a607c1c00fe9b6f8fccc	chảy máu
+vsl-0338d4287552d99d4b63	mùa xuân
+vsl-0c66b20e22e11ab88d49	đơn thuốc
+vsl-8aa66e1b3d2a63b3ef69	hoàng hôn
+vsl-aa7798576820cd14cb30	ngày xưa
+vsl-2a33b859a5bbccec295a	trò chơi
+vsl-2712080b3f9c234b7227	khai giảng
+vsl-c33b631bb5578feee37d	con dế
+vsl-1fd9182c1209c6347a37	bãi biển
+vsl-5e19f5b17b3725820a83	xuống xe
+vsl-d51985f8ae51d20f5832	khăn mặt
+vsl-cc253da9864389b09f63	cục tẩy
+vsl-68b779a7eddb88c0c3de	môn học
+vsl-f550462834052c350045	bài tập
+vsl-31949d2a0ff3db8c002e	quyển sách
+vsl-a13e08ae9101fd4799f4	mặt trăng
+vsl-682c38146fac2e46823b	bó bột
+vsl-20142adccc384aa9aada	hôm qua
+vsl-d9770438d4d8729c42ed	bóng bàn
+vsl-a7a453817857fe7c7dc3	con cá sấu
+vsl-bb95038e89d3861a4ad0	con chuồn chuồn
+vsl-d92c1ee58a3998d924e6	cửa ra vào
+vsl-ef2d127de37b942baad0	5
+vsl-dd623ecab790f3ce41e1	bà
+vsl-888dfa55aca7bcb5cabd	chín
+vsl-e9c7f0b52df4abec57cd	hoa
+vsl-73ce95cebcce7443763a	kha
+vsl-9390298f3fb0c5b16049	no
+vsl-f28842e70e3883913645	phổi
+vsl-6c89a1b3c541dce63eaf	răng
+vsl-9802107d1dab67350cf5	ư
+vsl-d3c54f91225b1ad9a4c8	ngày
+vsl-e2a2e6542dc083d6be96	sách
+vsl-b9762db8c1fbfa0c7abc	tóc
+vsl-49f1b9dadd49887498ee	xinh
+vsl-1efa88a71aea48af9fbf	mây
+vsl-115ddb376a021b970d5c	â
+vsl-1a6f9842320aee806e0e	thức
+vsl-0d0127bd74817a15623d	bò
+vsl-4b04da72efc891c89216	quần
+vsl-869a72bb4b4b0be087cb	chú
+vsl-26357e34933f9f5dbeb3	ngủ
+vsl-148de9c5a7a44d19e56c	p
+vsl-7f4e3281d3057d0ee082	đứng
+vsl-e7f6c011776e8db7cd33	6
+vsl-eee1c1ade6525d246318	mi
+vsl-2f825bd9f837b1c56614	sự
+vsl-6b51d431df5d7f141cbe	12
+vsl-8fd1c5d89c76dfe4cc71	văn
+vsl-f5b962d13b6174ca6a95	tiên
+vsl-f0843c183d56156f9eb2	tắm
+vsl-8fd8fb923488be43939c	sạch
+vsl-cc496e3ccdfd69c8f941	trứng
+vsl-0ef0f6e97d785f727525	cổ
+vsl-b00c1b494c3a12a82267	bẩn
+vsl-e27581e4d6a90f255b67	bụng
+vsl-2a99130aeeee5aa3403a	gan
+vsl-e819fd1e0feaa3063b37	đồi
+vsl-76daee1631fea659d491	não
+vsl-71d25883f5d39a8f9f2b	dấu nhân
+vsl-fc35724c4370da82b045	kể chuyện
+vsl-f27eec2e21592537eed6	thực hành
+vsl-6f3671ae1e0f748ea612	thành lập
+vsl-d6c7f2ba7dcce350287c	chuẩn bị
+vsl-62d697ec81930255add7	thường xuyên
+vsl-17a730be6bcaec3e6f5b	tưởng tượng
+vsl-7f424c8e970e07e47ddd	năm tới
+vsl-5788ee38f751ebd76983	công viên
+vsl-ab407598bedf04faf826	dấu chia
+vsl-0893f85998b7abd3b7af	năm ngoái
+vsl-0ae03002e35b12caac6b	quanh năm
+vsl-261610e38e7b91a06fac	búp bê
+vsl-7e4176a812f772cb5bb9	xe tải
+vsl-b3ca4feabdc1249dec45	mùa hè
+vsl-ce3d30a0f5bf15717682	tham ăn
+vsl-42198c07eedb6b90a280	đau tai
+vsl-39765a311812b0d9170b	gội đầu
+vsl-db8c8f811ffffbe68b3e	con sâu
+vsl-321cf87e1a2be0e0d161	con gián
+vsl-71f83b080e346bf9e3e3	bánh mì
+vsl-e6bb723827ced15d63e7	chủ nhật
+vsl-02523f1dba9740d3ace9	bánh cuốn
+vsl-20156faa9523daadaa40	phơi đồ
+vsl-6a00110e051fe70b0301	hình vuông
+vsl-c4942e34f575afc1d643	cặp sách
+vsl-24ae55bb2cb35fd18f91	chìa khóa
+vsl-b7881a074c7c7e4a225a	con dê
+vsl-6d3c9e7d652f05d66058	con ruồi
+vsl-e9156819d7e038211fd1	tưới cây
+vsl-2e5ee8eddbc81836ee5a	tờ giấy
+vsl-84f206b0a1c0b661f74f	phở bò
+vsl-f5f3d97d6b9fdf3f93b1	bạn trai
+vsl-5d7f3b826f557cf233b2	bạn gái
+vsl-b0c69e28492d29d1ed23	ngón chân
+vsl-143e4042b682727b9505	địa chỉ
+vsl-697367a1cec70cc166b3	bún cá
+vsl-e08b0fa6af957822516f	rau muống
+vsl-6225c71f930008c7582c	nhiệt kế
+vsl-6fe6384899e79b9c1beb	hòn đá
+vsl-6d8e8b498d96ae564ec7	bột giặt
+vsl-74cb23b75c4b78b1c6a2	bàn tay
+vsl-2a0902d0e9b1d9c6a679	phơi quần áo
+vsl-85f48dc22fd0e1f5080a	quả chôm chôm
+vsl-21c538fe71ed9179b9fd	phó hiệu trưởng
+vsl-5dfc31d3a995463c4868	quả sầu riêng
+vsl-ac52ebff8f42e6b7cb38	ghế sô pha
+vsl-2e7d2c03a9507ae265ec	c
+vsl-929389e845d705617c2f	chuối
+vsl-18ac3e7343f016890c51	d
+vsl-c21cf658b99f01725eb9	dỗi
+vsl-134ab61d39b19919d158	gỗ
+vsl-30432b996137816c1fa9	hoặc
+vsl-de7d1b721a1e0632b7cf	i
+vsl-1b14823af68b20c932b9	nhưng
+vsl-4152769940a5944a4d8e	nấm
+vsl-8db2dba9b6c8d2937b87	quê
+vsl-d50cc19281116852b453	quận
+vsl-d0447fdf41cd06f1176f	rưỡi
+vsl-59f41e00fa06202a01f7	sắt
+vsl-0ca9f18f0e897ca5d4e1	thơm
+vsl-85e6f8cb7af21846fa1d	thận
+vsl-b020d347f129c26e1ac2	thừa
+vsl-04a3c28e464c489513ac	tiếc
+vsl-558da7cd1d11ec023fe1	xem
+vsl-454349e422f05297191e	r
+vsl-20d04b964c7ccd1ceaec	thứ
+vsl-8a58862f7dcb1ec624f2	rượu
+vsl-e6ac77d692b7eb620f7e	cướp
+vsl-56d4cbb648ea95c79ab1	thuê
+vsl-c03fd1ed708b2dd9b2d2	gạo
+vsl-3d4237d9383a7b6e60d1	chia
+vsl-0fea7fe66c92235e4461	cộng
+vsl-09120816cef5cd072b95	trêu
+vsl-6063d373c1f35d28c650	cỏ
+vsl-2ddf414f3fc4063be034	chiếu
+vsl-4769d5f6f716405c9bbc	ơ
+vsl-0bfe935e70c321c7ca3a	u
+vsl-9b791dcd72628c75ab0b	ngửi
+vsl-dc0c9e687f8fa7409e50	chùa
+vsl-284f6108950db73966df	hỏng
+vsl-1b16b1df538ba12dc3f9	n
+vsl-d9bc854cf4dca05423b9	mặc
+vsl-3e23e8160039594a3389	b
+vsl-bf502a39582f3ed3530d	đ
+vsl-ea0f72a4ca58ced6b2bb	điện
+vsl-ca978112ca1bbdcafac2	a
+vsl-481f130d42c64d44eeaf	gãy
+vsl-2fea664d703e69e08772	cởi
+vsl-231f0f17fa4183284513	quét
+vsl-b3faaebe7f9936536a26	nằm
+vsl-ba160abaca401accf88a	tất
+vsl-89e897e1ebef3c2e4069	họp
+vsl-62c66a7a5dd70c314661	m
+vsl-cd0aa9856147b6c5b4ff	g
+vsl-3b795554352a89f7d2a5	giày
+vsl-75b40f8d8c6f41f9aa50	bảo
+vsl-316c30fd9feae4e1c51f	nữ
+vsl-6b86b273ff34fce19d6b	1
+vsl-ad57366865126e55649e	100
+vsl-40510175845988f13f61	1000
+vsl-4e07408562bedb8b60ce	3
+vsl-4b227777d4dd1fc61c6f	4
+vsl-2c624232cdd221771294	8
+vsl-108b6d75f34a3ece9d73	bún
+vsl-3770340b311d35c27069	lễ
+vsl-d510ce394c546e3d2de9	anh
+vsl-6684773af609eaa033f5	lửa
+vsl-46a9866d3f5c3543b037	cháu
+vsl-62960e8a1d9967530884	xuyên
+vsl-aa697493f7b93146fec4	đỉnh
+vsl-32e83e92d45d71f69dcf	ai
+vsl-31b04060be4591abbf68	đầu
+vsl-742ae19c338e604148e3	nhầm
+vsl-7b095f9aaa19b8630382	nghé
+vsl-6d85ab63b0988fbff66d	cạnh
+vsl-9883db89d3f19bc6469f	nhân
+vsl-c3b24158706256f90264	vẫn
+vsl-4e791c46c2122027fbee	khóc
+vsl-4c4f9391b8c58accb079	suýt
+vsl-1a94994596f782874831	bớt
+vsl-be49ed3feeea532b0df7	lười
+vsl-8be2978e343799a3747a	mexico
+vsl-e97a980ea3a1aa91f09a	còi
+vsl-343472ea4c99fa057124	huyện
+vsl-b3aebd43e044326e656b	mách
+vsl-ff67c76485743539dadb	khoan
+vsl-b34c9d777ec78b8c712a	giảm
+vsl-d83d70f39685cec002a8	nhật
+vsl-54e203ba29224bef88f8	mới
+vsl-e87b18a0a9a775cff6fb	ê
+vsl-d24b8818be12cd5cb98d	mắng
+vsl-1a01dd125a6a0bcd6471	võng
+vsl-4e70bb41ec13dab961a7	chặt
+vsl-897d0e17bf8973923992	xưa
+vsl-ddf3c8a26e7de6359dfd	tre
+vsl-535fa30d7e25dd8a49f1	23
+vsl-bf4912b7433c604c5309	thổi
+vsl-eea45e23bbfe471491bb	vở
+vsl-effa56ef58989d6cf98c	xoài
+vsl-dfab276a7f74945f7401	lào
+vsl-791f3d1e72a4b94e2850	hẹn
+vsl-9fb1d3e0ff6247895ec0	phá
+vsl-a813c9cc7591cf0575ed	thìa
+vsl-703b6c618eb2af16a0ea	lưng
+vsl-8a1f57bd399c5853c6e7	anh hai
+vsl-3647d1e7af3143c5d3a3	cháu nội
+vsl-a5276e3c6670b6f97b4a	chính tả
+vsl-a7ffad45883a548f4576	chúc mừng
+vsl-4b8e1206d3c04180ae77	chúc tết
+vsl-3ee396233879d0647a7d	chăn nuôi
+vsl-45e008f8fb4642502824	chị hai
+vsl-f64388b924fbe49d927e	chị họ
+vsl-23d3ab3f07b4adb7309c	chủ tịch
+vsl-139bd0c1bbd5d42acb50	chữa bài
+vsl-18099387a265c7932b39	con bê
+vsl-ee70845d49fa02d34a2a	con cá
+vsl-ac91e1021fb1d1b0b81a	con cọp
+vsl-ffc8fc12a0222db50a11	con người
+vsl-7279a89e2baa6a27bf37	con vượn
+vsl-a5e400a57b875f33419e	cây ngô
+vsl-f62f8bb70d35b49e18d5	công nghiệp
+vsl-90bc82a91c6e1f23cb46	cần không
+vsl-e3cc667dc82e8e226523	dám làm
+vsl-03153701eb46bf678e62	dân tộc
+vsl-1cf48d6a69906fdffb06	dấu bằng
+vsl-f35a57048e2faf868156	giá trị
+vsl-bd7fd93a0b7855343e9f	gián tiếp
+vsl-814cf3fc0f7f435ae432	giấy ăn
+vsl-973bb58e55e7c3dc4f57	hi sinh
+vsl-da2468a73fcf6ac0af39	hoạt hình
+vsl-34e4056ca205a16e6aac	hàng ngày
+vsl-1cff06b46f02b49ea7cc	hồi hộp
+vsl-940a8410b4ab0b904808	không dám
+vsl-7c7d6471bbfb2adf85b7	không nên
+vsl-9db4cfc82fd4753ee1cc	lạnh lùng
+vsl-4a1f926cb4a210b102ee	mỗi ngày
+vsl-32a39c96686427e4ec2c	một tiếng
+vsl-c3848206df4f3e8643b8	người yêu
+vsl-26d86efd9e989f6abf2e	nhiệt độ
+vsl-0e8951f49a57bd2a1623	nên không
+vsl-4c2651c36690eaf0c609	phóng viên
+vsl-6c97506838ede3d14019	quyết định
+vsl-8b793663f744404f631c	quyền lợi
+vsl-d12e27c0dd98d6f7e0e5	quả lê
+vsl-a7453de2b2e423fcf551	quả roi
+vsl-e1ad23fa91aaa2db98af	sinh sản
+vsl-3bba023de4c874d11aa8	sinh đôi
+vsl-305444af74ea755d3455	sinh đẻ
+vsl-2aaeb566deb1a231c12c	sơ mi
+vsl-1d11e148335c65a0aa12	sữa bò
+vsl-c66ca341fc3d3d095346	sữa bột
+vsl-97149b2610a76641afe2	sữa dê
+vsl-94e4af8035192bec1c3b	thi cử
+vsl-8595a0f54221744dd5d2	thiếu thốn
+vsl-278b09de826b6e3ecdc6	thú y
+vsl-73f5f8e6ea82da30cae4	thăm hỏi
+vsl-bd15a277de2f4f2b4a5c	thả diều
+vsl-0b9c37c8176de0b7b2ff	thế nào
+vsl-a0e3d9ce2d2de6423445	tiết kiệm
+vsl-d65fda49df533faa2198	tuần sau
+vsl-935d131c6a6c422edcba	tìm hiểu
+vsl-1cc99a8930a28371c9ef	tóc ngắn
+vsl-40b12ddaf4eb47077bd9	tấm vải
+vsl-bf1ad40b9c392e859a71	xuất hiện
+vsl-c0885b6e4a17ea492947	đúng không
+vsl-451a0d6e7093e881ea5e	rực rỡ
+vsl-bd2caabc992ac9c63c77	tiếp tục
+vsl-e5729b736a8e30f447ab	bắt đền
+vsl-35d74c88b921041e4e95	tham dự
+vsl-bbb6d42ad2a9a492d907	mã lai
+vsl-99785c5a645a307e19b7	đường sắt
+vsl-e1c4b8d0e9af5f2cc731	ca nô
+vsl-65b5ffb1bf74501a53c8	câu thơ
+vsl-163f97421a63af247520	thiết kế
+vsl-3dd8e6b3e4b8ff7b58f1	tuần trước
+vsl-9166f3512ccf3ba0c7c8	tiếng anh
+vsl-84eae8cf4ea05ddf7cff	tái phạm
+vsl-3a8878a1a76f9e0af0ae	vải lụa
+vsl-fafa692e53dbc68ff99e	chiếc gối
+vsl-d18828a3f6720e53ae13	phải không
+vsl-63c2216ac9e2de027ae2	chuyên gia
+vsl-f348231c41802fea679e	muốn không
+vsl-e6cab13dc1f02546869e	cháu gái
+vsl-1bdef377a59e22ff00b7	cột điện
+vsl-7e8a22cfa5cfd35f7330	chia ba
+vsl-e647e5d7e0c351fcde67	nước ép
+vsl-77d53fdeb98c8f4821c5	thông tin
+vsl-1dcd77ebaf65223cac41	chia đôi
+vsl-61dcf21a63a4b0c1dfbf	da ngăm
+vsl-cfb1b130e4a6a6584aa8	sấm sét
+vsl-4013420c406999e6b4c7	không muốn
+vsl-ffabebc2e1bcd64ecc39	quả dừa
+vsl-4da3c7f33a463c3c4cc4	cứu hộ
+vsl-c912c9f311256b27c59c	dịch vụ
+vsl-7414fe4f38722c4b52e1	thủ tướng
+vsl-6901988777df107d3ebe	song song
+vsl-f421fdceae9ba933fba2	không đẹp
+vsl-9ea442280ebe81cc19d1	cơ hội
+vsl-6814547e68abfbfee9ad	hệ thống
+vsl-4eb8285fcb897d4eb032	tổng kết
+vsl-e64ecb9849f63f637b8e	chống đối
+vsl-d6393f2df9ecf182404a	di truyền
+vsl-ee0ae91151c9d19488f9	khóm dứa
+vsl-b5cadb76ee14e14cd121	ngày sinh
+vsl-f719eef244c33be4ed32	tôn trọng
+vsl-c9188dc3c0847507e5a3	rừng núi
+vsl-127c9a899604e5c59981	nghỉ hè
+vsl-e07f589a9e046dc0159e	nhân hậu
+vsl-6decff084d29c604b6fb	phục vụ
+vsl-6215224e87581bb4152d	đau bụng
+vsl-8ba5d3a7b34b772fb46e	nhập ngũ
+vsl-a65cd58aa7ca06c33448	liên hoan
+vsl-394a054351ff40186d52	rong chơi
+vsl-9bdff074db3ca554ee6c	dây điện
+vsl-0585dbc92aea337092fd	quả bưởi
+vsl-b9907faae575c62b9b40	trẻ con
+vsl-5280157f85666556280b	chính xác
+vsl-ff393624b814a72e363b	quyết tâm
+vsl-3319a38befbbb042a8da	sữa hộp
+vsl-7d56b9f319f0567a3045	đại diện
+vsl-20f1862440e0a6b90c17	không khí
+vsl-30bf4bc30a2cd7e54be5	giao tiếp
+vsl-bd886effd22b80d8debd	ham chơi
+vsl-4db997e800209c5063bd	đặc biệt
+vsl-6a98240760b4ed9b13ac	thầy cô
+vsl-96fe235cc645adedbf91	hoa sen
+vsl-d6c470af59d00133254d	quả khế
+vsl-aa90afb1baa308afccfa	bón phân
+vsl-c101db450eafdd5f8218	giấy nháp
+vsl-c5ea506b1ac815082cab	con nhím
+vsl-b45d9941cbc9aadd8254	củ gừng
+vsl-ec56eed2b4014626795e	hi vọng
+vsl-91eb096541ffea3c6afd	em họ
+vsl-354959db57136431e4d8	hối hận
+vsl-7801edd25ad062220334	e thẹn
+vsl-a19f3f8f46106ba8240b	sắp xếp
+vsl-bbe3a55359483ae5b0cb	cung điện
+vsl-6c9a5ac3b1d92c14d193	thân cây
+vsl-28bef33089639d87231d	người xưa
+vsl-ec4b462536e1937662f5	liếc nhìn
+vsl-a96f1f03048c0a6be4f1	nhà rông
+vsl-63f8839a77dfe12e3524	da trắng
+vsl-c0ff37e77d9edd73a4c7	phở cuốn
+vsl-082dd35ccbd728bcfd9a	củ tỏi
+vsl-6b3dcaa6dfb7d40c0daa	phim truyện
+vsl-de81bde125bee0f382a0	cháu ngoại
+vsl-619cc6da3cf27db96d99	chúc thọ
+vsl-c6b8aa89a2be8b2ff829	cửa hàng
+vsl-510accbe83849a6e760d	châm cứu
+vsl-e4ef15fccb5450fe8991	bông hoa
+vsl-2fb3598adb352601f479	nhãn vở
+vsl-80d5d1d1e394da945564	mưa phùn
+vsl-311f59eb353a8a6c7b1f	thú dữ
+vsl-e36aae5368bfd4ebe474	tuần này
+vsl-206e597b5899033b90f6	buổi đêm
+vsl-0f6b94bd4a932f2095b6	bố dượng
+vsl-3c35d1d0f18900ff516c	bẫy chuột
+vsl-0ce02e21cfd347849e40	bực mình
+vsl-9b1cacf2c4b2ea1cd843	bột màu
+vsl-3ed7fe8900ea6a4a538c	đường bộ
+vsl-11fef81bac351a88acc8	tàu hoả
+vsl-83a7c06e19ac05a34269	hay là
+vsl-3958a4a67364091e5c3c	em trai
+vsl-5e6e2cf789e5c4d4ebc1	bốt điện
+vsl-c53dc805207461044bdd	đại số
+vsl-36a6e2d70c1cd69f768c	vứt rác
+vsl-18425fe4bf08a3ec159c	nhà nước
+vsl-5633c712aa933193d7bf	cuối năm
+vsl-3a545a9aa4f0befd0e9e	bảng nhân
+vsl-0c455b9dc17498f69aed	bao giờ
+vsl-cf3212f3406cbdee5d90	ông bà
+vsl-79a333db9fb0fd207fda	mỳ ý
+vsl-3938b2f858775eb56f72	ga tàu
+vsl-0e991fe53bf1edd15fc9	cuối tháng
+vsl-13d8ebec6f6f0dcb6659	ngập lụt
+vsl-e4e1393ad5072ff7c35b	bảng trừ
+vsl-7836a5ff953f8728690d	loài vật
+vsl-c5e341b1a820e2d24f5c	mất trí
+vsl-df5cba160378242c9e73	tương ớt
+vsl-4674d3da1a3ea2adf726	con cừu
+vsl-ad3406a76fafbcbc4d03	hoảng sợ
+vsl-1fbbfb45095f6fbfd23b	buông màn
+vsl-3015b1b7b80820c74ea8	chia tay
+vsl-e3eea4d3a44877cc7f74	cháu họ
+vsl-5cd4ceeb8c7bd099fc71	con thỏ
+vsl-20e594311a5319b4ba2c	kỉ niệm
+vsl-4f76e926e8028b88ff6e	xếp hàng
+vsl-e997ee1d248ff6346892	góc nhọn
+vsl-54173f9bb6c2369d2bd5	đoạn thẳng
+vsl-c6e00019d0c8b8d8814b	đi dạo
+vsl-50cbeb0afc58dd1326fd	vị trí
+vsl-d607ac0ba9217502d1db	lều trại
+vsl-0744a6a777db5714687d	lốc xoáy
+vsl-e7ac355a53d416b80612	máy ảnh
+vsl-6f37f9052484ba359425	góc bẹt
+vsl-132ac7e0d8a6f86c10eb	con công
+vsl-e1285ca4ee75decf395a	chị gái
+vsl-c11ae0beaeb7b7c1a89c	khỏi bệnh
+vsl-4e719141cc304ddb7f01	ngọn cây
+vsl-8863f9537f1239409e06	con ngỗng
+vsl-c76308d59a36988e4a5a	xe cẩu
+vsl-65bfc9cb6c1cab7868f2	đường kính
+vsl-2bcd6798a25cc810a25f	đường cao
+vsl-a40ac7e85710ef2257f9	bán kính
+vsl-2649cd1ce596f22def61	bảng cộng
+vsl-443e8a06a16486ff5fd1	bắp ngô
+vsl-efa7eca4fd88091eabd8	cá kho
+vsl-10dfbd0e76a8992be7db	cảnh vật
+vsl-54304612144528c7681a	xe taxi
+vsl-5b6e5407b7f304c8fca9	bán buôn
+vsl-0c6bcf8e8534ada3261d	chiều rộng
+vsl-7477eb375321269d30f7	chu vi
+vsl-e7ef81f2f3cf7dcf4c00	bìa vở
+vsl-e48337fc9b4f44c9e75c	kết quả
+vsl-9d2b0d38a75fafa43084	nội dung
+vsl-a365f9c0fbc07df71f27	gà trống
+vsl-b8f74d98e169e333772c	đàn bướm
+vsl-cecb70010df52a3ec1a2	mùa đông
+vsl-fda96d3724bafbd5988d	khách sạn
+vsl-992578f67e9713f702c4	con hoẵng
+vsl-9e8fc3dedbd4c73c7b6e	hình tròn
+vsl-f5ac8372a882b04d73d2	gà tây
+vsl-80a107486de855070e69	lĩnh vực
+vsl-0b9dbaebb57d4924116f	giông bão
+vsl-747c2f3e4e54d8a6e48b	anh dũng
+vsl-66352f4880c48c507487	hình thang
+vsl-b86046953af50cccfc41	nạp điện
+vsl-5a446b63c84c710b60df	mét vuông
+vsl-3099ab8efa6eba38e9d6	nhập trường
+vsl-fb747987bb72a5c730cd	con báo
+vsl-d13d5e5c8ac9c4e42090	nhà tầng
+vsl-29495f730a8649fed1b6	con trăn
+vsl-b3e93fd1d25c33b36133	bảng đen
+vsl-84b225edbe07ef538349	liên quan
+vsl-031bb18a4f554e8c191a	diện tích
+vsl-951d7ff07ad5bd7fc909	đọc sách
+vsl-c144352b96a6d1236793	côn trùng
+vsl-cc0a6eb87152a370d667	hình trụ
+vsl-fc67af2f8bfdb0828d4a	ngày tháng
+vsl-20480e3b33a595942beb	vui chơi
+vsl-bf7ab5c86bd504e864f5	nghệ thuật
+vsl-7c416d376b49965d7fb2	ngày nay
+vsl-54892f72c6944003fc50	vuông góc
+vsl-f19f514eb336a7fb51a4	chiều dài
+vsl-e688285f7655030a35ff	lễ hội
+vsl-5d9731fa9cb6c2fcc90f	chải tóc
+vsl-e0e1da293959499256e1	kinh nghiệm
+vsl-83ed80c59e9f8d9027a8	bật lửa
+vsl-89682ab88ffb7152ca40	bên cạnh
+vsl-1830de71c22a713a451d	vận tốc
+vsl-118134ebdc1c09b4f6eb	vui mừng
+vsl-c0f6b8116a1c4c1032a7	từ chối
+vsl-1fb9a45455cd63ea7238	đồng phục
+vsl-76c6f726df95adbbf681	nhảy múa
+vsl-1a55c3978825692e3c53	phiên dịch
+vsl-dc977661b1275c46ae8b	ấm áp
+vsl-4e0cb35bd1d6a6abbc11	ngũ quả
+vsl-af7c4e6d5a2cedc8fea0	hộp sữa
+vsl-e226eebde09c2194d98f	bụi phấn
+vsl-38a083a5c724862149d2	anh trai
+vsl-6eb5b6f1f8ecb297ab6f	tròn trịa
+vsl-ddecbb2e852868523310	ngoặc đơn
+vsl-91d2f5d81687e6d8bced	dê mẹ
+vsl-01bb03d2a71b7564bda8	con sò
+vsl-22f20c4ac1faed1afc3e	chó xù
+vsl-a1283636edffc3d3a8c3	liên lạc
+vsl-7c1ab3e5e925b5342698	chọn lựa
+vsl-71e110182e64fc517cb8	mật khẩu
+vsl-86a03cb48811c944a763	nước anh
+vsl-88a4cf1aac7e68f03cb2	tự vệ
+vsl-ce06693c02922a05cc76	rửa chén
+vsl-f3fe22188ac1defa74b1	chả cá
+vsl-fda5d7493d035aa80db1	kí tên
+vsl-2b50409e3ce9b6c5e91b	dê con
+vsl-e34ab0733fe5dd22b4a8	nghỉ ngơi
+vsl-7573d118ed4aab9ef512	ban đêm
+vsl-35563ff7ac46120f41fc	ba lô
+vsl-2ae78fab98d1fbbdcbbd	em rể
+vsl-af517eee1251720bd03c	nhà sàn
+vsl-8f9f7fb91d019025e357	đường thẳng
+vsl-b65332a8cd88fe7cf732	phản bội
+vsl-5a8dab8667007c4e75d0	chị dâu
+vsl-fd4f8357e09c40883a81	vui sướng
+vsl-d3d8e7ba05a49ff395cc	yêu mến
+vsl-2da8063cf87f7240e50a	anh em
+vsl-4e28b4576e011b88a0f9	lúc nào
+vsl-8acf33471365c2077b16	đi học
+vsl-423f35029dbba656b78f	lá cây
+vsl-68fcfab38ced6c0494d2	trắng muốt
+vsl-25bdd4da617d755e998a	cây phượng
+vsl-7a0c482336b7d62065cb	bẻ ngô
+vsl-e0a94e0353544b9f92ef	nghi ngờ
+vsl-38712650e469a583c2f6	con dâu
+vsl-b0d8e3e093571f7894b2	luật chơi
+vsl-03a3e9d7185316f73dbb	bài thơ
+vsl-351351c1e7d7cbcedb34	10 000
+vsl-094722c536e5bb371b93	bình an
+vsl-084df1c9b3b674b84be7	toa xe
+vsl-1fa5a67da3405520e1f7	máy in
+vsl-4ca944442911363bcbd8	nghiêm khắc
+vsl-da161cdc60a9ef6086de	thủ công
+vsl-5572ce487f4017a0f1de	là gì
+vsl-96d7116da713a8e45098	từ bỏ
+vsl-872d514415485d591a70	người xấu
+vsl-b4a4803a036cea4e2754	anh rể
+vsl-4bb6b8aa2d441dc9f15d	kết thúc
+vsl-2f8f316ab35a366f4de6	sống sót
+vsl-27d99ae80bd4acaa8d42	xe khách
+vsl-3a1b6e13dd328d83b80e	ra ngoài
+vsl-8bba57081d7443bab36d	ví dụ
+vsl-715f1fcd7fcf59b62828	dấu ngã
+vsl-17dde729bf15436e4343	nhà trường
+vsl-d36894e6d17599f46abd	phòng tắm
+vsl-cb33ab4414c4a7f3120f	trông chờ
+vsl-3c06e5b7810379c76165	thích thú
+vsl-50dcc68bb05bc8db7ff9	bán hàng
+vsl-5fc51eb31ff864aa1ac4	lười học
+vsl-c3bd3235442deb213c5f	vô duyên
+vsl-217e548f8790a37fcf73	thuỷ điện
+vsl-6d449f98346409599e02	anh ruột
+vsl-f8f6c3ba915eeb106f68	xã hội
+vsl-6b64756a7979cc3c36f2	đen láy
+vsl-f560ff76563ef09349dd	màu trắng
+vsl-76da56186eca98388dc0	ghen tị
+vsl-a598a050cc9afb3857ba	trông nom
+vsl-7a6200950d6f9ca7b91d	dấu huyền
+vsl-4ee156b1d107262c23d3	màu nâu
+vsl-137d86c3e18cbb01482d	bé trai
+vsl-01e32f8099be2c185081	vấn đề
+vsl-a68cf8af21360a8d2095	ý nghĩa
+vsl-440af71c7821a7390174	tờ báo
+vsl-092e85610082ed46efcd	trọc đầu
+vsl-aa18b195151abbd679b1	ân hận
+vsl-3c347c7991918b2b8c7a	ủy quyền
+vsl-479fa546066b8fec2954	ưu tiên
+vsl-e9e05cb3977e0b58fc36	tổng thống
+vsl-23404b52433ebf01f873	học sinh
+vsl-2761250d4f47a5f78aaa	toà án
+vsl-59cb34c1131f0391d307	văn nghệ
+vsl-efdcb3085850a4897737	thói quen
+vsl-52f8394fd7f7d04377f4	trung quốc
+vsl-c4c31a9fb0b984f2facb	xanh xao
+vsl-2519c757bdb03ccbb030	tự do
+vsl-f2819302e1805c2b9767	vì sao
+vsl-3ef429e35fe83899844e	trúng tuyển
+vsl-bbfe24517f42aa6f7d10	bình thường
+vsl-97e3a74bb3f550fe8fac	không cho
+vsl-24ecd1c93addef798f93	cây ăn quả
+vsl-da0e42428d5c6a0013cb	cơm bình dân
+vsl-8e876a2c6bef5f2feee6	củ cà rốt
+vsl-3f0649dc08167cd29ea0	củ khoai tây
+vsl-0791e20720ac5803a571	héc tô gam
+vsl-79d2822891a2edeaeb88	héc tô mét
+vsl-6ddf3d0e87c5332e6ed3	lái tàu hỏa
+vsl-1e871ff662badf757c87	quả dừa xiêm
+vsl-ee1cb23c70e965b287e1	rau bắp cải
+vsl-749a5394d2cf3cfee2a2	rằm trung thu
+vsl-14f4a6619691908a5c38	số thập phân
+vsl-b38eef6a3189ead2817a	tập làm văn
+vsl-68bb1616c7e82de9a175	tết trung thu
+vsl-d6d928a0dbf750cba1e0	phim hoạt hình
+vsl-c784b36e9428b92456eb	nhà văn hóa
+vsl-b9573777d7657bdb3485	mặc quần áo
+vsl-7b9e02fa7194e23555e4	đường hàng không
+vsl-03534880dcd088427474	không nghe lời
+vsl-95922eeb293de4ad8fdd	đèo hải vân
+vsl-d7945f5ba369301cff17	cây cổ thụ
+vsl-1c5f651184f4eabf3744	cây thân gỗ
+vsl-8750bd3eedadcbffee37	quả thanh long
+vsl-cd4b4476eeb2e6b98514	tết hàn thực
+vsl-c4582cfb29f2516e54b5	mâm ngũ quả
+vsl-d9d769c3c2d4aff38753	củ khoai lang
+vsl-f6ae4451bc4255a61b3b	quả dưa hấu
+vsl-d0999aa8629c07f3a5b5	thiệp sinh nhật
+vsl-c321cf5ebc42991c7465	bốt cảnh sát
+vsl-a1c2dc76d7345eabeefa	bảng cửu chương
+vsl-9da55f76542f8490e836	hình tứ giác
+vsl-20a3ab651b8288969a3a	hình chữ nhật
+vsl-2f99754f5d721770ca2f	bít tết bò
+vsl-0508d6189b7107779749	hình tam giác
+vsl-98753e382b78824398fb	hình bình hành
+vsl-e2a490cbb35c266565a6	lễ nô en
+vsl-fedc4cd4f9d46b4d51c0	môn địa lý
+vsl-b791c3b8aa65bb1dcf8d	con đom đóm
+vsl-f0d2b3a1398be8e17a56	con ba ba
+vsl-eddab620c32f2c0f728a	kiến trúc sư
+vsl-bacefe5858636bc57a2e	áo đồng phục
+vsl-732f42cf1a39affe8a3e	chim bồ câu
+vsl-a76fd6572fd4ef5dd3f9	môn lịch sử
+vsl-65c1dea4aa1473381b71	con chuột nhắt
+vsl-e06b6dfc83cc653e0273	ngày của mẹ
+vsl-728b7648fdfcde644b79	ngày của cha
+vsl-ca66f081765b2bfabf5d	nước việt nam
+vsl-243b52d13cd2cf39fd8f	nước bra xin
+vsl-55d309c0809fb84f57a8	cây xanh tươi
+vsl-e3922bf3be75736dd7d3	1 000 000
+vsl-768ff6eebed2f92865b9	liên bang nga
+vsl-0ce3347608af38a431a1	xe cảnh sát
+vsl-cc110431b962e6acb735	từ trái nghĩa
+vsl-b6e343f4a503e14fc51e	dân tộc thiểu số
+vsl-8b9071b2467db8630a3a	giá trị phần trăm
+vsl-524641bdc297100a4225	héc tô mét vuông
+vsl-b96c1ad2263ced54252d	nước ép trái cây
+vsl-4951d3af902f04d1e095	nước phi líp pin
+vsl-2af4832826a201c9ec31	thừa thiên – huế
+vsl-4bac87ff3ac2199eff71	đèn báo giao thông
+vsl-c811e9d1e4c4b60ad152	lễ halloween 31 10
+vsl-4883f3dd328aae5b0231	lễ hội hóa trang
+vsl-67c6ed239181794b64cc	chăm sóc sức khỏe
+vsl-8135136a5799c168ca0a	bảo vệ môi trường
+vsl-a6b5a62a3c04dcb43656	màu xanh lá cây
+vsl-0a5be95dab19983a497b	bản đồ việt nam
+vsl-ead08b8ebc8c74603a69	màu xanh da trời
+vsl-4358fbd4236f6cee3a0d	thủy điện hòa bình
+vsl-3fa2fa43ba14462e4a4d	1 000 000 000
+vsl-f0f34be69b6679d808a1	nước cam pu chia
+vsl-96279f245490cde5c2f2	ngày quốc tế lao động
+vsl-10c6a58ae11825b094f6	ngày giỗ tổ hùng vương
+vsl-7c9bb0324b857af1af84	ngày thầy thuốc việt nam
+vsl-718411c7da2e9b4b2b44	ngày gia đình việt nam 28 6
+vsl-61b216d5d9a551857f2b	ngày giải phóng thủ đô 10 10
+vsl-c293c9e58a68ae3c449e	ngày quốc tế phụ nữ 8 3
+vsl-2107704f84ff1b2f6e5c	ngày thương bình liệt sĩ 27 7
+vsl-3157cfa600ab858827aa	ngày phụ nữ việt nam 20 10
+vsl-5d620028d8e1cdef9661	ngày giải phóng miền nam 30 4
+vsl-af70ed71403afadb3f09	ngày người khuyết tật việt nam 18 4
+vsl-fb92ca34f5fdfe4416cd	ngày người khuyết tật thế giới 3 12
+vsl-2c168a5d85826d258d92	ngày ngôn ngữ kí hiệu quốc tế 23 9
+vsl-24203727ebccc0f1f4fb	ngày thành lập quân đội nhân dân việt nam
+vsl-be39b1e745099b980c88	7up
+vsl-a474e7e0e4e0def0c038	buồn
+vsl-02f3c64eb85314c592cb	bán
+vsl-824c39c05192d01b8724	báo
+vsl-db819d8dbc64a80520ca	bóc
+vsl-0cd1a715b1c8f2230c8a	bơ
+vsl-c6f556046e0c00469fe2	cheap
+vsl-bf353bc9a963688be2d8	chương
+vsl-410e93b39a955e5fe5b2	chậm
+vsl-347890245c0c484ef85d	chọn
+vsl-0889113e04d3203f0c40	class
+vsl-c46d87f1fb4a5df6df84	cocacola
+vsl-46fd05f35b5591e22afa	comfortable
+vsl-cc71991f59c66e89c47c	cua
+vsl-5456a5515ca7dc90d470	cân
+vsl-76cf050e1c744c616456	câu
+vsl-3fd6bf55ab66128b5b79	cười
+vsl-371ddca33a5a56b8e87d	cấm
+vsl-37edc033be2873189b6f	cứng
+vsl-353bb1d4ddea0195828e	cửa
+vsl-9d6f965ac832e40a5df6	different
+vsl-f121bb62ce4ef4a25e87	dính
+vsl-97c10efe01d5c9c88704	easy
+vsl-b0c9d1546272b9d98da5	ga-ra
+vsl-848adf91884fd145f8e8	giao
+vsl-e6ac75df2032f106aa28	giá
+vsl-73ba2e0a049a0005c285	giữa
+vsl-0304523efff53f243d76	goal
+vsl-dd73a2f7c7982c61006b	gossip
+vsl-e74d611a37f7d674b530	gì
+vsl-37adbe6b4b89be862fc5	góc
+vsl-38e95e74ddb104bac58f	gần
+vsl-30daeca14abe889d3df6	gầy
+vsl-2841e4f260028ce3d427	gặp
+vsl-5518df4949d8a083f02e	gỏi/nộm
+vsl-cbde83173a31f4f2f91f	helicopter
+vsl-c2428d31840f7dc49dd5	huỷ
+vsl-6ca9bbcf89763eede476	hơn
+vsl-bbba9fe9ee0befe7eb19	hấp
+vsl-3b0fe0d342e9fa16a5c6	internet
+vsl-32f987ecd36719a12041	ireland
+vsl-489147936dd3e50e2ee1	khi
+vsl-176011db82ef0c7b5426	khó
+vsl-4999fecf3bc52a42de3d	khổ
+vsl-60d753070ec47e534e8f	kiện
+vsl-97aa00d485f5b942ed80	kịch
+vsl-0316d10e3171ae26a209	luộc
+vsl-638ec50a1eef22c1b12a	lái
+vsl-cecf590df3b217391b05	lương
+vsl-8b6b3234537f28b042bf	lượm
+vsl-4b0cf64b4646a8811b8b	lẩu
+vsl-22d6169ac64e8f852d46	lều
+vsl-71d7575667922ac5c970	military
+vsl-544fc8545c8d08c5bf4b	mong
+vsl-9169e3ca73eeb47d29e9	monthly
+vsl-c23b31a0179b550f8a18	morning
+vsl-ba3d4b19f4deaa8fb663	mua
+vsl-5f169031b9a886cb4202	mạng
+vsl-df56fc85412ee3f0b22b	mạnh
+vsl-a741a5d6c5de1de3cee6	mềm
+vsl-84d0ed90221edcff2dab	mọi
+vsl-790e587ee23267f4a83a	nghèo
+vsl-6ac673a9d16d378942f2	nguội
+vsl-b9c82a7a3557121a4423	nhiều
+vsl-21379a6f39089390b2ab	nhảy
+vsl-8184710dfef821b2c12c	nhận
+vsl-6e0878825634078c22b3	nhọn
+vsl-289958f2d1281b7c55b2	nướng
+vsl-c3a8fd5ee96b67f93604	oa-sinh-tơn
+vsl-f7d39b5d2b23f7eeaf6d	phao
+vsl-926382e46ac7d49158f7	phòng
+vsl-87a88dd0e56d68925dd2	phần
+vsl-cdb59355f3ba293977fc	player
+vsl-55f14a72e6a2a2b8b1f1	quà
+vsl-60c6c48ed6f8c9428278	quả
+vsl-710ffa90ef23b9b5d85b	quỳ
+vsl-bb68e6bda4c602551914	rau
+vsl-44a1b90525ce6d0821d7	rơi
+vsl-3761ec40cd4c684232e2	rơm
+vsl-ca81955cf66a810957fe	rộng
+vsl-8f5c570f55dd7921c986	sandwich
+vsl-3b04837881bb07b621ae	sick
+vsl-b49659a43b5a89435324	socola
+vsl-9eba12ac972f2245d31b	soi
+vsl-c14cdb19563cb1644772	solve
+vsl-b11833a4396b84cb8262	squeeze
+vsl-dd3164e950c1f77bfd08	sáo
+vsl-2179e548e181c5be7b81	sườn
+vsl-504f6708d169a8371000	sợ
+vsl-83ef8b564c63a20814ea	tha
+vsl-1cf8531a22348eeb2abe	theo
+vsl-7400db6296856fa2b5c4	thuyền
+vsl-943a6f2558b6b7366d24	thẻ
+vsl-5de871e277d321024c2d	tuyết
+vsl-c52914d25634dd223841	tên
+vsl-2fffae8681da3291f300	tôm
+vsl-d508e7d1254518832423	tăm
+vsl-b40c8e0da935b48a13a1	từ
+vsl-d8f82348c0898d7cec05	viện
+vsl-f992b6545d785dc13ef1	với
+vsl-8f26d6fe2a3dafd82808	xa
+vsl-93521f2c72d878df738d	xóa
+vsl-5a1af8a523c9ede65cd1	xưởng
+vsl-de6bfc885a6fa3592d57	đã
+vsl-11b7f1fc30095a2c18c2	đèn
+vsl-e4f5d5f0ce587c9f4175	đêm
+vsl-fff3d949c0edb7d6ac2c	đắt
+vsl-07fbe58bec9c399fcba2	đốt
+vsl-09ee2428d8b1764aad94	ướt
+vsl-31e749c85598c05c0530	ốm
+vsl-f20f5b0dfb30b315a2ad	sao
+vsl-74a96e890496e2c51dc9	nỏ
+vsl-c1d186eb4d09a3f33db9	óc
+vsl-7466af6a71cdd947a395	thiu
+vsl-15a596e3c98c407e0437	correct
+vsl-e1b060faf3185e7c1603	sâu
+vsl-549608ae81614f992b80	ngắt
+vsl-f3df9a7ebabe9ea6397e	miến
+vsl-40f340a3c1ec82276e36	khâu
+vsl-328a14ed0552c2848051	rách
+vsl-26864ac0d8e7231f1515	hoãn
+vsl-7790b1a31dffca549921	đòi
+vsl-cb1ce62432320e666dce	gió
+vsl-b41b9633800c03da2029	tách
+vsl-a39fcaba0616fea154e0	rạch
+vsl-915548830d49f8f2bda1	rế
+vsl-1f98cb9084dc945bf3d4	rổ
+vsl-1e0c315f51c3e43ba154	cái
+vsl-351756d5d12fd20a4dcf	tát
+vsl-b1d19ac82ea6a5c8b71f	ngán
+vsl-963825983da025b739d8	phễu
+vsl-0b287bc211c65221a3ba	sapa
+vsl-e11c25d81094c80d248b	trộn
+vsl-debee2ea79c08054276b	karate
+vsl-a60170e0fd2a93c9eeb0	nơ
+vsl-5fc13918b7e830d56088	lớn
+vsl-6897f66b7b0b6913d3ec	ô-lim-píc
+vsl-8c508bdc544bb8604d9e	quên
+vsl-1d4a31861f51efb7256b	sừng
+vsl-f711080b70cb7efd2c14	thêu
+vsl-222f1f855dde7d7d6f06	tháp
+vsl-b8165de3dc60c9c59f64	dù
+vsl-0f20a81c9362822a05d1	rìu
+vsl-7499aced43869b27f505	chocolate
+vsl-2b4b2eadf7b2aece598d	calm
+vsl-4d957d0da61d012ba800	mía
+vsl-edb1dfe5f90eb5b451e1	nhớ
+vsl-1007324fa7936531b88d	râu
+vsl-37268bb0020007468bbc	kia
+vsl-c69b60ebb97c8833c683	hôi
+vsl-27a934c1b87043e7eea6	thề
+vsl-74a1e0449315b6f09c83	thankful
+vsl-1fdf6e5c3d3d880b8039	thét
+vsl-335f1c115f28809cedb5	cắn
+vsl-07ae38b93d8054d84aac	pilot
+vsl-c3f258cbd1ef799da67a	thối
+vsl-59a75d0efcff2c7483d7	sợi
+vsl-6b5329ad413e7f95b2b2	người
+vsl-ed43963fee9143cee4e2	đống
+vsl-09d616da76083592900b	sớm
+vsl-2c4a683ccc5b5638416a	thềm
+vsl-f35ca750ecf4e0327b8e	rửa
+vsl-415473a357d9d696222e	graduation
+vsl-a12e45b23513ff84c050	asl
+vsl-e18431606a21fa92d44f	bia
+vsl-3dc0a234e3b8374f75aa	biết
+vsl-c3e2d78f3ff335724b40	button
+vsl-7e8eea5cc60980270c9c	california
+vsl-408c7c5887a0f3905767	canada
+vsl-d4b2a3f9cefb67358c77	cao
+vsl-811eb81b9d11d65a36c5	chicken
+vsl-46b1f9f988f2e0ace80a	chim
+vsl-a7cb235cb58b6da39fb7	chúa
+vsl-da5e11efa36720a4211a	concept
+vsl-63b0490d4736e740f26e	corn
+vsl-aa58b21b01d6b8a99c1a	da
+vsl-30fde358b34772de141e	dream
+vsl-1a51ef9270af5d11d4fc	dì
+vsl-e067e8beb3a29632e1a9	florida
+vsl-ba4788b226aa8dc2e6dc	green
+vsl-bb54492aaa8c4f518992	họ
+vsl-e0b81e99f3cb7bbbb4ed	hồng
+vsl-b3953c6fe0b43b5a9437	khô
+vsl-9f2be3acefea0d7274ba	lỗi
+vsl-186641861d6d9f2fc590	micro
+vsl-b237d9e0a6022301a4db	mùi
+vsl-0231bfca9ba02e810222	một
+vsl-c86d6fa42cfeaf6fdefb	ngựa
+vsl-4cdd39a30dd2415b603d	nhổ
+vsl-cb5fa3d864ede3e929cc	niken
+vsl-7a37295962c47a108bce	ném
+vsl-c52e2ae0afba82fe754b	nóng
+vsl-8fe8a0a0604f699ee063	pennsylvania
+vsl-a7e191b069de7abad02c	phun
+vsl-8b9aabd903fd09e467ec	pháp
+vsl-9ed1515819dec61fd361	pizza
+vsl-1366fac71146793a85e9	police
+vsl-db750946af61b6dee3a4	rắn
+vsl-8fca2d48e1ee96c1193a	smell
+vsl-a19d62aa57b565dccbf7	sẽ
+vsl-734fee719b5fb4878454	trắng
+vsl-76dff89c87e37b0e1d80	tuổi
+vsl-df0724e3b90f5fc5dc68	vai
+vsl-befa210d37d153269e18	và
+vsl-141f58188e3eef5e18ed	vì
+vsl-1865e4f9be9639fc76d7	washington
+vsl-aeef81a3fc57b7a1c07f	điên
+vsl-f68150a1df958f1eaea9	đơn
+vsl-0b27b749dee6141859d6	ước
+vsl-7247515bdb44d255bd60	ồ
+vsl-18fbc1ee0ea4b355e4b8	ợ
+vsl-57947165b72304919e17	kiểu
+vsl-3e0a96b0678f28a0d114	xoay
+vsl-24399f8e29349e44e456	mù
+vsl-1c1480e67eee52c17293	slip
+vsl-381866f546ffc92b9dfe	mang
+vsl-5873102fa0951713a811	texas
+vsl-f37f1e30159fa4e5224d	nặng
+vsl-24648b049a08aea56a8a	balo
+vsl-87095eea6e9011380ba7	hói
+vsl-077f96ca1d559bff6c7f	cũ
+vsl-7147b4a26ae3dbd4ac20	xong
+vsl-67fc36385bb47db091a4	grey
+vsl-cd08c4c4316df20d9c30	elephant
+vsl-8c561984b73a7a051641	thép
+vsl-2ba45d4f753adf28b639	măng
+vsl-7b7a40cfac5fc66da0a9	tiệc
+vsl-fa9f937acebeea16121e	loại
+vsl-f4a85a7509a0a75611ef	drug
+vsl-95ea0ff3d4e6260f2c61	nhóm
+vsl-fcfdf14702f3fa62fb2c	đen
+vsl-24a3b5cd967acd07f733	nghĩa
+vsl-c196ee6d4f93e9185ca5	máu
+vsl-5b406272e989b15c0cc8	philadelphia
+vsl-39e0749da40f625e3ac4	e-mail
+vsl-0e894efcf7fafff62acd	hộp
+vsl-9b37312c0240171b5812	nga
+vsl-054da1e8bc1cb20b4504	arizona
+vsl-c2008d39d8b1d16a68b9	nhẫn
+vsl-fbff295166fe9cc28a20	tăng
+vsl-d4328f17fc46dfde5a0a	iran
+vsl-68b7bfc8ffa96f10abc4	muỗi
+vsl-9bef1b59eaa3bf09680b	rất
+vsl-5a83850a458ae9966f28	phải
+vsl-160b699f4f29e43d7750	tuyệt
+vsl-27682e518dcfd26f38c0	túi
+vsl-237ab3365842e475721a	desert
+vsl-3b9c4346fbead3ae18ec	emotion
+vsl-1942c9b0c8e636558ff5	đáy
+vsl-637308e949738d377835	clumsy
+vsl-4ac134964872c4b0e202	snowman
+vsl-81e901b4262cabd9caa6	diploma
+vsl-d54170f31396d8c2541e	chung
+vsl-dd0bfdcc0de1415c630a	bốn
+vsl-195f33b50fa62ef2bd3d	hawaii
+vsl-b51fd7f1139a9c6e3a68	hở
+vsl-8979d463ac24fce6b1f0	điều
+vsl-a42d99a3634705687e47	khát
+vsl-d9b1f15393c03cd8d00a	đích
+vsl-35c274e20def60b13ac2	mười
+vsl-3fdd2f35c65253794121	vlog
+vsl-586acb3c6bac489308c0	gay
+vsl-61c35c223fb691431b97	vàng
+vsl-9bb09914b117aaa92837	duty
+vsl-ca9cfcfa498aa21bd1c2	chai
+vsl-20f65c28671b40937c5b	check
+vsl-8218f3d6780abf45a5a4	coat
+vsl-925ed187cfec2cb15f83	phân
+vsl-bae44e82e080d6622063	mắm
+vsl-c388fa9a52705a2ce0ee	cent
+vsl-23ebce72c4424e81ef48	coconut
+vsl-e272deecde720ffc773d	cold
+vsl-32dab8457e8a498a2223	đào
+vsl-7b2b378417138a99b73e	pao
+vsl-33888e30626294cdd4a2	quay
+vsl-ca612fdd3e94c3d01cbc	bọc
+vsl-47d21fb4481381e84d43	trang
+vsl-83d82a74a67aebdecd38	classroom
+vsl-ffef010c6e6141514846	đổ
+vsl-35c0fe3c7aa20e8b7ebc	giọng
+vsl-5e525345307373f33b6e	cầu
+vsl-f9f5d08992554db42f7d	mập
+vsl-8b2eee8701d21dcc4b88	cắt
+vsl-e8c2898545e58513273d	kể
+vsl-9cb69522cf4b74df2267	rồng
+vsl-6386713deb27b609daad	dao
+vsl-47da00e0198c8e5cafb4	hanukkah
+vsl-bac40bb6f4baea0c0bc1	đuổi
+vsl-d48132f102bca3e4ae60	đoán
+vsl-f16b49f38336a58eba5a	qua
+vsl-ba8d3e6a2d8b5ed67ba2	grandma
+vsl-d844111388cf9e20ca99	loài
+vsl-444e39bbc08d7ec5e6e3	trốn
+vsl-472de632654658760cad	bowling
+vsl-582967534d0f909d196b	in
+vsl-6fa727adb42b94aaaec1	trâu
+vsl-aac2ddba3a773f7bfe13	lính
+vsl-970f519c2cadbcefb1e8	ba
+vsl-eb2d64ad16f1f2002a2b	giỗ
+vsl-f9ed2b54fd72ac165257	care
+vsl-cf07a76f938476da14a1	earn
+vsl-81f089091a3e3bf96e0b	sáu
+vsl-b1c5fedb005b7e1983c2	nên
+vsl-31ffa4b21c35ac35d80c	nợ
+vsl-db089632f21fb3c89998	dvd
+vsl-4d902c691086ef4e9bbe	thanksgiving
+vsl-a46e5d2bbe2d3b05b2d2	tv
+vsl-bde833b013b895a8de27	ý
+vsl-3a33d1a9e6c085ad0d0f	đây
+vsl-950662956e7592a1d712	cuba
+vsl-2b617348a15fc840b589	bảy
+vsl-8a22953c98c349b37e38	giống
+vsl-083bf76d23070cdab97d	lưu
+vsl-a9e56bf940c6444e2f29	dày
+vsl-baffdf37aa5d3961c77b	caterpillar
+vsl-4241d680c61cf00e2325	ấm
+vsl-eabfe22dda85f667d648	chậu
+vsl-1322ed3d576b70a7c62c	mặt
+vsl-00a9e08ce4c65c4c2471	similar
+vsl-41aa311d555b8ad087f8	complain
+vsl-e07ad1b13f76e5565e59	xích
+vsl-3364c9b2c014164455c0	súng
+vsl-a2470c9d137c1c5d3567	chicago
+vsl-c7c5b8e658d80db2a2be	dập
+vsl-9e2bbe8db9faa66d8d2e	nhanh
+vsl-8576cd3f959b5bcebd66	nghìn
+vsl-bfaa65a1b7a6da9b7324	khoa
+vsl-f2ce341fdaa67727bbdc	sixteen
+vsl-b315f4529c02947fd090	chạm
+vsl-e3f69ad4f65c96071806	cúi
+vsl-166fec202c020954ceaa	cưa
+vsl-739b9d664d77db3ee3ca	hai
+vsl-4efd8f86b37f8e07608c	giữ
+vsl-66e5c9c100d1fa9d9f85	gói
+vsl-c341c46a3efea2b97766	điếc
+vsl-6d8bf85786deb929fe2a	chó
+vsl-d145afe9854ee1c77f8f	vắng
+vsl-ef510a25857c85dc3c2c	xẻng
+vsl-a633250c749a7847ff51	đảng
+vsl-d6a09aaba5566ed785ef	xếp
+vsl-549d7e7357bd41971b80	dắt
+vsl-b95e0f627ca20c288816	chiêng
+vsl-983ac345743c7bf0a29f	cuốn
+vsl-11950b7debb7f355f500	yếm
+vsl-9243a85fcf3393e4daea	cù
+vsl-4ca70ea3d189a62adc31	cột
+vsl-564b126163334226fc7d	đầm
+vsl-304c8d38daef62d37314	chuột
+vsl-817af91d67e23de0363e	chém
+vsl-d8e124234ca16d6f6b35	củi
+vsl-aa3a05d9d57c08d694cf	radio
+vsl-4de6bb4e4a6c2058981c	dai
+vsl-0d4268591d78dcf6d5d9	sour
+vsl-56b553097ab09121fe68	héo
+vsl-cf37011287f5407dd89d	cổng
+vsl-a4a1400e775b6b878bca	đinh
+vsl-2bdbeeb59f99af900a81	bạc
+vsl-1c48f6310f1c849b4ac3	mind
+vsl-a3313d46dbf056e2310c	xô
+vsl-6b65dcda719b7180593b	mô
+vsl-c21090841399ab0f95b8	dạy
+vsl-5a09c8586b3ed9eeb593	đầy
+vsl-5d1567940cb0cc596e74	thư
+vsl-44e8610e07ae75b8861a	súp
+vsl-eff7e984a1142eaf81d2	còng
+vsl-3bc498c4d72313de389a	dài
+vsl-d3e925561bf66dc37cd2	sờ
+vsl-59f84ab8fb20a7c18b7a	mỗi
+vsl-b3996d6145afbceedae8	chén
+vsl-fe8a7d5c1db61fb1b57f	gửi
+vsl-42443dfd058a295ce7c1	diêm
+vsl-1c52e0df586bcd032834	ngắn
+vsl-e9810750cc85923d34db	đếm
+vsl-583d14f4f92f5f0eb7df	cấy
+vsl-bd00810e5b68bef749d2	giã
+vsl-0fbf333426919444e9b3	đôi/cặp
+vsl-f19f1ec92fc0507a44ff	chum
+vsl-1497fae55fb9675192c9	lặn
+vsl-7edae2b46166ffcce2e2	đạn
+vsl-ddabb805fb94664caf3b	cỗ
+vsl-81e247c0add9efe0330f	giết
+vsl-66c285a9e923930bec4b	chục
+vsl-808e0df8dbb3689db3b1	phố
+vsl-dfd2e687718547a836e6	nắp
+vsl-02e085e476c92c08c15b	cờ
+vsl-ae95aed2a32401f2f2e5	xăm
+vsl-e7edd7914b405e46fc48	thở
+vsl-d59eced1ded07f84c145	40
+vsl-225bf1776fa77021801b	chui
+vsl-a0e32af9c1f50f79e5fe	uốn
+vsl-1b902465a8e0d00d92b2	nến
+vsl-34ae0a3eed00f88d6356	chày
+vsl-a6475c0cb1b9c82141a2	dẻo
+vsl-d4435fedc17d0a12abad	mứt
+vsl-161d144b74e13e9f3bfe	vỡ
+vsl-072473fe24e38e7cb328	thêm
+vsl-33fc82451da6e0302352	nẻ
+vsl-4aeffc01fd03975c7e2a	ngô
+vsl-6dfc4cdf7e0b19377b36	xăng
+vsl-43bcce0de32fe834e594	hình
+vsl-fa14292b1296778390c6	dệt
+vsl-a7b64d962bf8d86f7653	khéo
+vsl-73133cf6a2724f043867	lựu
+vsl-4898a005c8cfa6db895e	ngói
+vsl-c18ae6dfe62779c68b30	giẫm
+vsl-53520562313097e53ff9	chỉ
+vsl-3e0492a320dbb4a09d55	gương
+vsl-5e1f57861e49251d2724	cõng
+vsl-6b4d583cf43e34e990fb	diều
+vsl-dbe34f03b0a61d424943	lọng
+vsl-657785051cd54448f003	vớt
+vsl-071fa0a12e65ebf73ae9	cong
+vsl-6ff45a66e4a3e485b442	lông
+vsl-4c94485e0c21ae6c41ce	v
+vsl-b5fd4da6901078530ad0	loa
+vsl-3c44c3e1b8b784478672	ma
+vsl-709951a6e9d24a2a28f9	cụ
+vsl-8254c329a92850f6d539	k
+vsl-acac86c0e609ca906f63	l
+vsl-083c1634c5dcf50cabe7	lược
+vsl-995bc73f310f7b80e834	mõm
+vsl-b6cb8a6a2a6df900f9bd	đuốc
+vsl-5b643900906249f830d1	bằng
+vsl-fdb634f5e46ea29fe2d8	kẹp
+vsl-912721e31f59a438863f	đền
+vsl-0bc21063efb8dc31a51d	thủng
+vsl-884e5432fba7f675381a	tỉnh
+vsl-c74850c686aed57f49c9	môi
+vsl-e6448100227267d30833	lúa
+vsl-a1fce4363854ff888cff	y
+vsl-8588695d16205c448c11	cống
+vsl-abeb8783e43cd708837c	lưới
+vsl-224c067f997b281f1c51	thùng
+vsl-4a44dc15364204a80fe8	10
+vsl-63aefe298f441f92dec9	đo
+vsl-13aef193634e895c371a	nén
+vsl-821be24663f6130f6914	nghĩ
+vsl-584b19df93eb807d491f	khen
+vsl-1d66fc70c4718ded0f86	chuồng
+vsl-be7dcd36c8ffb310cf99	đảo
+vsl-7a9d7823994d4e3ddd39	kèn
+vsl-6959097001d10501ac7d	ca
+vsl-65c74c15a686187bb6bb	o
+vsl-4b315938a1c36a16bddb	đan
+vsl-8212827e0e13f62c23af	chuông
+vsl-9b151a803843cc8c54cd	chữ
+vsl-1e6f2339b71917402553	vỏ
+vsl-f34cf11ffd0162e51eb0	lâu
+vsl-e9c5eb41fc4c548d3fb0	ấn
+vsl-3f79bb7b435b05321651	e
+vsl-cbfdf1e1dba0926e43a5	đèo
+vsl-50e721e49c013f00c62c	w
+vsl-f091f1b987e8bc8fb41e	nếm
+vsl-f5199694a2f9853bdcbb	xen
+vsl-04f4798921c283f9c7b1	xoáy
+vsl-a21dfce2c27396ca29a3	bay
+vsl-a460567ada719153698c	thèm
+vsl-f6f4c27221f2cbc363bd	hứa
+vsl-a04d8a220dce52c0d6a4	khác
+vsl-5c18906836160ce52d26	béo
+vsl-623b2b96c7d64680a894	unicef
+vsl-3d8063f963ede8fde82b	ít
+vsl-72ccad53df654d7781ac	vật
+vsl-44bb3a419a07f311ad0e	đựng
+vsl-3fecdb93a7947deda802	khách
+vsl-d3ae0091c0eebbe5dcdc	lưỡi
+vsl-e7d0ad54990ba50ecdb8	muộn
+vsl-4e4a7903313034f42c73	ngõ
+vsl-914508d1b19a5e3f3ebc	khói
+vsl-474dddd53c1803e02546	đập
+vsl-c137d4f13b094514f292	đỡ
+vsl-60052fe1f97fc686cd1b	suỵt
+vsl-4ca03a4fbeb9d3c91993	hót
+vsl-8e35c2cd3bf6641bdb0e	q
+vsl-9e170fc847a60ea56603	gánh
+vsl-1670f2e42fefa5044d59	paris
+vsl-69f59c273b6e669ac32a	90
+vsl-5e12e8ec48b583afa36b	vác
+vsl-6b9014b756df710c0c36	khuy
+vsl-96281980d864b164de0c	ác
+vsl-d0da84ee2359e3a0a112	lớp
+vsl-252f10c83610ebca1a05	f
+vsl-71531534f13aa1100406	ủng
+vsl-19581e27de7ced00ff1c	9
+vsl-407ea2baf9dc983119fc	ki-lô-gam
+vsl-a5e627dacb31b9364a4e	kính
+vsl-2c29e8963cbf91880ac5	y-éc-xanh
+vsl-7902699be42c8a8e46fb	7
+vsl-2d711642b726b0440162	x
+vsl-043a718774c572bd8a25	s
+vsl-189f40034be7a199f1fa	j
+vsl-26ae784d194a57604643	kim
+vsl-525bbd05e9e95d7fe74e	đặt
+vsl-ad99ee823dce53177095	gai
+vsl-4f1207da15c55c45f2c5	dọc
+vsl-a73054f1a91e577356fc	đánh
+vsl-197a034898e136b3c9e0	xuống
+vsl-50b8269ea1d2dfe29ad7	cốm
+vsl-ea12d35fe232b5131507	khoe
+vsl-e63b2c44531bb207aae1	thím
+vsl-724df7f8595793765299	bắt
+vsl-2b27099d39b9b324b688	cày
+vsl-d11191cdacbd3da9a34a	gáy
+vsl-82244417f956ac7c599f	email
+vsl-32c719f4da6658de6395	vồ
+vsl-6c02d01ea3afda052fb9	họng
+vsl-a3fb695ba5affb872de4	chặn
+vsl-1698ec68926f13493bf8	tượng
+vsl-069bcabf010001e92ee4	lấy
+vsl-071682bdc9ff95177acd	đẩy
+vsl-7c5e79215f586c9c5140	hạt
+vsl-6f03ad5ed8f751671f60	trăng
+vsl-2313c786d4af92797518	bước
+vsl-48449a14a4ff7d79bb7a	80
+vsl-8055e4c6b42bfa2a0390	chát
+vsl-4fc82b26aecb47d2868c	11
+vsl-d602c74b86c96b8e2b64	cha
+vsl-fe62808370adb7b1378e	tưởng
+vsl-c655b69da568038199d0	vào
+vsl-67447df876a50fd83513	bao gồm
+vsl-fb5a4bc6e773a8128912	biến mất
+vsl-8bab7e2c50cb254f7693	buôn bán
+vsl-0db307a63eac869739d0	bài hát
+vsl-0ab0d8fe33029217f094	bàn luận
+vsl-9a4ebf66f5b8dc1ab537	bánh canh
+vsl-bb60fb88061b1163c9e1	bánh hamburger
+vsl-ed94938708eac2ebf1a7	bánh mỳ
+vsl-c996d1d43f493b441721	bánh quy
+vsl-0e4d43fed38dfe19a1c6	bé nhỏ
+vsl-a9b83cd2a14b512b8cb1	bên trong
+vsl-10788272e79ce4bbb06f	bình đẳng
+vsl-2a5b9e8294e74ba902a1	bóng bay
+vsl-71318e45d9b6f53d8f73	bóng đá
+vsl-48cc11b0d2fb1eb0d53a	bận tâm
+vsl-e50d94dc28e8f331cd0a	bắn cung
+vsl-c8f4dd69f3fe11d1dde0	bề mặt
+vsl-88cd4b2b0fee34d1e844	bệnh phong/cùi
+vsl-d0cc40e753f2004bc666	bỏ phiếu
+vsl-aa6bda7d5eb61e265bad	bỏ trốn
+vsl-08690b582dfa8eaf7b52	bỏ trống
+vsl-fa6d49b874f9f7a0276f	bốn là
+vsl-68e50b4313de3aa18390	bộ phim
+vsl-be51e11f9b0a43394321	bộ xương
+vsl-8e80da64b79ce7b3c973	bởi vì
+vsl-47206933135892234f72	chanh nóng
+vsl-39901dff066c416602a5	chanh đá
+vsl-191c14101d34e46c9453	chi trả
+vsl-40fc695ff79e96b0e689	chinh phục
+vsl-c0cab5d2960d04e0398c	chiếc cúp
+vsl-d269ce75643c338ef052	chiến tranh
+vsl-50f01eea1f657ffafe83	cho phép
+vsl-1f26698721d6cdd6dd6e	chuột túi
+vsl-b6354d8716a2a389958d	chính phủ
+vsl-a725be83f632e70b7fc4	chấp nhận
+vsl-7e3d3aaec91342fec664	chấp thuận
+vsl-087b07b1dddfc9397b35	chậm chạp
+vsl-37d4f6739f437d4d2a61	chống lại
+vsl-bb44364a2987e747f75d	chờ đợi
+vsl-a18bfe3e9f094a88eae5	chủ nhà
+vsl-ce18a26d21c7f4d7c83f	chức vụ
+vsl-0450c620d400a23df57c	coi như
+vsl-f4b805b1640f2b3820d0	con cú
+vsl-b814b2cb82ffc4932196	cua đồng
+vsl-15f6332d55975dbd6bee	cuối cùng
+vsl-2f8903451b20e001dd04	cuộc hẹn
+vsl-07831d10bf7c8c992cd0	cuộc họp
+vsl-c02f6ea6f07f7d433250	cuộc thi
+vsl-0cd6c1036aec1aa3d5cb	cái kệ
+vsl-a88c38e4923d6c2fdd00	cái mà
+vsl-791124f3dee5a02e5fce	cái này
+vsl-6522344d56977eb4886d	cái túi
+vsl-79958870e2d7ee3aa282	cám dỗ
+vsl-654994b30a805f638ba8	câu cá
+vsl-341f597099355a90d04a	cây bấc
+vsl-3b922526d68fa0d9f4cd	cãi nhau
+vsl-2929df7f6d81e68bed2f	còn bạn?
+vsl-86450e4c466ba13cdb6e	có sẵn
+vsl-d29a09a22a9da8838866	có thể
+vsl-88139be5e8ddcdd60264	cú đánh
+vsl-d116427234cb64bc705f	căm thù
+vsl-f611ac1cb299e562dd44	căn nhà
+vsl-25100b002c68ff7ba573	cơn bão
+vsl-04029a61a71d97136dc9	cải thiện
+vsl-07512c9365f7544172f1	cấu tạo
+vsl-92e883f0cf6080aa080c	cẩn thận
+vsl-d56eb5fff8524c5ccba3	cắt tóc
+vsl-eafa198e36150388a8a5	cộng thêm
+vsl-2336e00b64d6710d3f2c	cờ lê
+vsl-1a77749d36e24fd5b1b7	danh tiếng
+vsl-d271b1daf3284e9e82f4	duy nhất
+vsl-850cb10c8dc0aa3394d9	dạy bảo
+vsl-fc0543e82c9625b31e15	giai điệu
+vsl-0a7619299e3cebddbcd1	giám sát
+vsl-ccacdc6395b7be5010c9	giáo sư
+vsl-6bdc2759e6cd23e98de1	giáo viên
+vsl-ff4de1f64e158191d92d	giả vờ
+vsl-86dae32bd6e272e0ca1f	giải phẫu
+vsl-cb2ef07d1ffcd27cd2c6	giảm bớt
+vsl-5d99ebf5499c05306ff7	giảm giá
+vsl-0d5f757ed60ff585de1c	giấy phép
+vsl-66e93e90984a9e330e4a	giặt ủi
+vsl-62298adff3412a19720e	giết người
+vsl-a0dff7a92644bd751f4c	giữ nguyên
+vsl-9feab9f962abe02148e6	gây ra
+vsl-544acab1fb5e36d4d719	gấu trúc
+vsl-ca2c6e4c2a3174bc0368	hai là
+vsl-749b52e8e71fd0b551fb	hiếm khi
+vsl-7cd5a79e49ced3f93630	hiệu sách
+vsl-cabde766958ec024390a	hoa giấy
+vsl-7d7f48b4ff047dadf2c8	hoa hậu
+vsl-98f0b711d29ebed83433	hoàn thành
+vsl-c3f5004120e17cb0847b	hoạt động
+vsl-e92ddc4c721438ab524d	hài lòng
+vsl-b877d414cc7c207c7077	hào hứng
+vsl-1a5533949d245bf1e095	háo hức
+vsl-7e0be5c61d1aa2a22b5e	héc-ta (ha)
+vsl-b88b003498562a6a3f43	hình dung
+vsl-7e242a59a81dc5680101	hình dạng
+vsl-b6b79f1d298c037f6871	hình ảnh
+vsl-f36abe890fdce26c6448	hòn đảo
+vsl-dd03403d6c9df74351d5	hóa chất
+vsl-0ba19549beb0ff9f9ac6	hùng vĩ
+vsl-cd1ff6b60437b18735d1	hải sản
+vsl-5d166b5abf5452b45613	hầu hết
+vsl-890e1c8c8ad98944d458	học hỏi
+vsl-84459addb2a401c1df74	hỏi thăm
+vsl-bf90667166ae3bc28da3	hồi đáp
+vsl-d268299b487701d19df4	hỗ trợ
+vsl-3a061d9b2b526d8470c5	hợp pháp
+vsl-5670110fc9cca3ae901a	hủy bỏ
+vsl-1fbe1276e266038214ad	hủy hoại
+vsl-bb4e706cdaccbee51f12	khoe khoang
+vsl-e7f4a4cf02079013b7c7	khuấy động
+vsl-295a13221801136835f0	khách quan
+vsl-dad7950ed3a76f03e84a	kinh khủng
+vsl-082e1568af75106f9aea	kì nghỉ
+vsl-87ff9037fa5436a99fc2	kích cỡ
+vsl-e159f2cd4d4c4019eedc	kế hoạch
+vsl-280fc188cd6cf7f9b82c	kết hôn
+vsl-6f18443617911ef67a2e	kết luận
+vsl-50a57e0a3b9c9133bc6c	kỹ sư
+vsl-c04ed8cc2efd5e5f0f3d	liên minh
+vsl-a193032b482ea6c0a4b1	lo lắng
+vsl-c49379a5089c9229719c	luật sư
+vsl-496458cfb0435fc963af	luộc rau
+vsl-20cb261d957ef7210990	ly hôn
+vsl-fd9c5760580d71830bfc	làm chứng
+vsl-b12c1f1e2771e232b680	làm được
+vsl-b42aa64ad42fdf4e0b09	lái xe
+vsl-12dbee0c3ec86ec02fef	lát cắt
+vsl-78623fc607d557b58332	lãng phí
+vsl-81fa73032bc42216b0de	lí do
+vsl-ca3719d40299584dd5f4	lý do
+vsl-1381f629da321a29bbb6	lễ cưới
+vsl-d0f6ad065037a23cca4f	lịch trình
+vsl-f8b122ca07737c856d32	lời khuyên
+vsl-9db994004151ccd166a6	mang đến
+vsl-396759f3e8a3241e8f07	mũi tên
+vsl-eb148144262d7cf0077e	mơ hồ
+vsl-3b861c25dd96e5173ac1	mệt không?
+vsl-d9668d1454d03d0ea49b	mọc tóc
+vsl-e670add7d4386c0161be	mọi người
+vsl-f887fb0895b8a4bea1f1	một lần
+vsl-3329e2c709e1f1a15c4e	một số
+vsl-bd732730bd39834d83bf	new york
+vsl-9f5e400dbb9a350571e0	ngoại trừ
+vsl-244e3967d3f39458c0b6	nguyên tắc
+vsl-287ad22aede0ff94fa57	người bạn
+vsl-5bfc87b05d4617ff5cb9	nhà hát
+vsl-70b54084b39d24fa07b6	nhân loại
+vsl-52a2612a107209d81740	nhón chân
+vsl-28a33b0ea04d97a2ac4f	nhõng nhẽo
+vsl-fa579470efc9e3a22efd	nhận dạng
+vsl-0a2984c086269a8fd20e	nhận được
+vsl-01d3239cdcd02c69d864	nhật bản
+vsl-40bcc08ae3f5ff2cf08b	nhổ răng
+vsl-313be9473bb1ecd65efe	nhụy hoa
+vsl-d6688eb95490eed7daab	ni cô
+vsl-dca800e518537ee0ef1a	ninh bình
+vsl-aca350852d848c33ed8d	ninh thuận
+vsl-27edb282aabb37b3adbe	niềm vui
+vsl-c01392949dde2b5f0ce0	nô lệ
+vsl-71cf62c6693428cef4f3	nông thôn
+vsl-3796493a2ec80776cc5d	nơi chốn
+vsl-d8605805e7ff7b0fd4d4	nước mỹ
+vsl-0aa1b1b251ec7b9a4ff5	nước xốt
+vsl-d867517b2c1eeb175335	nền tảng
+vsl-174d4c0b9d734cead97d	nổ tung
+vsl-be77530d9587bbc749d7	nổi bật
+vsl-0e20e77c84d697f7ae82	nổi dậy
+vsl-62395e69cd12d2856053	nổi giận
+vsl-d3a7d4ffb306c1ad4d73	nỗi sợ
+vsl-31e9e08cbff49f9aa409	nội tiếp
+vsl-6dcb160423513cb77425	nụ cười
+vsl-3621e473f258c390ea0c	phi tiêu
+vsl-d92fb345e004b670d715	phong bì
+vsl-3dac6d55e2f0a6fddb42	phong cách
+vsl-75fbd9e2b759fe8c567f	phong toả
+vsl-3e846ac5fd682627792c	phác họa
+vsl-6af65431867fa941f8a2	phát động
+vsl-9c7fb2fb6cdaf97461ab	phân loại
+vsl-a6a3eed9f1d087792afe	phân số
+vsl-d402e11381d3a2dcdc71	phép mầu
+vsl-440763e9d8ae1c1c6a1b	phép tính
+vsl-b304cc310b2f6a5cbb3c	phía sau
+vsl-2b34a022058fe31e3c75	phía trước
+vsl-2470edad2b87d8188b41	phương tiện
+vsl-e9e73342bfacd2135fce	phấp phới
+vsl-77692ec9ee65293bce27	phần thưởng
+vsl-6d5d8886af4953f213ae	phần trăm
+vsl-1443e47cd947b8ef0382	phật (tượng)
+vsl-b5e968449cb1f97b5d21	phẳng hơn
+vsl-191a4d06c25b36c7a9c9	phụ thuộc
+vsl-9a3bf4dc2512dd7322b4	phức tạp
+vsl-c33221deec367597cb3f	quan trọng
+vsl-440f61e26631c8642a91	quay cóp
+vsl-8a72907ed9f54b60fd56	quyền anh
+vsl-c9de0418a10a7c1b066f	quyền lực
+vsl-2145732a2b75a4e99e4e	quá hạn
+vsl-fa4737fd27be04729627	quá trình
+vsl-f763d305fa41d1ba3166	quân đội
+vsl-1b7f7d528b756b461338	quả bóng
+vsl-264e2280aa354699f72e	quả chanh
+vsl-52b5900fb5c16f9f9b7d	quả mọng
+vsl-c1a7410795fe67ed4cef	quả quất
+vsl-1506fe5579b7568ad09c	quả điều
+vsl-f3b1fd2784b19eb20d4f	quản lý
+vsl-eb455cc417f99664dcd1	quảng bình
+vsl-71470dae70513f543a57	quảng cáo
+vsl-ed9af55d0de660beacdf	quốc gia
+vsl-6465cfa524891d4c1557	quốc tế
+vsl-d93cb1390539bc47be90	quỳ xuống
+vsl-049dad4df2ac5e694f9f	ra lệnh
+vsl-4b4737787a50b7a44bb6	rau dền
+vsl-148d32dec1547b771f30	reo hò
+vsl-e9ecd4f10e3e99fd8c49	ria mép
+vsl-c5551cc048cf91e0bd8f	riêng tư
+vsl-fd84c13b0ab7399bf2af	rèn sắt
+vsl-4a0eb97363050ad96035	róc rách
+vsl-368a5045f7919d5a35d6	rõ ràng
+vsl-4976e8ba81b151b22a6c	rút lui
+vsl-c0c39cb8fffe229ff7a2	răng cưa
+vsl-68e736ec9a26a6322e16	răng hô
+vsl-1e3e8a89ad962bd80b2b	rước đèn
+vsl-0fb98b99711048bff639	rượu bia
+vsl-53a15e3fa86b8f3717c1	rửa chân
+vsl-7a4e1a2740e497593cea	rửa tội
+vsl-923c72cafd7703625db9	san sẻ
+vsl-ee80fb91c5e9a94648f3	sau đó
+vsl-cd0f8cd1388e9e8bae49	sinh hoạt
+vsl-e239b81e34479fd85685	sinh sống
+vsl-2229d5db886c37e4e248	sinh vật
+vsl-ce045a3009c05f72bfef	sinh động
+vsl-b973247deed83cd46329	siêu thị
+vsl-3a725c0085c6b614748e	siêu tốc
+vsl-63c35e43cec4b8d88261	siêu âm
+vsl-d2878db2b35fc47147dc	so sánh
+vsl-e1bbbef985df0948d679	suy nghĩ
+vsl-46ee14ee663fe80d2f5d	sáng kiến
+vsl-b011d2705fdf067ecd22	sân khấu
+vsl-2dc438016901d8dd33ab	sâu bọ
+vsl-6d1fd5060ad5d66fc123	sóc trăng
+vsl-bdce70b9b6256fc9b316	sương gió
+vsl-894ed87f4434d893d151	sấm chớp
+vsl-722264705cce315dbce5	số bé
+vsl-6866a7cae7391dc97e53	số chín
+vsl-84a9433030f483d13249	số lớn
+vsl-7bb3569f20249b8ac1df	sử dụng
+vsl-f7dfeb93c30352a1de5c	sửa chữa
+vsl-58519651a04e12cb970b	sữa đặc
+vsl-242becb964f13930f8c9	sự cố
+vsl-dccfc214162f94f6792d	sự kiện
+vsl-6a53116d4c2bacdda1a1	tam giác
+vsl-4c84102585b567974740	tan chảy
+vsl-dec06329e0dd43576181	tay phải
+vsl-f0cc3de8ec5831a9cda8	tha mồi
+vsl-46e1107101bb0b3fd06e	tha thứ
+vsl-df6f52fc4c10905b4987	tham gia
+vsl-cbe4b6117c7dcfcd505c	tham khảo
+vsl-4e2d42a9d6c435bcb409	tham lam
+vsl-a35b3bb880cbfae7de0f	thang máy
+vsl-1bf01f4089b778d3ee62	thanh niên
+vsl-470e500053cfa70aaf8d	thay đổi
+vsl-8e74c989e1591e349773	theo đuổi
+vsl-213abc2d17a532dadcdf	thoăn thoắt
+vsl-c0971b11aa09a4a91e55	thu hút
+vsl-e177b9e3ca8f0c1c0bed	thuộc địa
+vsl-f34049c890a77b687bd4	thành phố
+vsl-2abd9d81f599c479c29f	thánh gióng
+vsl-ae6b7f293f933685364b	thân hình
+vsl-b37f0daf193652db5c82	thân thiện
+vsl-3702594e0d1f6ffbb24e	thích hợp
+vsl-f76d0833fc36088a2b82	thăm nom
+vsl-96022cd4fb2944477665	thăng bằng
+vsl-8ce2a6e10352729e37af	thư ký
+vsl-beb0f831ef3159a290a6	thư viện
+vsl-7571a6216fc193b2e4cc	thương (số)
+vsl-ad367628d9f9534d77db	thương lượng
+vsl-008e506b14f9ff12f3cc	thản nhiên
+vsl-793d2e59995a89f7c1f0	thấp hơn
+vsl-88bb5010d860e6a3a46f	thẩm quyền
+vsl-e7b8fb9b3f0cf6560763	thắc mắc
+vsl-c870da41f5e5bbae9c1b	thắp đèn
+vsl-cebb6b016f9a157bab8c	thị trấn
+vsl-4505eb39996b4d7e74a5	thịnh vượng
+vsl-5baf8974aa0367212f81	thỏa mãn
+vsl-1ace0457e19a799db1e5	thống kê
+vsl-ec1d6d517c9515edc458	thời gian
+vsl-8815c74ad2d3dcaf1b47	thời tiết
+vsl-af423f9b171d3115c461	thụy điển
+vsl-6479467db84ac13f2af8	thủ thư
+vsl-f67fed8564fc82b677b9	thức dậy
+vsl-cce7d6b93d05661e238a	thức giấc
+vsl-e2b3f9ed595a43d56bd5	thử thách
+vsl-45307f86bf9acc42b9e6	thực hiện
+vsl-c0a6b86bb4ed867fb7ee	thực vật
+vsl-7a305a93ce8a4e8c65c9	tia chớp
+vsl-cf76c40561e6a6bf3360	tia sét
+vsl-303e0571c64010497bae	tin cậy
+vsl-64742dc7fce4190e7d76	tin nhắn
+vsl-4f859f00d193d3fdbf37	tiêu hoá
+vsl-117c1a4a655c4dc25b3b	tiêu đề
+vsl-b8b979c4d7627b041307	tiến sĩ
+vsl-d3f9cb115015627746a3	tiến triển
+vsl-dc3b892d2eb18a955590	tiếp cận
+vsl-c5c11922e74fa9320b77	tiếp nhận
+vsl-6f9f6f51afa975b2cdbb	tiếp thu
+vsl-9ec18afd893225c5a229	tiền bạc
+vsl-61ec80c73c9e3367efaa	tiểu học
+vsl-456f6fb2d0e9cc2029e6	tiện nghi
+vsl-d8646093295c4e6037a6	to lớn
+vsl-be1f7880783d7a59ed53	toa lét
+vsl-df58abf841011f6c3447	toàn cầu
+vsl-3694970d6ba86cbbc1b2	toán học
+vsl-08f391b1be7d20d1d838	tra tấn
+vsl-f40eb68defc4bbcb908f	tranh cãi
+vsl-2b64955be00dc2213391	tri ân
+vsl-09c92e85182d21b6ddc9	triều đình
+vsl-a5c7739642f9c900772c	trong khi
+vsl-da8c3e014b01dff40cfa	trong lúc
+vsl-e899e9d97d130f3c4b48	trung tâm
+vsl-2f456c528591ec5c1656	trách mắng
+vsl-38cf9791894ff6507e44	tránh xa
+vsl-f7f5c693abddf63c85a7	trì hoãn
+vsl-2f9a96b4a8476332031b	trò chuyện
+vsl-8451b62ebfce0840f985	trơn tru
+vsl-5910ba3c89d24b8221a5	trượt tuyết
+vsl-a90493bc993e7c8d31a6	trượt ván
+vsl-72c47e269914f9ff2c95	trầm cảm
+vsl-7462720dfed640e05d30	trị liệu
+vsl-c39c5ed95cb6ad89e3c4	tuyệt vời
+vsl-f2525e0dcac134ac5e65	tài năng
+vsl-7b9db8d16e7e47ca2456	tài trợ
+vsl-25a79c244f32cdbc5716	tàn nhẫn
+vsl-81708ac57d9d47cafa7f	tác giả
+vsl-b66283ed66fb610f8503	tác động
+vsl-f74daf940a9b4253a322	tách ra
+vsl-26fbf6d958c5d88dce92	tán thành
+vsl-e9e662ecaeee23b618c5	tây nguyên
+vsl-07d72153234d87f38266	tên riêng
+vsl-c8188908062b9300a896	tình yêu
+vsl-50e1b58aad871ea6128b	tí hon
+vsl-f688c8de4475b630d31e	tích cực
+vsl-97fddf023243be535f98	tính cách
+vsl-e2bfa65bd332c7687e26	tính nhẩm
+vsl-4d50ea987566da5837c8	tính toán
+vsl-799e7f24cefd38ce2239	tóc xoăn
+vsl-809e87f710d568624667	tôm hùm
+vsl-3aa248888c7046379653	tương lai
+vsl-30e0fa08f9d2c9dbcf19	tạp chí
+vsl-a6e92462ce14fd8d865d	tấm màn
+vsl-66e928c9e3eebec88751	tầng hầm
+vsl-2aaf2545e31db6df512e	tẩy chay
+vsl-6bd88cf64243412d0496	tập thể
+vsl-852f5ded5946dec0e427	tập trung
+vsl-0491c203f44032becd13	tỉ mỉ
+vsl-c971226092cb7e2c6c4e	tỉ số
+vsl-71b61bcd817d301f1d7d	tỉnh táo
+vsl-bf93835f1a3265760b46	tỏa hương
+vsl-a134cc44b8f7d61d390a	tối nay
+vsl-493ee37ee00d4229d47c	tồi tệ
+vsl-13b09e746c5f7fd624e6	tổng cộng
+vsl-a7ce9a0b10bc8a731cf5	tổng hợp
+vsl-b670d253f15c805f6467	tờ tiền
+vsl-aff0d1f1f2cce70a14a7	tức giận
+vsl-68b7c5bac10a3c6c4bbc	từ chức
+vsl-38034f0f0bc3c3f85bfa	từ điển
+vsl-cbab0ab501177d022216	tự hào
+vsl-2c9a8341a3ca4ef4a596	viêm phổi
+vsl-290faf8879ababc4f66e	vòng cổ
+vsl-78b8a7e3d89c3b5c1b9f	văn phòng
+vsl-1885b16add0454b5cecb	vương miện
+vsl-cfd38c1e1f527f80408d	vượt qua
+vsl-225659bc9fe952640f3c	vắt chanh
+vsl-8665bb03b1f5e1d95281	xe lửa
+vsl-f3830f422b3005e7087f	xúc xích
+vsl-2616df3fdb3582289e1d	xăng-ti-mét-khối (cm3)
+vsl-0778dbbe5cd92bedfb57	xảy ra
+vsl-6d0031f83e807df30522	yêu cầu
+vsl-ddca33be555c47f8abc4	yếu đuối
+vsl-86d9a47006e6eabd87e0	áo ngực
+vsl-bc2c8009a41670787fb4	áp lực
+vsl-b441e14b236f96eac284	âm nhạc
+vsl-4330bab58d3dcfa49a20	ô nhiễm
+vsl-04d39b8c5e812a954cc1	ăn vụng
+vsl-dcaedcb677eacf5c50ca	đau chân
+vsl-feb07a8e98c1d25d92da	đau mắt
+vsl-07767d8f374312845ced	đau tay
+vsl-fd4a2d9ae7eff114af78	đau đầu
+vsl-c502d47c2a4331fb447d	đi vào
+vsl-e1da86403849e6dde82a	đàng hoàng
+vsl-1dc81e65d27a3a8f5939	đình chỉ
+vsl-986786dd5316dcacb97c	đòi hỏi
+vsl-2472facb7cdf82c1b24c	đói không?
+vsl-3e0515761bf23b886f2b	đùm bọc
+vsl-ba5ca7b58f88e8f92ee4	đấu giá
+vsl-9c6a9d4ac89364f2dae0	đấu tranh
+vsl-ecfdf5196e2810085b90	đề phòng
+vsl-200a12e960300beef01b	địa lý
+vsl-fccd1539eac87566b374	đổ tội
+vsl-01b781f04917122ef9ee	động cơ
+vsl-0846950799cddf44ed13	động vật
+vsl-3913f9ee4ea9ccfa8ba2	ống nhòm
+vsl-a9efebb5a200d09444d4	ổn định
+vsl-bc49b11f3b1ae1f3bce6	nếp gấp
+vsl-32b49ad909d78f9301a9	họa sĩ
+vsl-08589f50f9d22d2b55e6	xa lát
+vsl-8d94a04eddbefbc3fcfd	không có
+vsl-5ced5917e90a72891a1b	đi bộ
+vsl-4e783566e40f54f56cab	miễn phí
+vsl-d3c898033e6737487c0e	quần áo
+vsl-8932020b203b57a76a4d	cố vấn
+vsl-24affd8935a9740180be	số lẻ
+vsl-fcdd68bfc34dcedaae41	thở dài
+vsl-1c301c4708c88e6b637d	trang trí
+vsl-848f7c38da0cf48e3378	bánh tráng
+vsl-534a5451fa39692d9463	thung lũng
+vsl-5a689ccd1a564a16352b	chật hẹp
+vsl-78b579f3c87b381c9928	gia sư
+vsl-eae8b66fda198d4a9a8f	thay vì
+vsl-28e5916b2c5681c6733f	thuốc nhuộm
+vsl-53240e523240e23ede6d	nước mắt
+vsl-84eaa8a7fa1c86cc8819	ốm đau
+vsl-369c49e8798e78d80611	phô mai
+vsl-6dd7e6948db2d2089ded	gian dối
+vsl-0ac97e04b235e7af19f7	xăng-ti-mét-vuông (cm2)
+vsl-d631f359bbf91dae6453	nhút nhát
+vsl-4d979a41c054768840ab	say sưa
+vsl-835791818cf411f103ba	quần yếm
+vsl-cfdb102b2df950c25c67	nổ súng
+vsl-abfe4616b9f5d37204d1	chị chồng
+vsl-77e60d658ba6d2ca87aa	nhổ tóc
+vsl-8f2b593b7f163d05b669	tổ trưởng
+vsl-deaaa55aadaec757a224	dịu dàng
+vsl-ae1e0fab135683975e40	tháp rùa
+vsl-b730417151ade1f24ccb	ống nghe
+vsl-0d613a928c7bb59814b5	rễ cây
+vsl-d0a51924c1427b5fdb89	ống nước
+vsl-5485fa87f9835b371ad0	con hàu
+vsl-981618daa69d3ea25ea9	nông nghiệp
+vsl-ebcd48101fc19a5beb98	quảng nam
+vsl-494017252b02276d11a9	rễ chùm
+vsl-f875510014ee6b9df937	san hô
+vsl-ec6546383cbd0a503f7f	trà nóng
+vsl-c025ebdb56b977bab5bc	xuyên việt
+vsl-8d1ef0285d15ce446081	thành viên
+vsl-a7b0b1b08cf4d907f9fd	tính từ
+vsl-39378a8f878649d67374	quý giá
+vsl-971281bfbcf260d083d3	siêng năng
+vsl-31537cb7c2fef269fd9c	kim đồng
+vsl-ed7fb1382d0ef8a92338	nhu cầu
+vsl-aee2b6000e5990cc9062	riêng biệt
+vsl-1b05616fcd973289b4f3	sông hồng
+vsl-f922132211f721cd23c6	tổ chim
+vsl-6e4807c2bff3ea40c762	quả bầu
+vsl-711af7c77a279627d3b8	sẵn sàng
+vsl-d47c380d6ccf789a4e70	tải về
+vsl-202087842b42e7305467	tội lỗi
+vsl-eb267e8fd54c7c494092	đô la
+vsl-4d3aae3925a11080ff06	phong trào
+vsl-d05da77f381d61136a9b	pháo sáng
+vsl-b0b291d0f5cfce86945e	quốc hội
+vsl-be1909ce2b41fc4f3e32	tiến bộ
+vsl-56b86b8cef5b629544c6	trí khôn
+vsl-b8052dd638536d2d39fc	tổng (số)
+vsl-1fe87d879e0a904c7023	một là
+vsl-3bcc877cbb318dd1f1f8	tin học
+vsl-e9e8b56eb042f7488a2e	xui xẻo
+vsl-49b974d205ac7222c94e	yên tĩnh
+vsl-9429f817a4f1571f41a0	dự án
+vsl-556fc0430efe139b7c23	phiền hà
+vsl-9b9b9dc418342fb7da01	quốc ca
+vsl-73b23ad8236f79a3f984	rẽ phải
+vsl-008ded04ad861b4ccb72	sĩ diện
+vsl-f772f3653ed62e0907d6	miễn nhiệm
+vsl-90b2a8b516a707414e3d	đi mất
+vsl-0d8d62ae709ea8e09c3a	lượt đi
+vsl-ba69a24ad975e85e8693	lấm lem
+vsl-261633bcd11d42704cc8	phú thọ
+vsl-61e9679e84808ba7d96f	quang hợp
+vsl-1ccb163a2f5281d4572a	rút gọn
+vsl-1efef15709a378d0c351	tài giỏi
+vsl-873f69bd0a9125ac0371	đại sứ
+vsl-a5c73e61a726c147583d	hội thoại
+vsl-a696057a0e407be6e93e	quan điểm
+vsl-1d438e70fa1cebb12a09	trung thu
+vsl-8837f8def11a8a346cf3	kim cương
+vsl-8ed067e6c0e4b43e8e74	quát mắng
+vsl-2035d470f202ed07fcad	thanh hóa
+vsl-338f697d7676c2685d3b	thương mại
+vsl-e709051189eec9cd1e5c	tia nắng
+vsl-d1bed3163b1a82ba4146	trong khoảng
+vsl-2ebce43e0c70ed64ca23	phòng chống
+vsl-25c888a4ae03fea35568	rửa tay
+vsl-97c3849f7e9cd1f4affd	thấp nhất
+vsl-24fb2fdd2a1d41349f23	phấn đấu
+vsl-0ea715d11a71bc2b532c	sụp đổ
+vsl-a68b980df605bc8c7e62	thành công
+vsl-fe21ebc8892cb9fc3174	thắng lợi
+vsl-e30d75a75499760b06ee	tác dụng
+vsl-269dacebd50c79663733	điều phối
+vsl-8beac6178d1c57213357	rộng lớn
+vsl-4696596bf18a4b5a50b2	sản xuất
+vsl-87cb8511588e74607a15	tiêu cực
+vsl-d9059aee306bbca6f613	liên hệ
+vsl-3e640870d0cef02d59fb	hữu nghị
+vsl-7e4a8d5fd3657a050c04	quét dọn
+vsl-1a2a6d998a8b2fc0ac7d	quả mướp
+vsl-39357021639a3c431636	sừng trâu
+vsl-77613c721a534dd982e2	ăn bám
+vsl-9ff0fa1a5d6cba838e25	phô tô
+vsl-3fe2e1ca737291d4cb86	sơ đồ
+vsl-4b3717128baffdbb39c9	tính chất
+vsl-71a7ad517ff74caffe30	thần chết
+vsl-af6c3b15108ac2b91310	đèn pin
+vsl-cafe6c52f4aacd484ced	chung tay
+vsl-0fe79fc8ddf9ebc51429	nước úc
+vsl-d8dbea1d9655bbe3c22b	tốt nghiệp
+vsl-81bb16b3e0cbb8adf31e	rễ cọc
+vsl-53bb705cf8b62f028a7e	quy định
+vsl-529a91f7d9c279cb76ca	tây ninh
+vsl-9df170f105f4facfabd1	cảnh giác
+vsl-8872895663b77161ef16	thái nguyên
+vsl-a714e4f2e008979adc6e	thả mồi
+vsl-677453a6ed8fd8c0f1c1	tác phẩm
+vsl-fdb2503939b8368133db	tết âm
+vsl-8f6ea7853df4fb680f65	tin tức
+vsl-e46a6ac4a86663e46c53	sừng bò
+vsl-b8750da0a648a41d6e77	tay trái
+vsl-70bdf3ab2475abaca677	cây cọ
+vsl-d764bb270ba90db708e1	địa phương
+vsl-026cf02d887272ebeaa4	tia số
+vsl-ad180296402554abbacd	phát hiện
+vsl-ba9652f0a873557abc45	thái độ
+vsl-8c7d9b5d44116c57ee25	thực tế
+vsl-54b970f23fe4e523edea	bóng chày
+vsl-8aaab9f54e93d1df25ab	du khách
+vsl-c8fbe519b1748558b3e5	nhi đồng
+vsl-93a67127cf5cc8e5e80a	trao tặng
+vsl-1bf135ac082bd9356abc	góp tiền
+vsl-fff4bed46aae602dbb62	tối tăm
+vsl-c73e74d3a413451ca1eb	khảo sát
+vsl-c546cb87137ddbd60776	trà đá
+vsl-443ce47d8a6134ff1b0c	tóm lược
+vsl-7bfbdd7e961b59cbfdb2	son môi
+vsl-315e110563ec176cb734	cánh buồm
+vsl-cb4e76d3c092895f09be	nhọn hoắt
+vsl-76b46e0f5029e722c79c	tích (số)
+vsl-4312e20baeacd506ccdc	xử lý
+vsl-7064047a499f24e76698	khổ công
+vsl-9e074b713d03e1589ac2	phản xạ
+vsl-07e79986e5e759e07bfe	nhà kho
+vsl-07a5ed1797ffd207040d	quy tắc
+vsl-c4a4ef2c421c4b665006	chõ xôi
+vsl-c6fb7c6d300bccd2c2c9	giải thoát
+vsl-ff984919cc227c775f18	xâm lược
+vsl-ab352de0336b1ab869c2	nổi nóng
+vsl-0d316c241e7d0db4f8ca	quạt cây
+vsl-586eb3628cf808fb6b90	sợi dây
+vsl-10b78e56882443c46651	khoáng sản
+vsl-30957ea0bd2184d33233	nội quy
+vsl-df3d29d0bacd57c5acf8	sáng chói
+vsl-6a7fa2ba6477d68c9e43	làm sao
+vsl-059f481f6956e7a97b0c	thể hiện
+vsl-ffc324c176a9f0db20da	đun sôi
+vsl-48cfd4a6f012cad0caae	phương pháp
+vsl-1746e11858aa6a8df1a2	quốc khánh
+vsl-8d7921b900815ccb2eaf	ôn luyện
+vsl-e2d9436a9479ea79e2c4	đứa bé
+vsl-7ba982e359e38e9e79f5	nghệ sĩ
+vsl-6a696d2df318406e2c29	phê bình
+vsl-27f0edda6f6b48afabd2	làm phiền
+vsl-b6d241590a4ca796039e	máy xúc
+vsl-8addcbba4352285cfb2b	rình mò
+vsl-273ca20db4e8c3442a01	rừng rậm
+vsl-f63b0039a66a618bb72a	vay mượn
+vsl-ca4c733737e7612c7094	sóng biển
+vsl-84af18d8f75e1502a205	sự thật
+vsl-b54dac60aba6e84a6e84	thành thị
+vsl-573c190c662f3f33d1e1	thân thiết
+vsl-30c459825758ecfb4968	tấn công
+vsl-446b9e0d8df0840436b0	lòng tin
+vsl-d538fe4c3855640f6afd	tổ hợp
+vsl-71b73ce912a4f8550f2d	pháo hoa
+vsl-cfd551eef14eac8f1f45	tách lớp
+vsl-f2b08b64c6030e9684e1	rào chắn
+vsl-468c9288b25096fd1153	cho ăn
+vsl-5116cb3ba42d3271641c	gian khổ
+vsl-81c2a12fd3e240210ad7	phun nước
+vsl-b44745a87bb00ab98635	phản động
+vsl-f8303e4b5678bcd48a45	quả quýt
+vsl-925b57bc92835f0f2c95	tháo gỡ
+vsl-14d48ff615419f19b37c	trêu chọc
+vsl-fb63eeb3268452355545	lung tung
+vsl-ae08569ad4c23877fa46	tránh thai
+vsl-68f8b524ad96af1b5596	đề nghị
+vsl-bf3ee080fc40e57255f5	trợ lý
+vsl-7b31c9302a3d6b4267b7	tài chính
+vsl-1194d66499525ab6b1ee	lễ vật
+vsl-4c8acda3964bbbf74def	nhổ râu
+vsl-90501d373e2f9e0b48a1	sợi len
+vsl-a71835fb2211fdcb3c8e	tết dương
+vsl-e0ff3973268e12f6f21a	đổ tràn
+vsl-7d4bfcd0dbe1ecb348db	vịt quay
+vsl-29548e4a26c5485ae58b	xe ben
+vsl-b3caf08f548b6c530b6b	xe container
+vsl-e8e8ceb848cb5ee3fdab	thế hệ
+vsl-68582298b1d47938e242	tóc dài
+vsl-0c1566cb9bc059a0922d	nổ mìn
+vsl-cedd7607309d83b55584	pha chế
+vsl-99f73d075f4f8add760b	vênh váo
+vsl-52081f180f5da62c3feb	quyến luyến
+vsl-441134c12a3ea8271e4c	quảng trị
+vsl-8a9be5cdee42362ae9f5	đông cứng
+vsl-67364b4ec98c569ed706	tự trọng
+vsl-21dfb0c8bdcb114ea55d	tin tưởng
+vsl-0ca9334b3784fb731049	tên cướp
+vsl-be19c5903a98bb021f37	nói chuyện
+vsl-a3eab7f74ca9d5c156bf	quả gấc
+vsl-e36a69ddf27985b9bf75	ở trong
+vsl-403114c3aec6353709d2	thất bại
+vsl-43634100a4c21ecb0e15	phân công
+vsl-e06219811da9f2c79934	quả đất
+vsl-a9c8c584620da297ba1f	ngập ngừng
+vsl-fe832bc5112951dd0759	quan sát
+vsl-bc332f99a0e0dd937157	thần kinh
+vsl-b65118f9a9f5cb284913	số chẵn
+vsl-9b306883b01656c1421a	kháu khỉnh
+vsl-1c09ac18da0bebd70a0a	phục hồi
+vsl-399e46b20e7425f0a6c9	rong biển
+vsl-3c2c6f1bf48b44191902	lá cờ
+vsl-d525a3ccbde005dd319c	má hồng
+vsl-fb330bbb1b0ba011c3b2	nối tiếp
+vsl-f30ddcb2dd1db2452676	núi cao
+vsl-a514f7f8a4d00b1d7aed	buổi tiệc
+vsl-faa8f356d5e07fe5e21c	đầu bếp
+vsl-bc237ba2c1e05ad14306	cái neo
+vsl-f448003234c653a86e7b	sách toán
+vsl-1aeace01a069bfdff0d5	lên đường
+vsl-0434ad6f9120e00a818c	rắc rối
+vsl-7f2acebfd792064cb3b8	phương hướng
+vsl-70311eb1c4535fdf9fe4	phân tích
+vsl-a44d11cb23985e8a0c2d	phổ biến
+vsl-fe21e309c68c83bb75aa	rón rén
+vsl-66a257574546c49bd556	mở rộng
+vsl-2d8abe1d441ab3d80fa7	ông già
+vsl-ac35231c252c02d4c622	giải thích
+vsl-f3c1af3a2f93e9f09ea1	lầu (tầng)
+vsl-808c7850171f77b59810	sâu thẳm
+vsl-17471de4ef5a17da675c	thầy cúng
+vsl-bbc6bb4f2d045ece659c	trang điểm
+vsl-fc412c72876300e11795	tập viết
+vsl-e590788a6ac20576ef4e	không ngon
+vsl-86cb7743f03e74fbb518	lôi kéo
+vsl-66c7d8671a119b203f04	bánh sandwich
+vsl-459b09d6ddf9634d148f	thổ dân
+vsl-67cdc6122843d1909360	thực sự
+vsl-c02badcf55392d09f221	tiếng nói
+vsl-88612237f19f501969a3	tặc lưỡi
+vsl-9a9013b015e11ae1057b	phủ nhận
+vsl-2474f40597cbeed20bcd	cả hai
+vsl-82c12c3b45be7d887330	rừng thưa
+vsl-2a123b5fe58cce47bd7d	trụi lá
+vsl-7f1cab939d819b353405	cung tên
+vsl-afe6d0d956c18056526c	hư hại
+vsl-6e0dc4b1e2a05591fbf9	vô tội
+vsl-5acafae7716e71fa1bf9	sa mạc
+vsl-9a09363172d6b3488b75	thẳng tắp
+vsl-32b248e40d76fa0df8eb	hôn ước
+vsl-6070a7ca310185f637f8	răng khểnh
+vsl-599d19a6ae7ddbf73268	triều cường
+vsl-5bf810ae4dbcc303248a	cháu trai
+vsl-d493cd7e51adfbca15c3	quảng ngãi
+vsl-4480fb249f41aab89de3	quay phim
+vsl-4f833e2f0e1ffa1893a8	tiêu diệt
+vsl-5cf731333f8039bc977f	ngũ cốc
+vsl-c71affff3fa5f8e0b498	sâu răng
+vsl-78d63b70fb1a5cde036e	phát triển
+vsl-4a68dc715ef2b5df947b	tâm thần
+vsl-37f038ad29444047d45d	hên/gặp may
+vsl-8bab5d55826e291c27e8	sợi chỉ
+vsl-3fd2a881b7e6c8ad3433	trại giam
+vsl-df604192b4a507a9070c	ru ngủ
+vsl-0828ccec5905cb3f02b6	phân biệt
+vsl-2d241d0190034c7656a5	giao thông
+vsl-dac612aa9c9d495cad4e	thế giới
+vsl-d32dc3584a7ef7d35abf	ăn cóc
+vsl-7fee2510a344aada7a96	phù hợp
+vsl-27a1834e374ec3bbd809	khởi nghiệp
+vsl-a68d95cd425f73172cc5	ngừng lại
+vsl-7316ffa51ad4052c4a89	quả ớt
+vsl-7b891016ff4a5c63e5d9	trà sữa
+vsl-ec81130f01682bf1d0d9	hành quân
+vsl-b3f0e876e7c50421d69f	tiếp theo
+vsl-ac41873615fe6135a000	làm ruộng
+vsl-d0e5ee53d310ea93d466	quý hiếm
+vsl-ba2270178fe5fa3f1363	theo dõi
+vsl-b21cd13aece7277dd636	đầu tư
+vsl-fcbf81846e4d45daee1a	rộng rãi
+vsl-ff762aadb51ce498d7a3	cặp tóc
+vsl-3ed57fc48e5b6f00ca84	im lặng
+vsl-2e21f16d0efa26b4612a	sáng tạo
+vsl-73962a7f0928638a1bc5	quả na
+vsl-357d5d05bbb55d2a3870	tỉ lệ
+vsl-f49a52eabbcf9d79ecae	tống tiền
+vsl-0801257b7c26289637e1	hoa mai
+vsl-6da7014b02e4bd84dca8	nháy mắt
+vsl-7aeb53d71def32e5e1ba	sóng thần
+vsl-0081001a48210f2ca68a	tàu thuyền
+vsl-9ea323c9358a722c7d25	trà vinh
+vsl-10664a2e6387ccc288dd	tuyên truyền
+vsl-d54f4700e51cbf963d45	địa hình
+vsl-50e25ef7e37343f9a78a	tây bắc
+vsl-44d8c65740b73d7eeae5	khả thi
+vsl-b6eedd664b3e5c8d95f0	bánh ngọt
+vsl-8e7f6352dd71143ac9d1	phi ngựa
+vsl-a5cf92477bea18996677	trông nhà
+vsl-a51f96d27a5a45223183	quyên góp
+vsl-22871123929f4e070a99	cả ngày
+vsl-39917b03ea2d601af617	công trường
+vsl-adbada92a7232dcd1f15	phòng bệnh
+vsl-931db80cccf7eb67dc06	ba là
+vsl-5e8dee8dcb73b8900f73	độc nhất
+vsl-35cc972b869bc9ad36c5	tranh luận
+vsl-7588190a22283573b0f3	săn bắn
+vsl-83eb2fe50eb49904ffd0	nhẹ nhàng
+vsl-6b1f51e42969aa3c7626	thán phục
+vsl-b1e339a3809eec200545	trận đánh
+vsl-c0e592708cf7d5898b62	cơn mưa
+vsl-12d0879d9e9956aa472a	đua đòi
+vsl-eca01190c46eb02be877	sổ tay
+vsl-790bef30f789cab1d7a8	thác nước
+vsl-7dcff5314962cffa0159	tất cả
+vsl-3d9175a607d073c04eec	thập thò
+vsl-6dce0fc916e0b570d4c3	chiếm lấy
+vsl-10dc453a07a5a5701a59	tài liệu
+vsl-4d07876e1f725134ab85	núi thấp
+vsl-535f7919c7fcead4cd23	trốn tìm
+vsl-c33c22d1000a578ba6a0	đỏ thắm
+vsl-ffcd9e5f4cd3ba6e3220	tình huống
+vsl-321d99fa48328be2a996	mênh mông
+vsl-ba4c8f269336f4c708f0	nhận thức
+vsl-2c200509feda6d82f5ac	heart attack
+vsl-cfd14365643395ef309b	nóc nhà
+vsl-daa8f6721d1be93ba608	mọc râu
+vsl-107db938ce6e442ccc64	trách nhiệm
+vsl-9025a75a74d7a634f540	phòng ăn
+vsl-095a5a1c1286294a3ed5	năm là
+vsl-731b62e5652b8f2d4cdf	sum họp
+vsl-76b57fb5c1a518bfe2f0	cạnh tranh
+vsl-211a8dc32cdec08cb444	phụ huynh
+vsl-e6f0e6e5eab903ee757c	chanh muối
+vsl-37894d4eabd06710e4f4	rèn luyện
+vsl-e5b708d82df95b4cce08	nhẹ hơn
+vsl-6d124e3f5c03b71d712e	núi lửa
+vsl-0fca22622e4f17a22730	tím tái
+vsl-fc162f2b3ecd9fd54b18	tĩnh lặng
+vsl-ffc4039121908f46d8b4	mở cửa
+vsl-34bf35f4ea37b5d4fafe	bắc ninh
+vsl-47cb4dbd129cd398ffa8	kết nối
+vsl-a5c153488bbce911e995	khoe khoan
+vsl-81d3be147a3731f8a0c0	sân nhà
+vsl-b5fdbf2007440f7bc140	xem đã
+vsl-b3efc69326a73c7e78a5	cái gùi
+vsl-f6be610efaa54ccba486	hội nghị
+vsl-fde6065e82a7972e982e	đứng đầu
+vsl-26aee6f268db012abee6	số đo
+vsl-8cce58375ea1ecba78ca	nhăn mặt
+vsl-6387eb0aa5f5f8796a23	keo kiệt
+vsl-4d69094a1f3055a49ba6	nhiều hơn
+vsl-c6759dccbadbd5a0563b	tệ hơn
+vsl-9ad2bfc2eeeb45e8acd2	tóm cổ
+vsl-07b9b92749ca6180a719	nhân vật
+vsl-dc745805d4a1a36aa220	duyên dáng
+vsl-9df020549b6d446c2ccb	quả hồng
+vsl-a6c86e9e5777693ed5f0	quàng khăn
+vsl-4c55b199b8f013913aeb	đồ lót
+vsl-5158fb52145413850c50	vẽ tranh
+vsl-a98b3f6e64402a73ead2	hợp tác
+vsl-57e7e3962f9e94a1e1ff	đầu đề
+vsl-3fc4fdf4fb96e3394cf4	đất ruộng
+vsl-809e27e98603ab11262a	tôn thờ
+vsl-0c0bbceefea40f9ad118	tòa soạn
+vsl-78f892cb647957a96152	khách hàng
+vsl-01bdcd97a418bcabdcd4	mũm mĩm
+vsl-2a1470be2d907ade3b7b	nhấp nháy
+vsl-43b80335f76c66c7030f	trang phục
+vsl-4c94971f3310e4f76b33	khoản vay
+vsl-9ba0ae58f3c0c2cabd72	tiền gửi
+vsl-9f64528908b986413250	móng tay
+vsl-17c8e5518437ad09af73	nhân dân
+vsl-2baba7b356dff99ce9a0	nóng tính
+vsl-8ea3014c5e0aadf51d45	mớ rau
+vsl-63358fb2dae293e078f6	mầm non
+vsl-a95b0d7ef5423810fa72	lãnh đạo
+vsl-5de0d3864fa4bad3d99f	cau có
+vsl-98a1566337b5cd2c3de8	nhận hàng
+vsl-dc3e72586da94e36cfda	nhân chứng
+vsl-052ea780cf5d5e74e127	tòa án
+vsl-25fb42b3639b186ae9fd	múa rối
+vsl-0077baa242b2dcdaf668	mở màn
+vsl-7832c6c99c64e5bfc531	nhận xét
+vsl-ca2042139ac3718ead7f	cao (núi)
+vsl-3a06da44596b45f0cd18	bước đều
+vsl-877dfe9a491852661420	xu (tiền)
+vsl-4da94e6bb1a7895e1c96	tổ chức
+vsl-66109a2c09096ebab758	xe lăn
+vsl-50f706c9fce0fb070ee0	hà mã
+vsl-1896c14858ba2b3c3fa0	tấm lòng
+vsl-f7adc2c7a90559566e25	ám ảnh
+vsl-3f92f814301c29032495	hoá học
+vsl-ba98070c781bdeb087f1	phố cổ
+vsl-73603d6d149e5cfee3a2	mặt đất
+vsl-9d3a7092facfdeeb3b2e	lớn lao
+vsl-133867db9b914c52f238	lạng sơn
+vsl-89ceaa2a11d0814e3d58	ai cập
+vsl-9e83ca9df03a047b6b82	buồn cười
+vsl-5cd755b588d9a7805874	bí mật
+vsl-a715608c1e1d0b4e4689	bông tai
+vsl-2382e13c0d4338f8869d	băng nhóm
+vsl-e11dc52b03b60aeddf94	bảo hiểm
+vsl-14fbf65eafa3a6f0d03b	bất cẩn
+vsl-3456786931cc4979c381	bất kì
+vsl-1015a957ea35ee713e83	bụi bẩn
+vsl-7960bdfe47ae8c3b8648	cha dượng
+vsl-f03f29abf0700347b8a3	chanh vàng
+vsl-7d960c423c6a14742a93	chim ưng
+vsl-a9281835dd36cbaa4312	cho rằng
+vsl-0d3aee2d92658664fcc3	chuyển khoản
+vsl-803c53ce4637159f2699	châu phi
+vsl-d25ed46801bc056da719	châu âu
+vsl-310eabb2d0ddca831d50	chính họ
+vsl-d0646d6256553dfd7e0b	chính trị
+vsl-251585b0a6f77c649e83	chóng mặt
+vsl-4bb03cb9cb6919c41990	chúa kitô
+vsl-739402c5ef76faa27ad4	chúa tể
+vsl-5ee005d369d34b0269b8	chồn hôi
+vsl-21d14e84483de08bc296	cái búa
+vsl-3c0e0e6afda39bffad70	cái đó
+vsl-3bc533313f0ffc388fa5	cánh tay
+vsl-c972020ad5c99b1f92fc	cô ấy
+vsl-7e5295943c320a68a8c0	công ty
+vsl-47dbf5d94ebf1de40f75	cạo râu
+vsl-331d7b65ccf42e9487f7	cảm thấy
+vsl-b2d3e2774057a4a6f8a0	cần thiết
+vsl-d7aeb24321c65d8b7375	cờ bạc
+vsl-b03300434e7de154cd31	của bạn
+vsl-4d4439ef9e944ebc1a38	của tôi
+vsl-175054a8e52d749273eb	dưa chua
+vsl-f400f274caf40f89800a	ghê tởm
+vsl-9804d96513a5f5300d1e	giáng sinh
+vsl-f352d426e0211cf267f3	hoa kỳ
+vsl-b656857e0cbdc35f9731	hy lạp
+vsl-9c4e88bb22674fa32942	hét lên
+vsl-51fdd29847a7fc68dfbe	hôi thối
+vsl-23878e6432a7b06ad773	hướng tây
+vsl-da716eb4a5b3b3b66298	hắt hơi
+vsl-c2f823d5a1d41f3d4095	hợm hĩnh
+vsl-c7cc08bbd1f47cb7f040	khẩn cấp
+vsl-9903e81540bacc105aed	kêu la
+vsl-3a9648f32a16831be4ac	kỳ quặc
+vsl-f9ec269c1081acfaf808	la mắng
+vsl-51fb2b480bcf0c5d7e17	lau dọn
+vsl-6977bab55d592b0f6830	luôn luôn
+vsl-2ddab0c6b6ac0fae366e	lý thuyết
+vsl-9481019d339be2a7d37c	lạ lùng
+vsl-999e579cb16d40470267	lẽ thường
+vsl-eb779c8412d2e84e4fcc	lịch sử
+vsl-1610516078a2c0afa3f0	lịch sự
+vsl-bd72474d50e1178dd333	mà còn
+vsl-b8a4d78e512468ea6ded	màu sắc
+vsl-e62b5436261bea4803da	màu vàng
+vsl-472cc802f58e1bf6c9a5	một chút
+vsl-49fe7ee4973f1f3e22a6	một vài
+vsl-e0ca59bcd7e36b369250	nghiêm ngặt
+vsl-2f4669de0d5f6a05cd7f	nghiêm trọng
+vsl-acf6f3166f5763e40cf4	nguyền rủa
+vsl-a6e5ef5791e65f9175ab	nha sĩ
+vsl-0203a6da71df0d53e7ac	nhà vua
+vsl-274f620e4ef57db6059c	nhân cách
+vsl-7fe409de65f649cf90e4	nhìn vào
+vsl-14adb86c002353c9156f	nhạy cảm
+vsl-b4e9498ed245042e0adc	nước hoa
+vsl-1836267b5579e436701d	phía bắc
+vsl-4cef4f43359c2834541f	phía đông
+vsl-45fa81ece173a31f8101	quả đào
+vsl-9e9a532c3dd036b996e2	rao giảng
+vsl-7c62e40ab18bc8f1f747	rám nắng
+vsl-04382052a16c03e3455a	sai lầm
+vsl-8c845089a8a07bb26572	say rượu
+vsl-ea20605df318c5610e0d	sinh nhật
+vsl-9132635cef0827d2eb74	tháng 12
+vsl-9a4cbb61c448b0b80f78	tháng 2
+vsl-63e7fda147d64130a964	tháng 9
+vsl-5281c6cbe72ac8fbbcd7	tháng bảy
+vsl-090661ce0dcf9b70c172	tháng giêng
+vsl-561a51c61b82f19a10dd	tháng sáu
+vsl-3c5295f8845b7c541c26	tháng tư
+vsl-7b7269a33056f1043c96	thèm ăn
+vsl-11e0f7df2ccf84e53207	thích hơn
+vsl-0795aea0d2c378d97ab0	thính học
+vsl-8e2748abbee6ec547062	thưởng thức
+vsl-4d148b521cf9ee6e55b8	thụy sĩ
+vsl-49f852fe5dd3fd7ddce0	thứ ba
+vsl-b7677cb531404d47e54a	thứ bảy
+vsl-5e21c222bed09694afac	thứ năm
+vsl-16e0a50e6128e17eb7e1	thứ sáu
+vsl-089402b629bb6c4c0954	thứ tư
+vsl-e0bc8a143969059489ed	thực ra
+vsl-aa776a96ff7a66a67e96	trang chủ
+vsl-ef8e323a69da93e7f4cf	trái tim
+vsl-d9dcbd303176c7e93568	trên lầu
+vsl-4b2118f57445bee52173	trước kia
+vsl-aa7e7f719a3fce33c5c6	trạng từ
+vsl-266b713066504a834340	trọng tài
+vsl-ff2ebe96b8a87415ca3b	tìm kiếm
+vsl-ae87008464525ea05cee	tôn giáo
+vsl-0eafcf8ecaa386ae54c9	tại sao
+vsl-417c92de158da0938246	tầng dưới
+vsl-4b3ebfebcaad2d0456a9	tốt hơn
+vsl-3c92d275b4a70b8a74bd	vòi sen
+vsl-45dc28f1472c34bdb816	vị đắng
+vsl-339bb1a47152be1307b4	vồ lấy
+vsl-b293afcd5d26af4d515d	xấu xí
+vsl-cb47905cd7bb469471cb	ông chủ
+vsl-8537d38401a522ef59b4	đi xuống
+vsl-9e5f0c8b4e6fe042099b	đúng vậy
+vsl-91c336f6e4af88bc452b	được rồi
+vsl-3450f08aef5eae8be8da	đại hội
+vsl-bcbfb8d558ba3be33f7e	đồng xu
+vsl-3f0079bfe95f4447ebbe	đứa trẻ
+vsl-6e4e566a318970f5bfe9	ở lại
+vsl-f3a639496e274b1f5bb9	ở đó
+vsl-0e3426fbfa04bdfc2221	ứng viên
+vsl-c3a3e3cbf261989bb2cd	cất giấu
+vsl-db3ff9d4bc7b34907b27	tiêu chuẩn
+vsl-63596122bb51541c1cb3	xây dựng
+vsl-e81d9e0bfb930accb616	thắt lưng
+vsl-e2e96d035355120d5701	quái vật
+vsl-5fa9c75b9061a433546b	du lịch
+vsl-7df631dcd98f6f0f19b1	khó nghe
+vsl-84087e11b373863f0074	lợi nhuận
+vsl-2819958ae2239ed20abc	hòa tan
+vsl-7180eceb0672aaa9e723	lố bịch
+vsl-4a84d38ab5ceb3c84949	vì vậy
+vsl-9fdf5d0a4c1044ca5f92	tiềm năng
+vsl-4a2a33075012563f705c	cầu vồng
+vsl-46139b8a69ed3f078c19	chuyên nghiệp
+vsl-94165aded11efe12587b	ngớ ngẩn
+vsl-e9c80e71402291cd9df1	bơi lội
+vsl-dccdb9b688e0c43f76f6	ít hơn
+vsl-8ecd54fcde890d443339	nấu nướng
+vsl-6bdddd4b698cf44b9ed8	gió nhẹ
+vsl-d47e1f07410b1a2dd594	cao (vật)
+vsl-4d94431d05630b1f8e53	trang sức
+vsl-356595f39b04ea58b3d4	cây son
+vsl-a9297c6c81d9c85b4f68	mua sắm
+vsl-80d31f9bb4012a10cf80	bưu kiện
+vsl-57c9ae6bbf06ec165afd	lớn lên
+vsl-9365eba2eedfab1cc1ce	gái điếm
+vsl-69f2af36430fa252331f	vụng về
+vsl-fa96dd5276564b381d1b	đàn bà
+vsl-5b47e65021c85064f460	nhà hàng
+vsl-27c0aff675ecfd275f33	củ từ
+vsl-7a808e3c36c071754418	kim loại
+vsl-4b22eb388e7273bf49e0	tiếng đức
+vsl-f5bfbe1a58214a74bffb	hành trình
+vsl-eea0842fc4d5ccc6fb57	tạm dừng
+vsl-7809e916233b3ecd7e74	thân thuộc
+vsl-dfa08e686adc213ec88d	quần dài
+vsl-357ef83381ac9e5c2801	tang lễ
+vsl-7aca73457986cacb2d7a	mơ ngủ
+vsl-e62d56babaf55d84aad4	mua bán
+vsl-554a132c26c235f9aef9	mọi thứ
+vsl-baabf98abc1eb56c91e6	đạt được
+vsl-894225670e36bc286ec8	tã lót
+vsl-c1125e41644c9aa68f07	nam mỹ
+vsl-4cc0e93bef52cdc0f78b	cái gương
+vsl-7368f7e57724add42bbe	nói quá
+vsl-ac303f3a9bc738403fc4	khấu trừ
+vsl-f7b41e59fa4f1fea3db2	thêm vào
+vsl-23fed5d9ec71e490fed2	cho mượn
+vsl-ad4eaeb73b753f4670fc	cá nhân
+vsl-ad39817972661bf1388a	áo tắm
+vsl-117316edae3255b9d686	mồ hôi
+vsl-ee0baac724620038d2a8	mềm mại
+vsl-720be577fd054b1dbc1f	vô ý
+vsl-89f62532f4cc7c8ce990	lặp lại
+vsl-0577e426c2103d4f0adc	chúa giêsu
+vsl-073c03401bbdde710b7c	ghế tựa
+vsl-98726fc247f0bfa9cfc2	chuyên biệt
+vsl-5ec8ae067b967f42143e	không thể
+vsl-f5060462b5f52edafa4a	xé rách
+vsl-6c6165165ac4e3c30b4a	kinh tế
+vsl-7cb73bd09a7ddd167ed6	cất giữ
+vsl-f604b3d0b4f105b1f560	ích kỷ
+vsl-ea4ddc8886594dfd96bb	bạch tuộc
+vsl-810fa2ea558316eeb974	đàn piano
+vsl-96c4740b083d09837521	thơm ngon
+vsl-6d644113ff6703a339bc	phòng vệ
+vsl-d00bff472b2f03831235	quấy rầy
+vsl-91c8d8720130adc5de1c	điều chỉnh
+vsl-8e1c73f3fcff1fbe9d2f	cử động
+vsl-851df19a3555dae08b54	tối đa
+vsl-bf4b87ac91c01abf62e9	cây bàng
+vsl-89d9e0fd8d09cab577ce	dàn nhạc
+vsl-27e01d89390780fbbbd8	kinh thánh
+vsl-83faa6b00e44329c14cd	xe hơi
+vsl-f99b20cdd288dc3e4f09	pháp luật
+vsl-b64333299253893c3482	buồng nhỏ
+vsl-ada88aa9c0e11da2d99b	vật lý
+vsl-6bf4a80ec0ea83786be4	màu tím
+vsl-cde25e74067c5770c77c	ngọn lửa
+vsl-040d8f3d71fa0dbb6577	bí ngô
+vsl-1353538abfef675009b3	hình thức
+vsl-820c81872416da35c1c9	nhận ra
+vsl-48567f0872b9dbd00862	phải lòng
+vsl-806997301e7309ed4093	khí đốt
+vsl-cbe8a6edafc412cb1d84	tán tỉnh
+vsl-8a71ac0cfe5a0ffbfb15	vận hành
+vsl-d69dce7406823bc89d44	cao (người)
+vsl-fa98adb38e286ab6889b	xung quanh
+vsl-92ed80df45d66d2c1d98	đưa cho
+vsl-172b14102e6211f5dc0f	ăn cắp
+vsl-2ba79c394603a703ca64	nghĩa là
+vsl-4889a9f5371b00b0dd86	chuyển thành
+vsl-d88c91f28b242d9ff7df	hoà bình
+vsl-61215c2a9a205b14208f	in (ấn)
+vsl-7dafcd7b9b80f9a694f7	triển lãm
+vsl-b6fcfce028fd74e7b0fe	móc áo
+vsl-bd9ffd528c6442b6ab02	tăng lên
+vsl-b57964685c7269b77491	bảng màu
+vsl-a741eb454c355db044d2	đối đầu
+vsl-99a9137de8fcda29039f	trung thực
+vsl-7c01566db20802f960ad	chất lượng
+vsl-518438f2d1578122f42e	buồn ngủ
+vsl-a5d897b4e18475f3a6d4	trích dẫn
+vsl-d4e1fea5c0f8c622f2bc	luân phiên
+vsl-d5a0d56d64509ba7b1e4	bữa trưa
+vsl-1a639ae3821d8a08dbed	dài nhất
+vsl-5d2b4daadd377b4df012	bỏ cuộc
+vsl-a331385bfe16fe3466e5	dự đoán
+vsl-ea7109239a5ba3078445	mâm cơm
+vsl-c313ecb6699a14f23be1	chiến khu
+vsl-85b19e16f7de1dc85959	để ý
+vsl-330ad69250d149f6dfb9	năn nỉ
+vsl-167fd6698e6149778373	trình diễn
+vsl-e7cddeb7586f7ff68489	hiệp định
+vsl-023c03583748eab5bce7	đồng ý
+vsl-7cd932257edd7b4ddf99	trừ đi
+vsl-0d41e5eb4e6b88fae23b	thanh tra
+vsl-1a10631662171a9e0512	bữa tối
+vsl-63a2d8964cdeac3f30ea	kết cấu
+vsl-e2813e4532a20cb47247	hợp đồng
+vsl-b5f461c2fa5becff03d5	đi qua
+vsl-19c39f9794445b9af27b	kỷ luật
+vsl-c44ddc489c1aef3386b4	mẫu số
+vsl-255de78f56dbe1e06bba	khao khát
+vsl-2a9f2a28cca62c66eeb9	công nghệ
+vsl-1f891d8825da4ffd152f	cúp máy
+vsl-cd166ebd8cc03fedc6a6	đính hôn
+vsl-a8a1e58bc4f4a38adfd3	ánh sáng
+vsl-a67ad2ea6e148bacb013	vui vẻ
+vsl-520a61192bfaa875c6fa	cái ví
+vsl-10c54400ba71c9703e65	nghẹt thở
+vsl-2b93ef53a007124e3bd4	đi lại
+vsl-9f750a428d19fff56e75	mật ong
+vsl-e000fe6775265603e81e	bình luận
+vsl-008195d34809e0774e67	nhỏ hơn
+vsl-cbc24c4093b8aeaf6884	cuối tuần
+vsl-beee25ce12f8bf577373	đôi giày
+vsl-89300de1b7ac80c8ef58	tuổi thơ
+vsl-e01b896fd522e4180fdf	nông trại
+vsl-cebe77d7bc2f7d70a3d3	hơn là
+vsl-c753cc1cbfa3388572fa	kéo dài
+vsl-a5dff458f23541e582e9	cá cược
+vsl-6a47da428a276877dfed	cân nặng
+vsl-2db929a3b846f5a4f1c8	bún đậu
+vsl-831c240d952641d79ad9	di dời
+vsl-b268eb08e880732eae23	cộng đồng
+vsl-9d5ce211dfa0afab0609	hợp lí
+vsl-8221156075d8752cc868	cây xanh
+vsl-e36779c9ce2882e4bb2a	động từ
+vsl-2a255a57b2ded872184e	siêu nhân
+vsl-5105bbb68712069112f7	nguyên chất
+vsl-d97b871a3398c576dd9c	hối lộ
+vsl-444221c4f20a6635cf46	thánh thiện
+vsl-3566c6623b062b248429	triết lý
+vsl-5c2e40161992823d41c9	hàng tuần
+vsl-6ce3a8db37bf814be634	tổng quan
+vsl-37955dce9aa0f7808d99	tiêu thụ
+vsl-c3ecd201d07c96f751c1	lây lan
+vsl-d751d40e8248a0bb0d3e	bằng chứng
+vsl-83d0cbedc5ef7b8d2329	đường kẻ
+vsl-525b05489ba8a337fa6d	mãi mãi
+vsl-1149834ba1a71b451af2	bím tóc
+vsl-89c70ebc3b406cf8fc7d	phớt lờ
+vsl-86dcb3245b44179d0677	đóng gói
+vsl-261bff7a41823cd3b88b	tệ hại
+vsl-9066eae4335192567d9f	nắm lấy
+vsl-51159ce4aee325d24ebe	có lẽ
+vsl-ab83b7cb94d8eb03849f	thú cưng
+vsl-5cb12d95ae02e7fc2ff2	rời khỏi
+vsl-97cb0cc166ceb8316012	chủ nhiệm
+vsl-ef7c18703347483bc2dd	ngốc nghếch
+vsl-b5df158376af5a5db650	ảnh hưởng
+vsl-8257adda575935a545a1	hồi phục
+vsl-07369d66da2e0c209390	câu hỏi
+vsl-5af0eed61c9c3c987f1d	móng chân
+vsl-a799a1906e251dc6948e	hiện tại
+vsl-c46eaf54e6a68cf496bb	xem xét
+vsl-0248dd0b6c39bd363280	mở đầu
+vsl-4d25d0cd881095631eaa	sưu tầm
+vsl-ba823209284538624b23	giải đấu
+vsl-1d981e925cc552b3fc31	như nhau
+vsl-df6baa227a3d29d7fb39	nổi tiếng
+vsl-6d613a4c5fdd9d04fe99	vĩnh cửu
+vsl-a4c2db790ac3d85c330c	trái đất
+vsl-e8a96726ca89bf8d72d1	bấm vào
+vsl-0f4566bb7c805ff80823	linh hoạt
+vsl-1b29dd0f987b612c6b71	mặt sau
+vsl-3e733763d6b25b1e880b	thừa nhận
+vsl-90953883014b7b19f402	bụi cây
+vsl-901096f595b27fcdac73	cửa khẩu
+vsl-29f6a508ecc57e6b76c8	xuất bản
+vsl-7c6b4363350b838fcad8	ban ngày
+vsl-28d38e631c870e3c4cf3	dài hơn
+vsl-e18281d4fde296790e91	giải phóng
+vsl-4c3adf343c621ef281fc	bắt buộc
+vsl-288d5a0b63e603b59a23	xả rác
+vsl-521b09025ea788950060	thủy tinh
+vsl-b5f0bf685071a78b6a20	ngăn chặn
+vsl-da767c9c0ecfb7f46ebd	mĩ thuật
+vsl-b21e811f1c1d5b0c1438	mẫu giáo
+vsl-8b534fd1c7d569c57190	chất dẻo
+vsl-aadef317b9a84c0c66a4	bóng ma
+vsl-57c5db763b3816af581a	chính quyền
+vsl-a6a79e08a043e40a65a7	mắc kẹt
+vsl-82c2654387f5d1bcd836	ngôi đền
+vsl-72198bc08f8973b903df	thỉnh thoảng
+vsl-05603884d6bcbf9a8e04	hút thuốc
+vsl-6ac16d9b2cd82cb727f0	chỉ khâu
+vsl-b8ae0433e4d77d728e4d	tiêu chảy
+vsl-bf4bfae9a49bc564af41	đau họng
+vsl-e9153351f19d2e77c519	củ hành
+vsl-4abada30a401df84922b	thứ hai
+vsl-6fbeae5eed924d231bf5	xinh đẹp
+vsl-4ed1dd08403b8e578c64	cụ đồ
+vsl-e86c03caeb58adb29d09	mười tám
+vsl-cf19e02c9b19d14f5975	đến đây
+vsl-487e1e195a94d16a94a4	vuốt tóc
+vsl-0fdaf4cacf7347f3a07a	nôn mửa
+vsl-960f56c1ed5f03e83d38	ngắt hoa
+vsl-202a3aa54bf87888a095	cụ thể
+vsl-df982726b280d4e889f4	cây khế
+vsl-d7e26ae796e862a25943	gấp giấy
+vsl-7880ece4ebcf1a361359	phá sản
+vsl-adf7c3c238620f0ae0de	cưa đi
+vsl-98b7448200d3515c812d	mất ngủ
+vsl-29509e8ae82b316db096	chịu đựng
+vsl-69e422f0e2ab8272c2de	chuyến đi
+vsl-5201324d33a8b532ca2f	chim sâu
+vsl-1e5fdd4776261f7faad3	ngu xuẩn
+vsl-268cf45bf7361ed44874	tìm thấy
+vsl-107c402b620e9c05f7fd	kiên nhẫn
+vsl-1cdef77eab7c1c2d1f63	cây tre
+vsl-445dc62af9406895431a	căn hộ
+vsl-54f144608c7338608469	gần đây
+vsl-75489c37b1c9cfe123af	móng vuốt
+vsl-379ce4dfc4a69b8a4abb	đánh vần
+vsl-e929b54c1a802547d1a8	món nợ
+vsl-809a59ab037e88899936	đề tài
+vsl-c0ae87c92f3d0f1054f4	cùi chỏ
+vsl-251e0f2794867b208d55	chất độc
+vsl-9da9865b8aefd9195690	gửi thư
+vsl-1163a34a3af19793aba5	nửa đêm
+vsl-9a3dca8aacd2840fb4b8	ngắn gọn
+vsl-fd21e94902f283b54c7a	đi văng
+vsl-0cc86bffbe753169669a	tháng mười
+vsl-e8d7d0520d0ada576c15	bàn phím
+vsl-1b08389ad2bcaa9cc6c0	cơ thể
+vsl-13dd71cc509e641cc9e3	cao su
+vsl-9383cde2661952ce5e0f	tạo nên
+vsl-33766302e2cb9e2bd264	kiêu hãnh
+vsl-813ee97a15e1b39f54d3	ắc quy
+vsl-fb2ea8dbb6ca0062a276	súp lơ
+vsl-53640584696554084920	hướng lên
+vsl-a0e2e173a59e119ddc93	tốt nhất
+vsl-9023ef35e21612eb7924	cơm hộp
+vsl-ea796a49c0ee2b95004f	kịch câm
+vsl-b90e44179d4baca64b08	danh từ
+vsl-6758acbdf94bdb52133c	giếng nước
+vsl-91591bdb15f8c0ef711b	ban phước
+vsl-3ffc291bc58197d78bf8	tốc độ
+vsl-069f033239c2808f0b16	liên bang
+vsl-d685b252e6397150a0fd	bữa sáng
+vsl-717a44363976a7c778b5	cởi mở
+vsl-dfb4f240ccc51395234b	chủ đạo
+vsl-f7917461fbb052be7eba	mầm cây
+vsl-5090cc88a03a31081ba1	quần vợt
+vsl-c96de437e1cf312c22f4	chiều tối
+vsl-06e5fb06cefa9754fe74	thích nghi
+vsl-f485012af5b0a41bad5c	con chồn
+vsl-fa2623c35024ee214386	chật chội
+vsl-21426fc5a690dadd61ce	chi tiết
+vsl-1def2b8f628a1efd90bc	cơ sở
+vsl-f62554c7b8198189493a	hằng ngày
+vsl-d381eb87c1fd4b782405	cờ tướng
+vsl-40ea31a82988d80e4f58	trưởng thành
+vsl-094d20a0af2258ade4f2	chỉ một
+vsl-b108df10a0acf3e0b538	tri kỉ
+vsl-1bd8d8e6b5aac88ebc62	tung tăng
+vsl-73cf692aeac36c2c9921	xứ nghệ
+vsl-689b5c0f5586ecbe9d70	cuống hoa
+vsl-d91748ea8069b0c009b1	phía nam
+vsl-b486389af7d729b6ab9c	áp đảo
+vsl-1a82a57f436668c3f677	hình chiếu
+vsl-65b1b74e2ff02e3591e2	kiêu ngạo
+vsl-2cb128729d361678330f	đần độn
+vsl-451a94f5bca1b0604a0a	minh hoạ
+vsl-b53bcebaab564c5e829a	bỏ qua
+vsl-c2d1b79b10c57435af3c	cao tốc
+vsl-bd9e071890713d6c57ef	quý bà
+vsl-1967bbeca97fa443d366	uốn tóc
+vsl-71445a54bf68b6266e86	lục giác
+vsl-7185b009aac82f193fce	cụm từ
+vsl-be66ef864c078ab27d6b	mát mẻ
+vsl-22642ca1def0b9ff8389	hình elip
+vsl-0c90eb591db11b1c4b68	chi hội
+vsl-9dba7a2806d3430c9682	mô tả
+vsl-60e946df95a0049a34a7	điên rồ
+vsl-1f67c67e666c44a0c245	vắng lặng
+vsl-1380fea94d37958a48de	tinh thần
+vsl-e9cde15326f482bb1a65	danh sách
+vsl-7f42799deaa31b526e30	cây sả
+vsl-ee629a225ac4534dbbbb	cao (nhà)
+vsl-a14083dfa45a6e9a0b89	danh nhân
+vsl-3bc32108cd60912981bb	nếu như
+vsl-9aed1404e90d573fddf2	yên tâm
+vsl-ba50f384e37d5a1aa2bc	cây đa
+vsl-fb42bc02bf2f2834d1b4	quả dâu
+vsl-52f525884988bd16ded1	thay thế
+vsl-d3931f0d2c4097a17a8c	áo ấm
+vsl-69bab97aa49a97bd5b71	dãy nhà
+vsl-3e246b076ee5919ce921	buồng trứng
+vsl-4d9cd4304e925278e73c	bảo vệ
+vsl-ab227d55371fc05bde8c	dấu hiệu
+vsl-46b3754cd97cc3cda666	khó tiêu
+vsl-48c5457d99a5272bfa7a	mục đích
+vsl-8f00317997ad5edac91a	năng lượng
+vsl-93209bdc24c22ebc21c1	giả định
+vsl-7fadbe054afdd7fd17fb	ngày đêm
+vsl-1ad7ca468832abaad85f	nhìn thấy
+vsl-746bd5cd0ac385a0c944	chim sẻ
+vsl-6882642c63f6505046bf	cuống lá
+vsl-4c81ab8fbde23b5ca8d0	dài hạn
+vsl-b394adaf20a523a49c5e	câu văn
+vsl-e12fb22c8747ad942d20	chất rắn
+vsl-451254afd43704f3f168	danh mục
+vsl-e353a31877e02a7847f7	quá khứ
+vsl-cb1aa17889a26865e181	cổ vũ
+vsl-6f0991879622a97ae9ea	cá mập
+vsl-926339323ee581fd9f3a	pháo đài
+vsl-8b375c3ad1c511aea722	trị giá
+vsl-722602b6a5bf4ce50fb3	nỗi đau
+vsl-ead721377760d53b8dab	dãy số
+vsl-00b8d3b27c1221addf06	mắc áo
+vsl-9ca7bf521e6a208d795d	bẩn thỉu
+vsl-105769d497f2dfec9552	vườn thú
+vsl-4999d8a1cd2335b33a2d	đài sen
+vsl-e287fa8b825622057d0e	công chúa
+vsl-1aab9d75143dba701728	hoang mang
+vsl-ab96450cca7a9e6dbf03	nam định
+vsl-fda9caa0fe47739240ab	tâm lý
+vsl-d1ad7ee4ae9a0d43fdba	xe lu
+vsl-3ac41ce259a5fd9a7b8e	vun đắp
+vsl-a9962fe35bafbec411ee	chỉ dẫn
+vsl-0ccf1e2a6cdb3ff499be	một mình
+vsl-6bcadaac756e9bbdceba	hành tinh
+vsl-88523842cd0b311e5a0b	chấm điểm
+vsl-fc14a591723e14a4c398	của họ
+vsl-ac24e31d50e2546f3221	yên bái
+vsl-6a06548e29d954a6c1a4	ai bảo
+vsl-37206f9cfb987ff98842	hung ác
+vsl-d55c5c6bcb0b51d22846	chai nước
+vsl-37c48b869189caba93d4	múa sạp
+vsl-b01b987b91e6bb8b29b3	công ước
+vsl-99072f60249f16fbe37e	dung tích
+vsl-537e61691f9bda62bbd1	chia cắt
+vsl-ce9066f0be3b222b33c0	duyệt binh
+vsl-91995c9d61cf49feae35	mười chín
+vsl-c741934baf03535c70e5	cướp cờ
+vsl-d4f2c717ba907dd7bc18	cởi áo
+vsl-f02685d8edbddd135678	hăng hái
+vsl-d4e0dbe844096b6f04b4	chào mừng
+vsl-512013985c0f40ecfc99	dân số
+vsl-b91cdf1e16bc452ef747	chung kết
+vsl-c534639309d851d8f4d0	công sức
+vsl-b98ffde40bd87a919a33	khuôn mặt
+vsl-5bdec9ec34c3feb9d5c8	chiếu phim
+vsl-4ddfed65bbf74f3d8811	vũ trụ
+vsl-d6ddedeb7fc16f367f6c	củ đậu
+vsl-a8dc4a8ec205dc684374	xóa bảng
+vsl-2e70a742fa1ae53e9aa0	xếp hình
+vsl-511c40d35b4116247531	câu đối
+vsl-7fb912a7304a548b9385	hạt cườm
+vsl-639557890692a27e76aa	che chở
+vsl-f1c7b19e634cfbae0389	cối giã
+vsl-2c1ae59c669432a1307b	giá sách
+vsl-3c93517c24431be443a6	cửa kính
+vsl-8a700f50968fd386d1ed	mục tiêu
+vsl-0f413d49aace68ad2031	cơ quan
+vsl-23d3791ed4fd759e49c9	sân chơi
+vsl-115cd3ebc9a0957a6d9d	chụp ảnh
+vsl-9cbd68dc7b025e3ae286	chia đều
+vsl-f65c87f651c28c3a4a5f	cờ vua
+vsl-4950dca346a83531ef2a	hỗn số
+vsl-f3dad357f0c88ea8ed30	uốn dẻo
+vsl-15f8fd4dfedec5bdd04f	trong sáng
+vsl-c4171b69a16fc32fa5cf	co dãn
+vsl-e2e95a7e197d59aacd9d	hành vi
+vsl-d9d2be679330283f3ac6	ma sát
+vsl-55a5d9cafe4a91370838	cà vạt
+vsl-fb1f98703385c4a07848	chọi gà
+vsl-0d3cb5d13606dc6dcb37	cốp xe
+vsl-4cb084458926bd3c49a8	hút nước
+vsl-0b6f52a4e54523d1e9b5	dễ chịu
+vsl-06afb6343a7f4a74a06f	dàn bài
+vsl-63d75ea63dbd53f9df24	cháy rừng
+vsl-5a8fdc75f4b76813aa7f	mồ côi
+vsl-47c925481a9ca098dbd8	rơm rớm
+vsl-9c928abadd3c0746dfb4	hình dáng
+vsl-a74bd78b62d4698023ff	yên bình
+vsl-4d6363ebab2cddba3043	đón tiếp
+vsl-b05590e99e6df2948a5f	tạo dáng
+vsl-abe0d4ada02ba571c61a	công cụ
+vsl-a73c52603fe62c133a37	bùng binh
+vsl-b1a7c685a8604c5fa829	gian lận
+vsl-a3668e4666013491b0a9	chép bài
+vsl-a686aea650671e0dccb9	địa lí
+vsl-5a3df880cbea4da5d79f	nhắm mắt
+vsl-37746702b3795003798c	chớp mắt
+vsl-089eed908d71f90fe94f	hàng triệu
+vsl-34af6b64617ce14eb76c	khép cửa
+vsl-e6bc1eb5c58311d2e611	thượng viện
+vsl-f8c17052b87de7fc305e	đám mây
+vsl-e0f210a0c689b1c1263d	dựng phim
+vsl-e3e24d77ec7925807c3f	người pháp
+vsl-7ea2b7cf996e4cb20445	trói tay
+vsl-f1cfe501a382241ab89c	con rối
+vsl-d48f54037323194ae7b8	du thuyền
+vsl-7d759c6ebbf474b9d633	sa thải
+vsl-b842f51a9e249412fa1e	chim yến
+vsl-d65074a24c08fccfbf0c	dân chài
+vsl-1d1674417a190b1a3c23	mặt nạ
+vsl-cee4acee181f4109a1a8	dự trữ
+vsl-4339563359bf9d48b83c	chân dung
+vsl-33da886da20f873aa688	cột đèn
+vsl-22bcfb6752145ba69ce2	chùm hoa
+vsl-d90b5e89f67997944230	chồi non
+vsl-0824216dfb817356b75e	hàng trăm
+vsl-646cf6f9cee8b0ec5308	ngữ điệu
+vsl-96565ed682e4b921dc3b	đông dương
+vsl-f3aa555133a6df3136f7	ruột già
+vsl-bf72def71a4f59d96f91	ghi nhớ
+vsl-66e348f8dd5bf6024237	chục triệu
+vsl-8becdea566a8ccedc6d8	môi trường
+vsl-aea91b0318212e9000c5	địa điểm
+vsl-a78ec12f69a9d73c04dd	gói (đgt)
+vsl-a3089ddb55fec3e81c73	danh dự
+vsl-589897d4fd53879787f1	mục lục
+vsl-bd70f1c27ecf582be8a4	định vị
+vsl-86572b9bab5c8bdedbb8	xoá bỏ
+vsl-88f232188e5c07217de1	bằng phẳng
+vsl-06e1fbb23d879a7380a2	dầu hoả
+vsl-c7f2eb0747f1d06aab2c	cột nhà
+vsl-8629b05d7e828c1ede6e	giải lao
+vsl-1c9708abf080323f3030	con tem
+vsl-9d3064cb964aa34ee9a1	dầu khí
+vsl-0ba11de0c8a7dd121f65	chợ nổi
+vsl-4a213d7c632217cb14a4	hú vía
+vsl-915f320383a60f745eb6	múa lân
+vsl-4f45adf61110a865732d	túm tóc
+vsl-b76aa4acccba7f884f44	chủ động
+vsl-ef77002551ba70c6c91f	sĩ quan
+vsl-e85277f43a0ff681ea0f	giới hạn
+vsl-cab4febe3cad56f0afd3	kon tum
+vsl-8bf377fe95db7af1652a	công bằng
+vsl-5219b21d6e36feec6f9b	xương rồng
+vsl-b05aef6df4bc70b742d7	bà nà
+vsl-62fcca07938378a5f416	chọi trâu
+vsl-c3fc139892fbfc9584d4	chia sẻ
+vsl-99fbfa1b0102120d13e9	chia hết
+vsl-723a05c95c420ed27655	chúi đầu
+vsl-b726b130128d24db14e1	vượt trội
+vsl-54a1ae3e954db2e52813	giao thừa
+vsl-55e944adb4a80d8733de	lên ngôi
+vsl-aa1186a53854e73dd24a	nhỏ tuổi
+vsl-5e96f0f6860d32481765	xác định
+vsl-ab76ef467e69c25fcca6	bún ốc
+vsl-67d7dc5ca5d47133666f	dân ca
+vsl-c2a280dcfc1139155f02	hạn hán
+vsl-83773f8817bcb2bfba28	va chạm
+vsl-49f71f819b01fa47ca10	chục nghìn
+vsl-f126733fa9889ab90ff3	ghi hình
+vsl-6a6ab60991f27c16e664	hàng xóm
+vsl-65cfc58b98f01671f85d	áo cánh
+vsl-9ceaeae087df9721847d	hát ru
+vsl-af8cc363272caa21fca1	hạt tiêu
+vsl-31cd706d08d431605be5	xích đạo
+vsl-24769d4e1e6bb7435c49	độc hại
+vsl-83be7f8b220bb7c0c251	cây thông
+vsl-949b270fdc8ee43b1eed	di chuyển
+vsl-03c537b2a6d4d7e13dba	máy chiếu
+vsl-db734c016dec68b4b633	huỷ diệt
+vsl-9612a230ed92eaa9735b	xông hơi
+vsl-c40fca4005c061d58a04	xe lam
+vsl-4cdae9bf7648ce222fbe	cấy lúa
+vsl-1dbc92b66bdc43ff52f9	cơ bắp
+vsl-63614374d6ae0d0f17d6	địa cầu
+vsl-3d203382297a6a8dfa8e	cuộc đời
+vsl-5990bd5d52947d4344d7	cột sống
+vsl-f47963e995aaecd47fe7	huy hiệu
+vsl-5a7472d351e5b04c446a	giàn mướp
+vsl-03d25b060a90c3559af4	làm quen
+vsl-904b047ff8a7463e9c82	thiên đình
+vsl-82a4f43a9c2d1965b0b7	màu cam
+vsl-1aab6f0085466fd175c1	ruột non
+vsl-a820ae58416d8b17e230	thủy chung
+vsl-0cc9cf3c15ce6ea54a97	xách túi
+vsl-36d17c44b76d8a49232c	kháng cự
+vsl-b32ec21356f8754cffee	ngón tay
+vsl-d37451e83e9fe1d78208	ngà voi
+vsl-099c09b845b579c667ec	đồ uống
+vsl-2beea3ca2f04234345e2	chuyện trò
+vsl-2940f02000d0c755500f	giấc ngủ
+vsl-9bd09a9d67a1cc29eb1c	con ghẹ
+vsl-0f8b23bcc1fd378d9eec	giấy tờ
+vsl-e11c60d8fb2174485424	ngạc nhiên
+vsl-c7573d0e7a5703b332c7	máy quay
+vsl-4aff1a44cec01195a78a	chất thải
+vsl-3115c71f0a66a2d7bcbc	một cặp
+vsl-dfc8a1716c6a5ff89897	một đôi
+vsl-ca724baf202ea9b4d56c	đằng trước
+vsl-e1d07879d66fcc12cff8	nặng hơn
+vsl-c944729a2ad045b9fd4f	bãi cát
+vsl-84c01c3736f9edbb3193	hà giang
+vsl-f0e0c5b98940a6a9dc4d	băng giá
+vsl-90f57f5b5f3e7cd4a3a9	chương trình
+vsl-d826a8fcc76966255bab	thực phẩm
+vsl-9201250010fbb0fe9338	dây xích
+vsl-c3ab319f025358913316	xách nặng
+vsl-97814aab714c88dda413	chùm khế
+vsl-ccf2b9b7d874edaefaa8	mê tín
+vsl-6b066361b6078dbf97f1	danh bạ
+vsl-6a0b9f568602d0f98609	giơ tay
+vsl-123a269196e734477ed1	hàng nghìn
+vsl-d5e0b8cf8d4f35dee120	lông gà
+vsl-c3611a0e29bc7ee8b098	khớp xương
+vsl-7a244dfdbbe63382a277	giáo dục
+vsl-35b3d9f5da6907fb41ae	hạt lạc
+vsl-6f21305f540ee6b24a4e	dòng sông
+vsl-897f3d8a2936655bd05e	chia phần
+vsl-d93ba2142e7775143d79	khuôn hình
+vsl-89113e15772ac06701a1	nhà thơ
+vsl-f14e1c4bef527835f692	bát ngát
+vsl-b368e792ae4d22cb56ed	chăm học
+vsl-36e8bd1d6899ec17c559	dầu mỏ
+vsl-be81bf3cde5c560f6166	chong chóng
+vsl-3709f3552f732d8622e0	cháo sườn
+vsl-154ab9ecefe42b76b088	thu mua
+vsl-cf423a389282c7f4380f	đám ma
+vsl-d54081354b09849f053b	mơ ước
+vsl-3509776c15cc7e12b456	xóm làng
+vsl-3b85c13f1dfdd73ac560	giàn khoan
+vsl-f96cbebe56473ce2db07	xoa đầu
+vsl-5d1a2b5588b24c928fd2	nguyên nhân
+vsl-9cf10a8e31b227215e71	con sông
+vsl-3b0dfb27cde48143fca4	mét (m)
+vsl-4bdd0322ef8a76d22a47	nghiên cứu
+vsl-9548621aa092f2469ecb	chứng kiến
+vsl-d64f8c4d2c10338eeb2b	tạo thành
+vsl-488e8474f3c170908f3d	dặn dò
+vsl-dee4fa4e21386b69abe6	dân chủ
+vsl-74e052f2c80764c33ad1	tồn tại
+vsl-8bb35740552a2a7772d9	đàng trong
+vsl-cd02ee61448c5feb3845	ghi chép
+vsl-e4d531f12b0d93215f6a	nền nhà
+vsl-3a30e616271fa0be7492	vực sâu
+vsl-9122bc466ed18cc379f4	vũ công
+vsl-78ed94f158b3c3f7785d	lướt ván
+vsl-2eeb43fde2b079c15259	hội thảo
+vsl-cb7d4264cee820d41dce	quy nhơn
+vsl-e2f9c8271a849e8a6c87	lũy tre
+vsl-fbff717782313303a662	dòng chữ
+vsl-07521f3f1c10b932a7a1	vận chuyển
+vsl-867dac4acf998b08b786	chuyển đồ
+vsl-6f2f922efc76685020b9	công thức
+vsl-932a76aec18baebfc278	hành động
+vsl-58bb6f2139f308eaf2b8	xăng-ti-mét (cm)
+vsl-c234a221d38629fa6454	diệt chủng
+vsl-574f21fd28bac205ff4e	gia lai
+vsl-fe606cc956f9dbe34f50	chất lỏng
+vsl-c4323b03327b57eccb33	ma quỷ
+vsl-7293e7089ce0b52c6dbd	kính lúp
+vsl-b8e87f0874653d7b2cf6	tinh trùng
+vsl-633490071da24b62adb4	chuyển vế
+vsl-d17c196a6f54702887cd	chủ đề
+vsl-4efa1954b85853a18515	chấm dứt
+vsl-a625c3a1b7b80a452e90	cây gỗ
+vsl-81d421e5d50ecc0f4dd0	khối lượng
+vsl-5d89ad0ef821e3f21392	ghi chú
+vsl-058464340360cac4675b	ở ngoài
+vsl-609cc5c52b8c7b26d26f	chữ hoa
+vsl-bde811f48ca0db6ef0d9	khờ dại
+vsl-183c651ebf704687243b	náo nức
+vsl-5304b4b1d0df576b7449	dãy núi
+vsl-446e4db237e09e9c2cae	xung đột
+vsl-1d9549c2cfc6fc650f12	gấp đôi
+vsl-273e155af892cb74ee88	hành lang
+vsl-8026d9217f9360361b59	khen tặng
+vsl-1ae6e41a89aa7e6426b8	an giang
+vsl-b75fb498b68d9a52aaff	giám khảo
+vsl-f9cccf4a539926d00630	ngoắc tay
+vsl-6c8dc33505fbaf3f162b	cáp treo
+vsl-21e9d68651af93d3e9e0	nghẹn ngào
+vsl-57eba8db6a112b25953b	cổ tay
+vsl-95962031f5c7b24ae38a	đầu tiên
+vsl-b45798b58a0faf500504	vào mùa
+vsl-dd89f13de17948a34a5c	góc vuông
+vsl-2bf1fc4f3c95df1205fa	quá cảnh
+vsl-d06b92301ca476dc451c	chỉnh sửa
+vsl-e1ecdf24df376451e5df	con số
+vsl-abf6e322eb6a1705af90	khoác tay
+vsl-5083e6845bd5e723e204	khu vườn
+vsl-58ce996c4521749366bd	thám tử
+vsl-3cd6c9c48a8ec13c7205	máy khâu
+vsl-55f0e194ad008ced6fa6	chiến thắng
+vsl-5eef0b14baee79d267f8	xa cách
+vsl-ec9a8b3a8899c385e2a6	thiếp mời
+vsl-62e88a55fb41f042f866	anh vợ
+vsl-32fdd9b2cd928686c238	nhập khẩu
+vsl-2e71e47f3979a64f326e	xác chết
+vsl-65c6f2f52cd9d1e2e8cb	lau khô
+vsl-785769147609ae26282a	gương mẫu
+vsl-753b7267ee7f21104aef	còi xương
+vsl-f0ea617be26a9f20a39c	lặng lẽ
+vsl-f73e853bbad5e9d3f56f	nốt ruồi
+vsl-a5122e7800a724abdf35	xôi gấc
+vsl-8ef92b4508cb68d63012	thổi bóng
+vsl-91018fefa26f8fc01739	giống nhau
+vsl-a5c7dd170f9cbe76fbc5	lon bia
+vsl-99571e03e214aafd157f	yếu tố
+vsl-a8cf568a516827e79b94	hạt lúa
+vsl-25b5b0e083e587cc2d73	đặc điểm
+vsl-42cbf4f9e0bde985da13	xúc xắc
+vsl-cbcb99ff1e08165be948	mùa thu
+vsl-388e77fe4ef6e30f8f29	nghĩa đen
+vsl-e8909c5f178f43f200ad	chim chóc
+vsl-8eea8582c1d27843ae92	mái chèo
+vsl-3861635f66f59f74c11d	hàm răng
+vsl-2675f06b91ba4a39e6e5	củ nghệ
+vsl-6d136628c1ee562d7cdb	gửi quà
+vsl-56ebe2fe3748e5aa8396	dụng cụ
+vsl-c11661a4bcf2c0925b77	chùm vải
+vsl-59909210a707808f69ed	yên lòng
+vsl-d72ef90e3f6b0f205a98	hình học
+vsl-fd30e861c3ebe41a097c	doanh nghiệp
+vsl-e1b9db7a93716e05fbf0	xa xôi
+vsl-72cc6f30efb46eee809c	hiện nay
+vsl-0803efe3adad97e3ef9b	thu nhỏ
+vsl-5d06a9a288eafd20dc7c	giai đoạn
+vsl-91c977360d10a9a389fe	linh hồn
+vsl-228a1e4a538ab864eb05	nghiến răng
+vsl-6db11f2bcf23f14a8935	nghỉ hưu
+vsl-8291d731fe122e6dc740	chào cờ
+vsl-388d2181fde4dc83e560	cúc áo
+vsl-6b8bc5da47a238a1ce38	trả (đt)
+vsl-63424d25aff9f7a03299	khám phá
+vsl-0cf9d3cb93c55f4a68bb	lồng chim
+vsl-a9c3a502a5094657ca81	an ninh
+vsl-1abeab47e4c287151a8d	con trai
+vsl-d463b5608f32d17b363c	liền sau
+vsl-3d2bd792763579b3bd8c	kí duyệt
+vsl-e84af416fd5c546da53d	hậu giang
+vsl-8905e46cd63780d5aab1	chặt chẽ
+vsl-d1eeb92dc5d89ed39b66	cổ truyền
+vsl-a0b96f953ae7f15019b6	chuyển động
+vsl-7e58cde6c217827f3841	thí nghiệm
+vsl-d309e29683ccf1127746	thư giãn
+vsl-42066cc76d4f1545929e	đăng nhập
+vsl-74fbd226bc5af21c4b00	ngắn nhất
+vsl-52aacc2d08ee9b9957d6	giẻ lau
+vsl-6667d4ec7e4e8eb194f7	bắc kạn
+vsl-87b0a8dacd1b6cd61c2c	thuỷ thủ
+vsl-38574f51b7dd0bc04171	hồ nước
+vsl-9e500fbaaed507eff2ea	ầm ĩ
+vsl-e9db08cd70c30ed72c35	vỗ về
+vsl-b4a684adcfdb33926772	kính trọng
+vsl-4e0f90c5fa3049da4d50	sao chép
+vsl-36974eac46fd0e436ef9	buồn thảm
+vsl-2fd4b4e14da0ce0fb2cd	gương mặt
+vsl-1616c8c132497415cd37	giầy dép
+vsl-0bdabec040e8febb1907	vua hùng
+vsl-9b75756fba2cf163d4d9	chân đất
+vsl-bcb93eab9562ad671ce2	lùi bước
+vsl-11ea4ea212db76634f1b	hàng chục
+vsl-45eba70e2fa5172dfa15	lồng bàn
+vsl-c2f2489e2510572bc6c8	hơi nước
+vsl-84607f72674ba595099b	năng khiếu
+vsl-fab69e0faf8393c3af89	chất đốt
+vsl-cacf8a3cd5eb608a6b07	kịp thời
+vsl-85ccf1ab7a1d36bb5e66	khe cửa
+vsl-7ef9e52a58298f63e58d	chạy chậm
+vsl-ff71f9a8443c0a1a2831	họa sỹ
+vsl-73f2cbbe8d72fd04fe2a	đàn kiến
+vsl-13fcdc738a0633af8766	bún ngan
+vsl-639cb88a5177290f4e6c	chuông nhà
+vsl-9d9d00217febf62f7a67	đi tuần
+vsl-5e10b50451fdb39b30db	con trỏ
+vsl-e1b88907dad6c6320f13	cụ già
+vsl-8e45b8b79ca96d1b3223	đầu hàng
+vsl-37174d02bac3657e5409	vòng đời
+vsl-3a781f0127124ba76264	khẩu hiệu
+vsl-812a90aea3b921c8edae	trộn (đt)
+vsl-0e01dcf197f93f2cb528	lúng túng
+vsl-93d43cee6ca5b26c922c	mấy giờ?
+vsl-a4e7d55a6204b4d0f0b6	nạn nhân
+vsl-4ec49481da1fdf95dd4e	thờ cúng
+vsl-cb414f16c9e08d8cf742	hình cầu
+vsl-5d5353f79a3ef406f219	doanh trại
+vsl-5f4b8d86e36e5b6401b7	kết hợp
+vsl-6f3359936786241c012d	xôi gà
+vsl-1b24804e84aea1e450c8	đuôi cá
+vsl-ca8355f69c678cd58179	hải đảo
+vsl-9ceeb800ccef399fc96d	mô hình
+vsl-3cdd882871cd3afee69e	cố định
+vsl-9a140ed3b691270c1d86	giao lưu
+vsl-451768aa3843a7fe4f4f	ghé thăm
+vsl-279788541ce6e46e0191	bún mắm
+vsl-d1e4dbf85e6ffd458998	dây chun
+vsl-24af331b6ebfcc11643b	thu thập
+vsl-7479bca5c79b3b45007e	bể bơi
+vsl-0d9d22ad56a74d6a3d37	đầu gối
+vsl-05f1e103208aa35dfd07	hài hước
+vsl-654dbdb0aeb05941a499	loạn thị
+vsl-1f824b1f61f64c728677	khuyến khích
+vsl-e3d4aa29b172d26e6c7c	giàn nho
+vsl-d85854720e4d0132b99e	chỉ huy
+vsl-20de28d03efb67ba457e	vỡ lòng
+vsl-1146b1f8436cb86959c4	hấp dẫn
+vsl-fa48629257c4a5d861e2	trộm cắp
+vsl-ed89673b579a5197b950	bơm nước
+vsl-d9a21f8be0bd6764a415	đào tạo
+vsl-df5f9ae5ae8482310d32	giải quyết
+vsl-7e6337db08c17b599c0f	chú hề
+vsl-6778f7338e081e3f976e	con cóc
+vsl-b1915f41cfe5c0d8b093	liên tục
+vsl-becfc77474faf61eb13a	thành thạo
+vsl-5ff609a61e9a4bace018	đồ ăn
+vsl-0a0baf91054174691ff6	áp phích
+vsl-5fa176594be588c0e535	cướp biển
+vsl-2d853821775ceb0bbb79	bánh pía
+vsl-eaf9e5573388f2375230	gắn bó
+vsl-f8469da8ab26d65ca305	bé hơn
+vsl-53564293998cadac385b	ngộ độc
+vsl-45e840f2c6edf6a8d4d3	cây nến
+vsl-5e1fe22211bb31f7f6a3	nhát gan
+vsl-487a9a1ffea34bfb10ea	cao bằng
+vsl-36f70594c81b8638fd84	ác mộng
+vsl-099327d6465b09809b47	quan hệ
+vsl-3e6d14fa41262f2efef4	góc vườn
+vsl-4bc3690fdf4ef3009de7	vui tính
+vsl-cd771ca4384154eab433	bẫy chim
+vsl-1f2bb4b8b09b3295d9ee	vòm lá
+vsl-b7a8a76daffb9ef53d4a	giật mình
+vsl-99d7e62e28a532b6d3ac	cung cấp
+vsl-1d497a7c0ca64d585de2	kỹ năng
+vsl-c9f18907ece35d0bd5bb	chùm nho
+vsl-e97983d65ee51af44a24	chen lấn
+vsl-8eaa0de3f7e39f3d5760	lau miệng
+vsl-3c54563bb059adfbbf4a	khí cầu
+vsl-d170f93c221fa2905a1a	lây nhiễm
+vsl-62e95df2e8dc179a2b02	biển đông
+vsl-6d47e38e3d7ca241c108	giàu có
+vsl-4d5b507f670db9a1599e	gió lào
+vsl-6dc782bffbe13de00dd4	xuất khẩu
+vsl-76a0a10b16e365b83874	bối rối
+vsl-f03d6bde7af5df4da51b	băng chuyền
+vsl-3b3dc410e390723dce75	nhân viên
+vsl-599fcf070950e37c60a3	việc làm
+vsl-593a0aed06783ec7c9a4	đăng ký
+vsl-9ea7cca5d25ef3ba49bc	nhấn mạnh
+vsl-d5cf6ca411f3a0876f04	ngôn ngữ
+vsl-eab8b7ee181cfea092e1	chuyện lớn
+vsl-18479ba25697cc5ffc8b	ma túy
+vsl-2eca56dae6b675c6a2a0	nhảy cao
+vsl-4adfdc9697fdda24c2f2	mui xe
+vsl-0914391f9b628187ad11	cổ chân
+vsl-57e156468a426dc231e4	giám đốc
+vsl-8b2d95e08831303de0d7	giận dỗi
+vsl-4f1898f0ec38abe57fb5	tủi thân
+vsl-3896ec22c132739dd56d	hốt hoảng
+vsl-a4c3ba343ce5e380f982	phong kiến
+vsl-0963f7238f98f11da3fe	lâm đồng
+vsl-5b3fec9d61a00ccf0358	ngoại hình
+vsl-7bf36043805ea895066d	ngây thơ
+vsl-57f821a65eb18efbdea6	câu chuyện
+vsl-dcc9190c9986d489cb6e	bài báo
+vsl-94dcbb943614fe9766ad	chó cắn
+vsl-d76274514a18c0e5f233	cơm rang
+vsl-a75da821416ffd24909c	quy nạp
+vsl-1f2b35d7dfdde13a2caf	phân vân
+vsl-e4f5cf3ac22604b69271	lò xo
+vsl-07d38be5778553c50a1e	ức chế
+vsl-e8e44738729aad2f7259	khe núi
+vsl-62aa941802c329f1a28b	cá kiếm
+vsl-2db9eeb3da6ea50d6312	ngăn cản
+vsl-e89c3c11871464906b92	ngoan ngoãn
+vsl-329408f169360826d293	mèo cào
+vsl-4fdf30495a7961109495	khô héo
+vsl-9fa91aa68e3e28e01f0c	lao phổi
+vsl-8cb9d0c6b9398a5b64a5	đắk lắk
+vsl-05ee9528447f092e2d90	thúc đẩy
+vsl-595cca6efbedd912135c	thần kì
+vsl-79c4580fbec22a34ce95	chiếm đoạt
+vsl-fba6cb33d5bef2c0ab76	nghĩa trang
+vsl-11edeaac2f2627cfa864	danh hiệu
+vsl-7266c48e728a9f7d6bab	chuyền bóng
+vsl-8e95e269c433ecd8b643	đỉnh núi
+vsl-18dfa9819c0b2e11cc6b	chuyển giao
+vsl-efce4f416f178fc434d0	chân tay
+vsl-3ac74f5185fd04df93f1	giao hàng
+vsl-89c0b17afd32bf877577	gật đầu
+vsl-5adb789e4c6a1b86c893	đoạn thơ
+vsl-8128e9d1ccb444ae3ac9	khánh hòa
+vsl-7c27cf0dff8403838830	bàn là
+vsl-3112ed1755b828738591	ngoằn ngoèo
+vsl-57ff144e333f14b83235	khách mời
+vsl-a08af8badf7587760fa2	tuốt lúa
+vsl-37d61e5617596fec3c30	đằng sau
+vsl-1d2f3a9bb78b2c2a530a	hậu quả
+vsl-42ab6102d3883797aab7	cô đơn
+vsl-5f3a2129b4d3c9cf17e5	phích nước
+vsl-6839c8d04e8acd47a48a	giọng ca
+vsl-fd9880adb74cb5617376	gợi ý
+vsl-e7b49739bb9beb839dfb	hoa hồng
+vsl-684128fd6aed5503d14a	con cò
+vsl-6e9c686757f97635ec3b	chuyên cần
+vsl-e2c04b138a4fef938951	giả mạo
+vsl-b306a701b5cad3b3a02d	ngành nghề
+vsl-4535b2b9e02b4c293307	tuyệt vọng
+vsl-6d812dec93249a66591e	âm thanh
+vsl-4b21f5be1844bc4d795b	tổ tiên
+vsl-a98a0e1e60273565d13c	ngẩng đầu
+vsl-58fd2bbf9dfdcbfaf97e	trình bày
+vsl-0a766d553470506f62b1	dũng cảm
+vsl-6493556c1b2467082efd	nghĩa bóng
+vsl-47581558d4f908ca66c8	chứng nhận
+vsl-1a63c750375c10bc797a	đuôi chuột
+vsl-830cf33ea860ca0aeb6c	kiến trúc
+vsl-ebb7ff19d3492564f239	liền trước
+vsl-00d402d570608f94c345	ý tưởng
+vsl-f10770d8e5f789c126e8	đổ nước
+vsl-c74b300009108cb001f5	triệu phú
+vsl-fa795e56626beda982a0	thiếu niên
+vsl-fa3d3e76a72fb4f370e6	nhào lộn
+vsl-d4e4632e917f193878c5	khăn quàng
+vsl-fa53ed0af7831241c356	bất hiếu
+vsl-2040fd2fd10feb214c13	hiếu thảo
+vsl-1ccc365bbe73cc7f4dc6	lạc quan
+vsl-4086db6278c8c793f2bf	lo sợ
+vsl-b084e433fc7433b5a6aa	ý chí
+vsl-a969ed16cfbc9e994ffa	thợ rèn
+vsl-88847ffab07069a29a41	chữa cháy
+vsl-25e0541b981955b8a7e9	cao độ
+vsl-9d8dab8d7c1337952ab9	hình vẽ
+vsl-aa108bade083a9f77b96	bảo tàng
+vsl-83088dbe69e27de3f3bd	kí hiệu
+vsl-8fd4612421eaffc14fa6	buộc dây
+vsl-16b254cc2dd5546710d8	giao hoán
+vsl-a5577c9d3e1bead8212c	mi-li-mét (mm)
+vsl-072216ed50610d22c54c	chèo thuyền
+vsl-24361da296d248402033	thù lao
+vsl-28a553e7c31027b70c91	hướng dẫn
+vsl-210c019933f585570940	giáo sĩ
+vsl-91c9ef06928c12fd163c	diễn thuyết
+vsl-f997b0a4a397cb4c4b3c	con gái
+vsl-7c621c14a70d99507a04	trúng thưởng
+vsl-83322b2bba02211994e3	hòa nhập
+vsl-ae0b4733302034cf3cbb	chụp đèn
+vsl-53d3418b4eb8e42e55ac	không cần
+vsl-db8aab7827be5b3d9b50	hói đầu
+vsl-4a35c1af4880da3d8f94	bút dạ
+vsl-c2cbf907c34074935ded	đàng ngoài
+vsl-a2a8079e30fe7a1dc150	đối xử
+vsl-80000844ff838fe43816	lơ lửng
+vsl-2d6d8eda9a8a66d9fa0f	bàn bạc
+vsl-ad506b273d8025f80ea6	trầm trồ
+vsl-9c3bfd4abf7f9fdf4f05	gãy tay
+vsl-9b6507414f00f030297b	làng xóm
+vsl-1f537db76820c87813fc	khóa cửa
+vsl-f43a4c365d4e46fa838b	bắt giữ
+vsl-a28f0dc2945f8c8cd4e8	hoa đào
+vsl-ef74b240464e7bfab63a	vạm vỡ
+vsl-83392badb63387f2985b	y tế
+vsl-5ac597fea3889c7e2452	bánh đúc
+vsl-4f54e9e1a61c1d4cf256	báo cáo
+vsl-d5e5b6cf00b4a70a6406	leo trèo
+vsl-7012529345f07e7464d3	mặt vuông
+vsl-7be00303d10b79f04340	bát hương
+vsl-fa478e358e7985d59264	lĩnh hội
+vsl-fc38996f98031737b8ce	gù lưng
+vsl-79ce812f934697a2ed3f	học phí
+vsl-11d8662363dff0f84b16	công cộng
+vsl-e645256b39dfec39eb48	xung phong
+vsl-786d1cb48d067415c817	vô tư
+vsl-18b6f83f448eaae3da00	kính lão
+vsl-40bbe1f8d3ad08c2eff8	ao chuôm
+vsl-19ce3d3e893f8e126762	giới thiệu
+vsl-ce32b6c79158380b9819	vạt áo
+vsl-3dac52397f2c7f0fde5e	luyện tập
+vsl-fc28d941afe4083d643b	khâm phục
+vsl-23fe177bba3695154d7a	người gửi
+vsl-c72c2622757155297189	bạc liêu
+vsl-7fa4902fd460c35dd057	bảng chia
+vsl-6d7508f5cb0427deec72	cổ kính
+vsl-b5527a26923176910988	nguệch ngoạc
+vsl-7534093f2848f02b8f51	bọt biển
+vsl-c245bc5add1936385042	ngân hàng
+vsl-03734ce112624e04cd95	kháng sinh
+vsl-02ce0ebfafb2d2d19924	nguồn gốc
+vsl-18d30f769bcce068b932	đo lường
+vsl-1180e83aaf53c3b66a08	dây thừng
+vsl-e2cf8af463cc3d9cc2b0	luật lệ
+vsl-38c2f4968ac0e4960aa5	trong ngoài
+vsl-bce597abbfcc312b37e9	thuyền chài
+vsl-57ccb2ab603d33345e0a	bao la
+vsl-9aa00e7293428fe4bb05	cao nguyên
+vsl-1aa9ac8b487c884f197e	công nhận
+vsl-54199e643e00ab74cd36	lẫn lộn
+vsl-6442dfba012cde910e9d	khu rừng
+vsl-ae0a3c09795943209e17	thăng long
+vsl-d5fe208d9de0aeeeb133	gần gũi
+vsl-11e91ebec2f39d42fce3	lối đi
+vsl-5d09673e58aef58d95aa	nhà tù
+vsl-a2ed65e2ef24de82d824	ngưỡng mộ
+vsl-c1e2c6e4fe2cf46473d6	ngâm hạt
+vsl-b58a51805a44157093a1	gang tay
+vsl-8551e4bc16452cbe4380	chiều cao
+vsl-6b82f0ef0a0de9fc7e19	bãi cỏ
+vsl-71befd30dd6dd765c857	kết bạn
+vsl-6eb0b55148398bd12a18	khóa quần
+vsl-a1f33ff0a0b616932e30	có ích
+vsl-1db57fef481b8d45e863	đánh giá
+vsl-0e820612e7cc026e9632	gấp ba
+vsl-97e5dcc3e1650a71c85b	ngon giấc
+vsl-9f63bdb095c63d8f3b1c	vở chèo
+vsl-7e14bb25d740ed421436	chuột quang
+vsl-9574858ec5b5894d43c5	bộ truyện
+vsl-6400002cce22fba6d66d	khai mạc
+vsl-c1d0893579935e8685ed	bồ kết
+vsl-cf25157f4512ffa9b182	anh chị
+vsl-05a7f84685093ffb10a9	mù chữ
+vsl-641a47c25b0fc5e1c47d	mái hiên
+vsl-32c3b830d31107c73f76	gọn gàng
+vsl-7970292f12355e87b1c3	máy bơm
+vsl-b70c0d419d76e0343343	nhà thờ
+vsl-dbce11b4a4944ad136da	đua ngựa
+vsl-8baf99641e5faa5e3d20	miêu tả
+vsl-dae32a8d32f3a88733cb	ảo thuật
+vsl-0576e440c71b5c79b127	thuyết trình
+vsl-3c00edf22f9dab8876c0	mộc nhĩ
+vsl-6e0b1a786858b763d754	ngược đãi
+vsl-bff3406bec42c50c2d9d	hoa cúc
+vsl-17d69fc4142f0890a199	gãy chân
+vsl-792f352f8dc73984fd9b	gạo nếp
+vsl-f0d9aeab6990db5fc032	ăn ít
+vsl-97161c4b259fe47ecff3	cách ly
+vsl-b3710bc3d642982c3b84	góc bếp
+vsl-5744b4fc2ab4aba2f751	pha lê
+vsl-2ec82a97eb988e4dcdb9	cha mẹ
+vsl-d195e02f66b6d09d319a	nhảy dù
+vsl-aea0edbfb5e14c319ea5	đèn lồng
+vsl-cc0f58661e2b424488bd	bệnh tật
+vsl-4ae3e02ab08aab2555b4	hải dương
+vsl-11ba75c451eaaf340e13	học bổng
+vsl-351194fd48dd063ba234	trùm chăn
+vsl-9ea4c26f68c030e3252d	nghị lực
+vsl-bdccc1cc2a394cf8ec58	kinh ngạc
+vsl-380be651f4935512db63	chủ ngữ
+vsl-4c47095ad20922c00e20	thóc (gạo)
+vsl-8fd1e854c0a77b9414a8	tươi cười
+vsl-7e3e51845af30f039143	thông báo
+vsl-3c75c9a58d0d5d836a94	nghỉ mát
+vsl-6e6e545cfcee32401edd	chùa hương
+vsl-c952c1d6716fac2e45ba	con quạ
+vsl-f787abd8a5a59756d3fe	ý thức
+vsl-bd35503db0229f95c58d	nhanh nhẹn
+vsl-673865f61721f4ed506c	khách vip
+vsl-2ac69b0739599b51a57c	bún chả
+vsl-021814db688ccced8cc5	mặt dài
+vsl-14bcd3fab4b17780a563	áo phao
+vsl-8654060fb9dd36e8510a	mạch máu
+vsl-b0bef26e0840ab96058a	thợ thêu
+vsl-0d9e2e881309758744a9	năng lực
+vsl-5340d9d5df6079530910	do thái
+vsl-155f6cacdf5a626b332e	khả năng
+vsl-2f4e197655014028cfc0	lắp ráp
+vsl-d2580ac11c6c8a025ee2	trung điểm
+vsl-940f4425a5b523491d35	ẩm ướt
+vsl-065160cc2fc946ff87db	đoạn văn
+vsl-d598abe7fd3cc7d7742c	đôi tay
+vsl-15d241218e6ecaa18aff	bánh giò
+vsl-1701c584a7427a1bb610	bán đảo
+vsl-4228988f535e2a248fa7	vĩ cầm
+vsl-75d396df9558ce876c12	kêu gọi
+vsl-7f3a09fd7de8c488280e	chàng trai
+vsl-f4eaace26ee14ca04ecb	giọng nói
+vsl-a4a6579c47f9ca4a0063	màu đỏ
+vsl-3087a47a6cf461a270a7	chèn ép
+vsl-36be56e0d113dca0721b	chữ viết
+vsl-65564b9b57b876df63a0	con vẹt
+vsl-d991c788f02c4aa39526	báo động
+vsl-479fd4ac69c9f274deef	vòng cung
+vsl-29a027cd010a71ca69da	lau chùi
+vsl-3cc24dc9f6a9cff04c11	thiếp đi
+vsl-aef9ed5174ec7d4477c3	bình định
+vsl-aa9b9a99de325e547927	lương thực
+vsl-266dc43886cc5d212538	đô thị
+vsl-f15eaee3612e261f8d3a	du học
+vsl-370f86c7ffb9b168bed9	ngoặc kép
+vsl-c11247c150b9d5124b75	mã vạch
+vsl-cbfbd2a491ad93e6d28d	bắc bộ
+vsl-10fe45622b68f010e231	khổ thơ
+vsl-8e01c3a9a43c185f4d37	mặc kệ
+vsl-1a37305f6c7e424d856a	đánh bắt
+vsl-2f8dd9230734bdc9f8b6	khâu vá
+vsl-047e78198bfbdedd47d2	làn sóng
+vsl-f3853ed13039e2d5c741	uốn cong
+vsl-7f33dc6068c89a97b31f	trục hoành
+vsl-d7a55fc1c5902492ee00	yên ngựa
+vsl-e388d11a896aa27efae3	long vương
+vsl-328d9a35a65351ed7b2e	bữa cơm
+vsl-a6c5b36d9c7a1fd935b0	chức năng
+vsl-56bd6e4fe13c4a097243	ngước nhìn
+vsl-d033a4112c9d5962ab28	bình thuận
+vsl-9c39bc9c335075f5afb4	cạnh đáy
+vsl-eebf956648df818f5658	trắng tay
+vsl-22bbe32d806ad9e5fd09	bất khuất
+vsl-10774a35c15260b8c614	chứng cớ
+vsl-56a43e629eaa3ae8ec0b	đại dương
+vsl-a7e4b735ec48cc4f3e6f	đắt đỏ
+vsl-b3218488c3bcceef2d48	dễ thương
+vsl-223f25c3068d9081ef7d	tự giác
+vsl-0b4879765f373eff111d	khung thành
+vsl-ab76888e08928c16df22	liều lĩnh
+vsl-150baa409417d39746ba	nhà cửa
+vsl-a5fc1d04866bd0757a63	khúc khuỷu
+vsl-61138fd91f58f10cdb2b	người nhận
+vsl-f20f075ac938614425c7	thiếu nhi
+vsl-687c3626d16d737e805b	khổng lồ
+vsl-36fafc74b8d0fd3509b7	đường tròn
+vsl-ede9ef289a38b46f6693	đều đặn
+vsl-de9779164b51b6cdfeed	mạng lưới
+vsl-be9ff4f6f6b2463ec38c	bênh vực
+vsl-d0e91edf3108235f9577	kỉ luật
+vsl-4de26764cf478a4b32b2	lũ quét
+vsl-4731a5d535df232f9a17	đôi chân
+vsl-b8b63116b282814eee11	bánh giầy
+vsl-bfc64c8f3644a8927607	bệ xí
+vsl-0861b1a17d86b10ce1ba	băng bó
+vsl-20b11cef751410599e4d	mái vòm
+vsl-8bb037e5dca70a8e4529	tụ tập
+vsl-72e012857ad660eb457f	đầy tớ
+vsl-0c318b022c0a2c208d5f	đồng ruộng
+vsl-10e709e9bb3222f6324d	đối diện
+vsl-2897990b40d8ec47de41	hiện đại
+vsl-d0fb6e1d3e1e5c4f5b65	cây cối
+vsl-f309f86325116a7b830c	cây trồng
+vsl-af4129c879aa68648967	thuyền rồng
+vsl-7ae96fce694f0076bb85	cướp giật
+vsl-9c9a6bfec9717ba77eb6	dấu phẩy
+vsl-e68bc3994306885bc54d	hùng vương
+vsl-313a0c105eaf59973797	khó khăn
+vsl-e5a5d8ffc93c931d326c	ma cao
+vsl-1593ba14b9054212b0d3	mạch lạc
+vsl-14b13655761b4a2c3246	phương tây
+vsl-8661dbe7804732959ba3	thiên thần
+vsl-c2590347d2b6a473db28	vắt cam
+vsl-6b77407b0ffd692a1bc3	ăn vặt
+vsl-9bc0ace8ca6247e50083	đáng quý
+vsl-a5982e5b1e161c1f9954	đảm nhiệm
+vsl-12df678f50566697cd82	ế ẩm
+vsl-982d0aeab961d3b76718	thiên nhiên
+vsl-33a7860c0e5cc0ce09b2	nét mặt
+vsl-caaf8e6f4ac1333920f5	khoảng cách
+vsl-1438ad13e9a302579592	thuốc bổ
+vsl-9048bc518ad67862e276	bìa sách
+vsl-aae75a87c764a2dba3a5	dòng họ
+vsl-04e4198a2edadcc00a46	liên kết
+vsl-256ffaf16388de6da32d	vào lớp
+vsl-4b4ab7705fed9f59c62c	truyền thông
+vsl-75aae06932dceb19367e	vĩnh long
+vsl-13fde6472a6c69c72315	kì diệu
+vsl-5916752d116a781fe19c	mạnh mẽ
+vsl-fab60da8ab53344db7e1	truyền dịch
+vsl-a40e4ce44a0fb6616751	coi thường
+vsl-3c00ef3edf665ad567f6	cực khổ
+vsl-bc7daf3bfaebd850d55d	nghiêm túc
+vsl-9a13ff64bb4b0b12d172	bắc giang
+vsl-bdc35ee0d1426b5654e7	long an
+vsl-a3632ce12b1173a3656d	thổi kèn
+vsl-623d93d007853f1ee027	lợi ích
+vsl-17c708f08952eb033bf1	thuyết phục
+vsl-a52d2a4339df5b02aecb	góp ý
+vsl-7cb0f667f40a83b705d6	ki-lô-mét (km)
+vsl-d17158a7b19306f2a6e1	lựu đạn
+vsl-bd03b01d0ada1d286571	kẻ cắp
+vsl-93aafb957c956ca62c36	anh hùng
+vsl-20e40cb279876c1576d9	dấu nặng
+vsl-2c7416958013c15708d9	khuyên tai
+vsl-502660e6ea424479f5d6	lời giải
+vsl-4c3c39817ae157867edd	trực nhật
+vsl-0028a448f42d1890e08f	chuyện nhỏ
+vsl-3850ea7dd9370531f379	đầu tàu
+vsl-4dca581adc9fe4a88934	khắc phục
+vsl-59e53c162044dbb804ea	bảo đảm
+vsl-b6fa0cb4c1297feba040	hòa bình
+vsl-a439bf64b54a4661a19f	ăn diện
+vsl-077e78fa3831a42db149	anh họ
+vsl-8a5b9b9326613d0030c0	trưởng nhóm
+vsl-4f338968fd5d7b68d7e8	la bàn
+vsl-4396802cb833ec37cd6e	tuyên ngôn
+vsl-412952c6d3b2cf438f93	đeo kính
+vsl-fe20dc7433d5fedcedb8	cao tầng
+vsl-024ceabf9ee2a3e5a51f	gặt lúa
+vsl-7a79cd62e6a805f37fc5	gốm sứ
+vsl-88bf440ef7c57d5e8203	lời nói
+vsl-186c8a0b85483a96f5e9	trưng bày
+vsl-69b48d637a14cba03952	điều kiện
+vsl-5c28ea09015982d18c50	bánh cốm
+vsl-b5ef447ccb23e26704a0	bé gái
+vsl-2fc7dc4b37c6ad08ec2e	bình phương
+vsl-5325c43fa907738ca043	bản lề
+vsl-64fe8b19a5be77d21161	buôn làng
+vsl-0d1c2f46cb45703adabe	co giật
+vsl-9e6e4ae3255d341f41e0	tuyên bố
+vsl-ce99480e5a71d0d8b030	bổ trợ
+vsl-218db03b592bce527922	trú mưa
+vsl-c977e73696b47c02169d	mái tóc
+vsl-c4e2fac6030980f1ba32	đưa đón
+vsl-936b4b7fcf06815dd22b	ác cảm
+vsl-d09707013546efdb74e7	ít nhất
+vsl-a8c5e92fe57c2a822d21	boong tàu
+vsl-3b39aa90a3b7d43a0d50	đường chéo
+vsl-c43df1b888e8e22fc4c5	che phủ
+vsl-656614aff06709ca0be5	điêu khắc
+vsl-e94deb4953d9ab746b12	gặp gỡ
+vsl-ef93c9c357f7a2ecd60c	may mắn
+vsl-3433b2193be7f43d68fd	vững chắc
+vsl-57ca14d006def05c2d0e	hung thủ
+vsl-e405b6cfddc06f280652	đua thuyền
+vsl-4cb2712d5748988a64c7	bàn ghế
+vsl-3a1f7c9675266057f552	hóa đơn
+vsl-c4b42ccb69e62e8f6951	ăn vừa
+vsl-c2ba1de0d79e87651fc7	bánh gai
+vsl-8aeb85bb6422db382df5	củ sả
+vsl-89f2a93e48dd0863e25a	trả thù
+vsl-e388e17568da28f66c4a	đơn giản
+vsl-d9cd26c7e7611295c5ea	hưng yên
+vsl-1565d5414240395bd194	giận dữ
+vsl-8733adfd8b7dde1b78f9	ủng hộ
+vsl-af81d197c70d1cfbc16d	cuộc sống
+vsl-e899b03e384582fa0908	công việc
+vsl-c9315722252889454965	động viên
+vsl-1d04decd5edd16a5a1d7	phong tục
+vsl-81b9bcc3a047df04d6d3	huân chương
+vsl-f7820219b02801b803a5	vạch trần
+vsl-b43366d231af04858b81	đóng cửa
+vsl-eeae1086990d9b5a0267	vây bắt
+vsl-e7e4b1a855202c208361	hoàng tử
+vsl-0dff0187a249e415316b	thuận lợi
+vsl-e21a9fecd513c80ecaab	trục tung
+vsl-5f24f77f18ce9a0abda3	thông qua
+vsl-8ee326a4c13bce08c68e	bến phà
+vsl-0bf6001e4cc157787bdb	kịch bản
+vsl-750e281ec64ab8108e78	bờ rào
+vsl-e58d01ac0535b3e29126	đội trưởng
+vsl-ae6d3ebb3523c7aaa832	chạy bàn
+vsl-f162231d896322ee9415	bồn hoa
+vsl-44cc3fc34a7a2e0d85e1	em dâu
+vsl-32e60bf52f15bd193fbd	điều trị
+vsl-705986af09b350b02718	lục địa
+vsl-c08a1ef072a937bbd5a3	tuỷ sống
+vsl-1cc3a68f4c5be0d30e86	kì lạ
+vsl-dd35b68dba90a6993ee5	nhược điểm
+vsl-6dadf5c8ab2de925d15d	đồng bào
+vsl-a22306f3c87670486021	người máy
+vsl-3adaee013a1f5dbdf2f1	lắng nghe
+vsl-63c8fc46d48738c07907	bên dưới
+vsl-22fe5d10da8f161c2f1b	cầu giao
+vsl-92617d3222949c056b15	ăn đủ
+vsl-d878a6a59a9865f1cb41	đun nấu
+vsl-53e653a3e4b4f20c513b	vắn tắt
+vsl-6870b975d058fb618f26	bức tường
+vsl-62a679b89dab125fe728	la hét
+vsl-04b00d93d6358fd377c3	cà mau
+vsl-29ec81070b0e7b2e7948	bắt nạt
+vsl-d084e0f3dfa4933921e8	vận động
+vsl-36bccb1577a12efabd48	gan lì
+vsl-09c32101cd4eae22383d	khát vọng
+vsl-0f63fb9ba3dd851e9d4a	đồng hồ
+vsl-8dc058006bc5ca906661	khiêm tốn
+vsl-c855e3b169758a2df6be	đồng tiền
+vsl-0c8f1933947f543dabe8	bổ ngữ
+vsl-1ac94eceeb10572ac22f	hình phạt
+vsl-e13e11fbb5aa9d8dccab	bò sát
+vsl-6736de85f467abf72ce1	chữ cái
+vsl-63ad1bb8b5a0597fb504	kiến thức
+vsl-486dc0d8066c39e87291	khoẻ mạnh
+vsl-b88fd5c50eff21635676	bốc hơi
+vsl-98b6af3fefa41a47cb8c	khoanh tay
+vsl-ce5ee4c95351fda00eab	đôi dép
+vsl-5fb9b9f5a793c5f0fc31	ủy ban
+vsl-c0f5db5fa157b9ccf9ed	đổi mới
+vsl-fa9b07c8510a74822cda	trục xuất
+vsl-3afe48119992564f3fc4	thống nhất
+vsl-724940913fd3d508b0d1	âu cơ
+vsl-bc8888d4d1b8e4455e92	ích lợi
+vsl-7f35bfbe5a09e2e31a5b	bò tót
+vsl-1fda42a44f63bd3d28ed	ngon miệng
+vsl-5f250f0d6b414115d670	lá thư
+vsl-b83d6cd123906977ea04	biểu thị
+vsl-a06f4ba6389faf4bdad5	cấp dưỡng
+vsl-87c827b699c95b462cc6	thuốc bắc
+vsl-64cde59abbccf7ddbdb9	đường thuỷ
+vsl-e3c16a6cc39a2be38fec	đóng góp
+vsl-8af7ec1ccb144784b06f	vĩnh phúc
+vsl-34a557766bcbb6113266	chạy nhanh
+vsl-3976d8e99edf7398719a	kiên giang
+vsl-cc1e9de0387e66f37ef9	cao quý
+vsl-083e380a1174f6c53d79	kẻ thù
+vsl-ff9dad9aab52b5bbf7b4	hoán vị
+vsl-750789eabe46547d6939	câu ghép
+vsl-83283bb07d0290170af7	bơm xe
+vsl-98ebca7dc9ce6a4d2087	đồng lúa
+vsl-593e0a1068adad28c837	đàn bầu
+vsl-61ead939441e7b7251d2	tù giam
+vsl-9b5d4af706b6bb238264	trái nghĩa
+vsl-357b25d62daec282e23f	biển hiệu
+vsl-6c9dc6f1bde662ccf5db	đối xứng
+vsl-f992e0e8aa7da31a9f3c	vĩ đại
+vsl-8f3d637a2758c79124b3	bàn chân
+vsl-83b3ff4c15a9ca5c84b1	bưu tá
+vsl-2316418a56d8e5fbdc0c	đông lạnh
+vsl-1a883ab6460ce3944060	bệ hạ
+vsl-180ebf2786429dbf0eb0	thuốc lá
+vsl-60b3f7f2ec029d8b2dac	báo thù
+vsl-7c41a757d5ff303bbd0f	từ ngữ
+vsl-32ab8021f0347cdc8537	giả sử
+vsl-209356e770557f58c8e2	truyền thống
+vsl-ac2b21093812de0c5471	bít tất
+vsl-e53228eb0e82303b5dd5	bãi tắm
+vsl-8226ac2c095094b71e53	chứng minh
+vsl-a10c5bd1531e0f4da202	biến đổi
+vsl-c2eb3de74dec41744557	bịa đặt
+vsl-52a804d78ecd19e81981	bật đèn
+vsl-50fa276334d2eb1f2860	lang thang
+vsl-c073c7b75941fbc95b37	lỗi lầm
+vsl-7d207838c11604c32a4f	vầng trăng
+vsl-b8a5bbab4ac5fa50b930	dẫn chứng
+vsl-dbc25d63f85449db9d69	quan tâm
+vsl-57671f41bfcb34ea1292	thiệt thòi
+vsl-4458d45d029a26d7deea	thông thường
+vsl-b41a59a9127d04b67b3b	đền hùng
+vsl-30b9198963ba8b354dca	bên trái
+vsl-300ff397530402cc99b9	khoác áo
+vsl-b00c39fc6188d2591bcc	vàng bạc
+vsl-042bc9b13f410a610ede	lão già
+vsl-f3b9bc2d193977e07dff	tuân thủ
+vsl-efc1f0ec53e5e479d2d0	nhắc nhở
+vsl-c231226adc6e444a0599	vô lí
+vsl-d994d5a64fc32f21c2a0	ăn xin
+vsl-d3eca55586c0d220b1a8	đề-xi-mét (dm)
+vsl-456a8a072d0502f81626	tiếp tân
+vsl-9decd4a5a1c6fdb67b30	đoàn tụ
+vsl-2c170cebd96848039ebe	phương đông
+vsl-0f1131bb144338740690	khoác vai
+vsl-cff744e682e4f9f964b4	vai trò
+vsl-15d81178f94d01033e26	bướng bỉnh
+vsl-2f050afa54b9cb2a0c1e	ẩm mốc
+vsl-e54b4d9a736bdada62af	khoa học
+vsl-bf356be95edb9d2022aa	bỏng ngô
+vsl-a42cecb2ed3429eea386	thị lực
+vsl-a37ce878a348704e91f7	đề-ca-mét (dam)
+vsl-d791c370be7037217538	bó đũa
+vsl-6f482b0f077e762f5515	cổ họng
+vsl-9e98aa8833f09357a937	câu đơn
+vsl-85fe5fc6d574584ecc7f	đối thoại
+vsl-1be73bf8d01aa6da3856	cưỡi ngựa
+vsl-623dd135b6500141c9f3	buồn nôn
+vsl-04103ef4e955bce07af7	bao nhiêu?
+vsl-0e843081d92b12c0a154	bánh pizza
+vsl-c040f8febc1735220f95	các bạn
+vsl-4e8075b60777f593a873	hoàng đế
+vsl-87efd4ce1e47867a2bab	tuy hoà
+vsl-f8f68d76a117293b2e90	em gái
+vsl-d603e1ad9dd200c25d35	bộ sách
+vsl-e6dc0dfc4704be2eb588	bọc sách
+vsl-00adfd070f81f4776a73	dấu chấm
+vsl-d97cd55d4cbe67ace601	ấn tượng
+vsl-b843c20aa7227637c799	chuỗi hạt
+vsl-58d31c326ab8e0ffb54a	gan dạ
+vsl-ee2dd78bae2ebcfa9040	hỏi han
+vsl-8935f53c39a0c1df8c0e	vị ngữ
+vsl-d3ed5582dd01c3069f91	để (đặt)
+vsl-20c137e0f3dc65a8f0ab	học tập
+vsl-0262a36ec731cbe7ec20	điều tra
+vsl-14080575665a737328a4	vô tâm
+vsl-88530181f7dbabef55e5	ai cho
+vsl-65a7b9223ba040e117d5	trông coi
+vsl-ed492ba6c74e33eb6bba	ê đê
+vsl-07f57365b1aff7cb619b	trung ương
+vsl-cc7d2a10038192e559f1	tái phát
+vsl-b04e9cdfcee7bf200c51	độc lập
+vsl-06f4508fb30d0284f888	đĩa dvd
+vsl-79407edef856aca3b6b7	không gian
+vsl-d19dbd099f80956ad873	thoát hiểm
+vsl-e136003b6d6faac59043	vi khuẩn
+vsl-2ef10519e4c4e93fb325	tò mò
+vsl-5f77a67359b3bec07a11	ngộ nghĩnh
+vsl-468bbfbe83657acaa198	đông nam
+vsl-fd38c6c7c8d59a429a55	bụi đời
+vsl-8bdeeeb71ac46692a53e	bắc nam
+vsl-d28eeb3635a23425b186	màu đen
+vsl-d8add087c6fd29fe04d9	vô tình
+vsl-238399c7698eb665cad8	đại tướng
+vsl-e954b9a3e23c3e67bd68	học giỏi
+vsl-dca99319d8eb13aef6f9	lưu ý
+vsl-e9469f2d1b3b36522c6c	chuyển hướng
+vsl-06d7d533566b62634765	bút máy
+vsl-05acc7718ac21129ab27	bài kiểm tra
+vsl-277f45335215e34e7837	bất hợp pháp
+vsl-908d088301bc50dd37e8	ca phẫu thuật
+vsl-fd80a22a4f059c1b363c	cho đến khi
+vsl-bd734daa64f92b57b6bb	chùa yên tử
+vsl-aee39633c6f41d3ddf55	chất khử mùi
+vsl-5fb187ec8b5f876d0ed9	cuộc thí nghiệm
+vsl-dde986337c5716fd8af2	cái khăn lau
+vsl-2783596bce1e7c14878e	dân tộc chăm
+vsl-b9103d394327b6a63b9a	dân tộc mường
+vsl-427c5c959fb51c536198	dân tộc thái
+vsl-56cb91a8f9e8845f83bb	dẫu sao thì
+vsl-8b398115fb8a26eafa48	không thể nào
+vsl-550130c6e0e3e50bf8e2	kẹt xe/tắc đường
+vsl-ef45f3feeb86244b2f39	luật xa gần
+vsl-4412672fc265d6d77268	lò vi sóng
+vsl-85c6f401c23c3f44ebd9	lòng thương xót
+vsl-f622d85849c578c8b61e	lễ hội halloween
+vsl-fb294f8b08e20dba9b9c	lễ phục sinh
+vsl-f4f2a94d7bf30a3bae2e	lời yêu cầu
+vsl-bb61f994f227c5ef5b48	món tráng miệng
+vsl-1e2923cc659a010d3299	mọc ria mép
+vsl-c857f58e696828bd7a08	một tiết học
+vsl-bd5e01e3ab2e90549127	nghênh nghênh (đầu)
+vsl-b5f40714151f1c73d79b	ngày cuối tuần
+vsl-ec36114cdb768ebff6e8	người giữ trẻ
+vsl-d15177281922e69cb131	nhà vô địch
+vsl-4bc877ba69dedf00e612	nồi cơm điện
+vsl-8be5b151b269c61a3bfa	nổ lốp xe
+vsl-ecd5d356c484e1e41888	pha cà phê
+vsl-4ab98e346291e10c5904	phim tài liệu
+vsl-7b479528d2a6f1481fae	phòng thí nghiệm
+vsl-4575c1f63e8f5b45de60	phẫu thuật bụng
+vsl-f5cbdd5900bc0611af81	phẫu thuật chân
+vsl-75beb758e8294586c6f6	phẫu thuật mũi
+vsl-2dcb53479f134a4d7a09	phẫu thuật mắt
+vsl-21f9285757b84cda69bf	phẫu thuật tay
+vsl-a20a47b7025c598695a5	phục vụ nam
+vsl-354a4678ba9f3a65ac74	pi-a-nô (dương cầm)
+vsl-61c1bfbd15309fa1cd09	pê-ru (nước pê-ru)
+vsl-a7db37afb0cb60da8122	quạt treo tường
+vsl-aac988754cedec10fbe5	quả địa cầu
+vsl-9498a278489b0eb99003	rau ngò/rau mùi
+vsl-efcccec548a2ef164c1c	sự khởi đầu
+vsl-86a55f008a70499b5060	sự liên tiếp
+vsl-de8298b4a43158c10e8f	sự lôi kéo
+vsl-224c72a4a6e9e263b16b	sự lựa chọn
+vsl-8b462b61e49db30a7e22	sự đồng cảm
+vsl-c9167b7f0e269ed226cf	thế vận hội
+vsl-a8b31a72ceb141682212	thịt xông khói
+vsl-5f6cfafb3f5699efa4a4	thợ cơ khí
+vsl-ac392e268f5ebdcf70fa	trình độ cao
+vsl-b964479cf4b906213d91	trường cao đẳng
+vsl-32c2881871d589880ad0	trần quốc toản
+vsl-bb1656d29d79c3cac23e	tàu điện ngầm
+vsl-0e77a0a890c93543cd1f	tây ban nha
+vsl-ddb2686bcd2e217fdf82	tên là gì?
+vsl-1e0b4c6bc7a421fcfa0c	vòng nguyệt quế
+vsl-e8b54b0cbd865ecaa261	võ thị sáu
+vsl-a61a5cfe3e976c5b2463	vợt cầu lông
+vsl-a50142d39a75e953d6a2	xe gắn máy
+vsl-5f399f97eb131fa0b6a7	áo kẻ sọc
+vsl-e5f18a6c13a83187adea	đi vệ sinh
+vsl-436012661248ed89f680	đảo hoàng sa
+vsl-ade63a10148bf07ac26d	đề cập đến
+vsl-3714ef2ed9df85c03159	pa-ki-xtan (nước pa-ki-xtan)
+vsl-461d23e080560679c007	nói ngập ngừng
+vsl-882feed19f2630d2170c	phòng mĩ thuật
+vsl-13e173fc740f2d847cd2	quả hồng xiêm
+vsl-f12663d6896243451dd7	long lanh (mắt)
+vsl-2764ae4fe82a552ac317	thèm rỏ dãi
+vsl-0d48036ada5aa218a09b	vô giá trị
+vsl-f7a7a67adf28f2c00f97	sân vận động
+vsl-8d615a38192a5d13d87e	dân tộc mông
+vsl-7fc2e4e133043f2e7071	cô vy (covid)
+vsl-ef84a7b6cdff4637c7fd	ô ăn quan
+vsl-3a202f06e9a3f9ca29ed	nhổ lông mày
+vsl-5059c77db35412f1ef3e	ăn vú sữa
+vsl-3c1360fe9be1412e16e2	cái vợt cá
+vsl-33b5f33cb69426530646	phòng âm nhạc
+vsl-a94ddca4daa0101083c1	tuần trăng mật
+vsl-5f51633e14beca95a181	người cổ vũ
+vsl-5db465383d2e5612930e	rau diếp cá
+vsl-e6eeb3dc714bc58f573e	sự cứu tế
+vsl-9eb1005207fc283de13e	gà nướng lu
+vsl-4570b1e9595f16b1850b	hoa dâm bụt
+vsl-6906a89b2b55927b02d0	rạp chiếu phim
+vsl-4f79e6567e7dc8f67c3e	tràn ngập (nước)
+vsl-c850dc6f651ff2716765	người mình thích
+vsl-5dc6088a9dd847c69a95	phấn trang điểm
+vsl-64b84e6cc752276da654	trường đại học
+vsl-17a7a2335b3a3d6543ca	quả su su
+vsl-9e08cf6ce102105c68b0	quả đu đủ
+vsl-5ec30fe81630725a94c5	cơn thịnh nộ
+vsl-325bbdea582507d2222e	cuốn sách nhỏ
+vsl-c2528402ff2918543e31	tập hợp rỗng
+vsl-b0f90d74e6e7768de222	nhảy bao bố
+vsl-d10e547896b924960624	lễ bế giảng
+vsl-4b900ed80484bf5aa8f5	không bình đẳng
+vsl-79657eb28e0cfbc7ef88	sách giáo khoa
+vsl-5611cd9d66f98b084ee3	bơ đậu phộng
+vsl-4d7e3ef7e366d7687df9	đảo trường sa
+vsl-76c569231c082f709770	cảng sài gòn
+vsl-291647dd702f262e0d21	phòng y tế
+vsl-50caaef4516883076154	rau cải thảo
+vsl-0751d5df824e6d6d51bc	ruộng bậc thang
+vsl-fb90c24e53683dfaa0f5	sổ điểm danh
+vsl-92a538b68afb1aacd31a	sổ đầu bài
+vsl-075db7b0d2e985fb5fb2	nhảy lò cò
+vsl-b3178a088b7028872860	đánh cầu lông
+vsl-5939fa821ab535ed1686	cảng hải phòng
+vsl-8bbfce1f0d6eaa9901df	phòng đa năng
+vsl-34ca50bb08f2e496200a	phẫu thuật cổ
+vsl-e04a5c0bbb1a5d90ca66	tết thiếu nhi
+vsl-1b9b0333bf9f7ec9916a	phòng thư viện
+vsl-422ccc48084b2b6621b9	bàn làm việc
+vsl-f4e226e142ed89fb662a	quốc tử giám
+vsl-2d3fb0b682a87c94560f	cắt lông mũi
+vsl-3be28e696cfa0a96a01a	sự đổ nát
+vsl-4c123bcd0bf17e4b6caa	giấy vệ sinh
+vsl-0faa8918f07ae52327c1	nhổ củ cải
+vsl-be22a256b7c82c0cd3ab	người lớn tuổi
+vsl-5f9d0cbc5b00385cdd49	thâm quầng mắt
+vsl-08992f5bb78cc64aea2d	nhà thuyết giáo
+vsl-997f4d159f9b485302d7	ở đâu đó
+vsl-58fcbbe342abb7204998	ngày khai trường
+vsl-22f9dca72db0d6afff45	nhà thính học
+vsl-2c9fef873094f3fec129	phòng chức năng
+vsl-923548d149f56ff942bf	hươu cao cổ
+vsl-34511ef7345cdd741939	hãng xe máy
+vsl-73d5404857d162d16052	phòng máy tính
+vsl-464653957958dad36e39	hãng tàu thuyền
+vsl-254bb7c72f2ad5f35e7e	cơn lốc xoáy
+vsl-11fff32499b942a4203d	hãng ô tô
+vsl-dc10ab8de678024bc2e4	bệnh tiểu đường
+vsl-a52e52e518f94cb6e934	có khuynh hướng
+vsl-4cc52e2368dbcbfda039	của anh ấy
+vsl-64a1acf0532556601b97	của chúng tôi
+vsl-2429614dd0803f64576e	khoai tây chiên
+vsl-1b4635f5a4f3677259cb	không bao giờ
+vsl-4250e2a5ab15f3a17ee7	ký túc xá
+vsl-c6df0f33dd6c7e171fa8	người nào đó
+vsl-9a257c8e03771d0d5123	người đàn ông
+vsl-653d522559ec9ac099f1	nhà dân chủ
+vsl-5d977dac4e991eaac59b	phó chủ tịch
+vsl-1df1df07a8ea069343de	rau xà lách
+vsl-814f9f3a83169355fd53	sự nhiễm trùng
+vsl-e749cebc9116679f3f4c	tháng mười một
+vsl-a2c512d7842f1ee5e74d	thứ gì đó
+vsl-0282a8b04d8aee23ce41	xin vui lòng
+vsl-30e0b0f6ab2d7428cd1b	đồ ăn vặt
+vsl-b388cce61312cde9848b	chịu trách nhiệm
+vsl-acce45aa38e2d3e9136a	kính thiên văn
+vsl-2961db0f3b1d26b4dcd7	nỗi tủi nhục
+vsl-6d4b5bdc7d596cbda441	cất tiếng khóc
+vsl-4d19f0683006daff8942	họ (đại từ)
+vsl-005518a334346f082dde	bệnh thủy đậu
+vsl-a092d8213f98a133117b	về (sài gòn)
+vsl-bf7e3c284f5ec022b80e	đường cao tốc
+vsl-f3f9eadfa827f17f0de6	đất màu mỡ
+vsl-f766160f3024c987b442	dịp kỉ niệm
+vsl-edf9cb3445f8ba6aaddb	tuổi thơ ấu
+vsl-03e41725f0c205ccd70d	mẫu số bé
+vsl-80fc7f0633a460c2abdb	chạy nước rút
+vsl-75613a2ee1b6698f022e	bạn cùng phòng
+vsl-ea7c3b4f81363682f2e3	lời đề nghị
+vsl-be585694a14bae53e238	lính cứu hỏa
+vsl-3e0f2677de7f799e35ff	không đồng ý
+vsl-06940125d1034b776f25	khúc côn cầu
+vsl-a05709795828514ccdd6	huấn luyện viên
+vsl-5588c7f3a57a033a65db	con lạc đà
+vsl-b75a84d449667c5d4d3f	kế toán viên
+vsl-f811bd3c689cda193a87	không biết gì
+vsl-a6e86efa410d1dc975aa	đi lang thang
+vsl-94a3a0bb647a6b2c1aff	sự vội vàng
+vsl-01ac2276e480cf7d3aa8	bru-nây (nước bru-nây)
+vsl-3ebc8b9018a6d07734de	nhiếp ảnh gia
+vsl-7738ff860d9396e47ef4	kẹo cao su
+vsl-bbdc96064a9276b3dd8f	thổ nhĩ kỳ
+vsl-eca3ef4fc48f7395af8e	truyền cảm hứng
+vsl-6065599d456200712194	bản thân tôi
+vsl-307f12bc20d38be0e5e0	bánh quy giòn
+vsl-27a8e0782901bc7dbf4a	môn khoa học
+vsl-31451f7cb2c9a81df778	con bò đực
+vsl-9c2fa2805d84f31e387a	gấu bắc cực
+vsl-0a8f55e196c0e5ef406d	ngắt kết nối
+vsl-6e6301ae3138d8b5fffd	câu nói đùa
+vsl-9381f586c534d1503866	nước thái lan
+vsl-6c8154c314904bbe90d8	mẫu số chung
+vsl-96038150e5ddadd4aed3	những đứa trẻ
+vsl-afb04c0811f2d980627d	còi báo động
+vsl-1bb7410b5b873d6aed18	cối xay lúa
+vsl-3cde7008fac70a7d8d50	sự tin tưởng
+vsl-887974dd4c9e51c74d9e	sự kết tủa
+vsl-5fbf84447b1e40b0bf6d	một phần tư
+vsl-90b715e3b8f0e1531bdb	mũ bảo hiểm
+vsl-45a810b7c68858824ca2	thay phiên nhau
+vsl-7fefb3ce94c1a4e98f14	cuộc diễu hành
+vsl-7decde78f8bfc2980671	dấu nháy đơn
+vsl-7be2209426f081b75690	mỳ vằn thắn
+vsl-15d3946eb24f17b0773f	nhà khoa học
+vsl-4e8848b50ecbb51d4db7	cuộc hội thoại
+vsl-a4ad7b14ad51439b44b7	dàn đồng ca
+vsl-5eaaa2fc7f0baad3f324	cờ ca rô
+vsl-e0c597306316e0f0de0a	cối xay gió
+vsl-f7c7de1b15c3eda70995	danh từ riêng
+vsl-20cd27a65d65fc846b9f	hung-ga-ri (nước hung-ga-ri)
+vsl-982915cc767e11bc105a	bất lịch sự
+vsl-03b72242e81822f91a7d	hoa lay ơn
+vsl-0284086136d532f43c8f	nhìn chằm chằm
+vsl-4186fccd2aa516f7f91c	nứt nẻ (ruộng)
+vsl-a07a5f308ce01d6e5e89	ngôn ngữ học
+vsl-4d073e645702323fc9b4	cưa (cái cưa)
+vsl-1c2b8976858e70c145db	môn ngoại ngữ
+vsl-ce1c886c6d0316fde06c	trường trung học
+vsl-50f03aa92e82312200a0	bảng học sinh
+vsl-2f7d8999d6993fc4cec5	dãy số liệu
+vsl-a33829756f7f744d2514	hãng máy bay
+vsl-db9f25d5ca85d7bc6ce7	củ cải trắng
+vsl-2ed46d16b4057de24593	chè đỗ đỏ
+vsl-ce251b99170f77058ae4	từ đồng âm
+vsl-564031e785cb3573c48b	hét (giống la)
+vsl-f4a4a92b34e2207da5ad	dây thần kinh
+vsl-364aeeb22386b5629c69	chim đại bàng
+vsl-e9df3e64d203ffbf89de	cất tiếng nói
+vsl-872da589bd4b47c21025	hàng đơn vị
+vsl-f4269ee46a7f2b7d2155	xe cứu hỏa
+vsl-44e274147a32701f99fb	xếp hàng ngang
+vsl-89500719710f73067224	cầu long biên
+vsl-2bb0ad42779cb8ad30c8	cô-lôm-bi-a (nước cô-lôm-bi-a)
+vsl-868326dae9927ca89821	chi-lê (nước chi-lê)
+vsl-3151957c87f885c5bce9	môn sinh học
+vsl-d335a9097bb007d9d104	hằng đẳng thức
+vsl-09fe25d1f1fb6f8cfa2a	tóc dựng đứng
+vsl-75b77be87846837c489e	chợ bến thành
+vsl-652d373bef5a661cc408	hàng trăm nghìn
+vsl-13feb3be39467f164a49	mét khối (m3)
+vsl-8250535bc59edddefd4e	nhỏ/ nhỏ bé
+vsl-c3d51c4fbc17c1cac673	dòng sông chảy
+vsl-27f87e0279ddf1eeccf2	giải vô địch
+vsl-df5bcd2801c407c83e2f	hàng chục triệu
+vsl-d8f80b6c697f8a556c6a	chim chào mào
+vsl-774bbbd6db7798dd5c2d	chim gõ kiến
+vsl-bf2376112a6bcb54db26	chim chích chòe
+vsl-86962499e42308af99a6	xung quanh nhà
+vsl-bb73653d2f1ac809c6a0	hàng chục nghìn
+vsl-9c8e52cf27b6b3dc5dcb	vòng đeo tay
+vsl-aab3b4f43b3fca84ff14	hình lập phương
+vsl-058300d0e0962f0235d6	quan hệ từ
+vsl-81e0a8b3980a5d922187	còng (cái còng)
+vsl-1fbf531d8130df8badb3	con cú mèo
+vsl-8dd98e94fc8a5d6c6ac5	đất trồng cây
+vsl-7f09fe51a599bcfd0c7c	thụ phấn (hoa)
+vsl-d2d4b91818e47aa1f304	đảo phú quốc
+vsl-1e6566c02ca91b80a492	không có chi
+vsl-1ac8f29cad63f3e37084	chùa một cột
+vsl-50d3260c534c62554ffd	nam bán cầu
+vsl-22fe915c303106b029aa	tự (tự làm)
+vsl-2354b1f52fb54b849c36	châu đại dương
+vsl-f0181ecfdc10dc148603	đảo lý sơn
+vsl-91745df6fa0cf488b0ed	đàn ghi ta
+vsl-b6857f4320fd91e648f2	củ hành tây
+vsl-2e491e71e0296f5ac476	hiệu (toán học)
+vsl-9d5afb86190472f2bf3e	cố đô huế
+vsl-ede142e4696f27a2bed0	chuyển động đều
+vsl-42441f2537d1c8187181	chim sơn ca
+vsl-e58f4d3069e62560e642	nổi da gà
+vsl-62b778b62dd135398fb3	mẫu số lớn
+vsl-7a2ae2536f6c34afb161	dấu hai chấm
+vsl-ebfdf66c6f94f8374718	quan (chức vụ)
+vsl-2b6b8e11abd502628bbb	cười vỡ bụng
+vsl-def610e510d1c56035ac	dấu ngoặc đơn
+vsl-35befc469c7706f02042	dấu chấm than
+vsl-52715ee73bf1d32a8234	đẹp mê hồn
+vsl-f46b6b022b6afa6a7c30	ki-lô-mét vuông (km2)
+vsl-de9942ab13dbd7da4a72	chim phượng hoàng
+vsl-36993e2933149e05db2b	i-rắc (nước i-rắc)
+vsl-d4ad0754e698007a5e2a	xịt côn trùng
+vsl-3f235d7f83ead96b9a3e	hút thuốc lá
+vsl-0ac6c7e9cd1466355671	dẫn chương trình
+vsl-7d45f45b04d7c7fdd44b	tôi yêu bạn
+vsl-58dac1b14a7e1d9842fb	khung cửa số
+vsl-71a18ae82ca2cced676f	chất hữu cơ
+vsl-08ae65804408e1f68027	0 (số không)
+vsl-e8ccf09be267ab04b43f	đoàn thanh niên
+vsl-f936ae5c56e95d05fcaf	dấu gạch ngang
+vsl-751a0fc6907e10430818	bảng chỉ dẫn
+vsl-0bb49ac5656dbbfee9f8	nhiều vô cùng
+vsl-e382463e367f62f789cb	lăng bác hồ
+vsl-8d6428a670ade6b0046b	đội thiếu niên
+vsl-f40e272723783464cd7a	lỗi chính tả
+vsl-dd123025b1085f2877b6	làm bài tập
+vsl-820ba48e28fed77abf14	dinh độc lập
+vsl-adf36cc2f4c6174ed8d8	kính hiển vi
+vsl-78033c7b2a03b839fd22	đoàn cải lương
+vsl-7c4becdedaea226f12a7	số liền sau
+vsl-ff20b4a4a44aad274327	đường chỉ tay
+vsl-eb96e17c8b8ebfc3a660	khoá (cái khóa)
+vsl-5773b5d817ddaf90f67a	viện bảo tàng
+vsl-4f081baedb53dd454ec8	kiếm (cái kiếm)
+vsl-7bd2292a84acde8d867f	thời gian biểu
+vsl-9c85eb079803e52d428b	albania (nước albania)
+vsl-50a3f7180778f0a66e3f	nhà toán học
+vsl-f0a190ea9734007db9e3	cạnh đối diện
+vsl-cae4aec29e8c0217fc40	khăn quàng đỏ
+vsl-940b1550394512120770	ban giám hiệu
+vsl-d40bad4322bf383a71bc	vái tứ phương
+vsl-bf5b7ce5cbf3660cdf78	ăn hối lộ
+vsl-a766fe010b9df3f5d19f	bé loắt choắt
+vsl-e2c2b011cbbf1b6c8b13	cần khởi động
+vsl-1433676790e9e9af700f	hiệu cầm đồ
+vsl-2f667f935ba1770b15c7	italia (nước italia)
+vsl-03ec0a3188207073256a	chim chuyền cành
+vsl-294911a8fa40245cee8b	học trung bình
+vsl-efe06cd1be789fcc1175	đường nguyễn huệ
+vsl-f476689798124487b00c	bánh trung thu
+vsl-cf42ead541cd523aee04	hồ hoàn kiếm
+vsl-b69ac980c3425881c693	nhân cách hoá
+vsl-5a3fb2bde3aa6aa92c9a	bắc bán cầu
+vsl-7b3b6b4e42a47fadb2b3	ti hí mắt
+vsl-6381a9d0bbb712cb3e5e	số liền trước
+vsl-6e14ba2eec22b0f3b219	vịnh hạ long
+vsl-a6d4ed83125a2c546ed1	5000 (năm nghìn)
+vsl-4f3456410e5485c4c64a	bạn yêu tôi
+vsl-ed08acb08d0fbd698021	góc học tập
+vsl-15da08a3b365cbaed47b	rụng tóc (đt)
+vsl-d9c185f92aa2feaf0686	dấu chấm hỏi
+vsl-377807471b11317bbbce	biểu đồ cột
+vsl-11d4237992183edc7b55	thợ kim hoàn
+vsl-02d9f279bd9b10a59b3f	đường biên giới
+vsl-84501950e8aa01178840	viện nghiên cứu
+vsl-ec41f3c1a63bf2bf9e0e	anh chị em
+vsl-63d0bfad4ad1eaa72ae0	cạnh bên (toán)
+vsl-396603ae818b9e916422	bồn rửa bát
+vsl-32fb03bbd1e91fd4386e	nhà bác học
+vsl-0b6114c9730fdc9eaadc	đồn công an
+vsl-b175fa506f2e309b3975	đề-xi-mét khối (dm3)
+vsl-b5df978a7c6131a6daed	gắp thức ăn
+vsl-2b69bf9358f7d3a66cd4	đề-xi-mét vuông (dm2)
+vsl-d6c8318e0881a9dd5ff2	điện biên phủ
+vsl-e05bdaa4e67b11fcdae0	bọt xà phòng
+vsl-bfa8fe45c3a4977ad958	lạc long quân
+vsl-cf981c9fc3f26fa23e2e	hồ chí minh
+vsl-21539be2c8686ca342eb	có … không?
+vsl-c94456e57f3593cee16a	đua xe máy
+vsl-714827e6d9d07e328081	bơm (cái bơm)
+vsl-8846ae5d0d90f96bb046	bom nguyên tử
+vsl-e4ae18d6b8362bb8bbac	vô ý thức
+vsl-528ed6cabd811a8bb6dd	bánh bột lọc
+vsl-1da9f442cb1b6b09162c	người nước ngoài
+vsl-3d656d7d928885090d74	ê-ti-ô-pi-a (nước ê-ti-ô-pi-a)
+vsl-9a92dc1dcc50cf4b837f	ma cà rồng
+vsl-c1d36464d19063d4c5dd	băng-la-đét (nước băng-la-đét)
+vsl-f604d4cb3fc2b13fe108	đề-ca-mét vuông (dam2)
+vsl-68f913e44dae84fae4cc	vàng (kim loại)
+vsl-7d9be3abf22d79b9cd81	chuyển động quay
+vsl-ef33736a88189c267abf	gieo xúc xắc
+vsl-dba768292a8401cabf51	bác sĩ phẫu thuật
+vsl-45857430aec61ad12486	bất cứ điều gì
+vsl-779f08bfabe967aaf3b5	bệnh đao - down
+vsl-72cd398fd068f8b2d2ac	chương trình nghị sự
+vsl-98647b9d99dc613b1cee	dân tộc khơ me
+vsl-38ec2c455113f03ce84d	ngôn ngữ ký hiệu
+vsl-54f5862571e614e671a2	nhà tâm lý học
+vsl-a64ab08a84ef7687a90f	như hình với bóng
+vsl-89a246682fb253288efd	phòng học tin học
+vsl-95f4c8cca64edd3ad268	quả bầu hồ lô
+vsl-f88d4a84d1ec1e605880	trách nhiệm pháp lý
+vsl-d1ed44d63ae232470b27	tính chất kết hợp
+vsl-5c0d8adef42689641f63	tôi yêu bạn ấy
+vsl-89abea1fa7558d2d0286	tập hợp (toán học)
+vsl-b4f7dafb71d23a68c693	tỉ số phần trăm
+vsl-3942967a1dffda787088	xâm hại tình dục
+vsl-50374b479990b301254a	đi lạc (đường, rừng..)
+vsl-1c1766a2444ff3464085	đứng đầu (hàng đầu)
+vsl-54b8e645736f897d3c86	mồ hôi nhễ nhại
+vsl-1eb2cabb2b755ac8b1c8	bình sữa (em bé)
+vsl-eafe1e5032e6ea2438a5	bay nhanh (máy bay)
+vsl-252b8e211538a760bb89	thẳng hàng (toán học)
+vsl-3513880886465afeff91	gầy (miền nam: ốm)
+vsl-77e0ae68bcf893761f67	bạn ấy yêu bạn
+vsl-a8a71422122a80a01223	khu vực cách ly
+vsl-54ea7aef53813b7d2e15	phân số tối giản
+vsl-3cbbf83d57daf07a7e27	rút gọn phân số
+vsl-a0fbdf9d799358acdd81	bạn ấy yêu tôi
+vsl-51014b3a728f68b77de3	tính chất bằng nhau
+vsl-de4a56463b3e853e19c3	mất (chết) (chỉ người)
+vsl-5fb27bf788e3613f2209	máy tính xách tay
+vsl-76489a53a7b70263d044	tay chân sạch sẽ
+vsl-ab2dd9ccdc6d39d8ac50	nhộn nhịp (đông người)
+vsl-c23b05e1de00d5d75f56	liệt (liệt tay chân)
+vsl-741c066364e4ef5d3d63	phân số thập phân
+vsl-27fea60dbde7e950db1b	tính chất giao hoán
+vsl-28ca8dec20e4b2cd40f0	cho phép làm gì
+vsl-789527bdb555b485bff1	quy đồng mẫu số
+vsl-b0f3ca66c7ea0ad9b218	thống nhất đất nước
+vsl-c5b706f5cb256068ea35	phố cổ hội an
+vsl-0c82c49c83c5a2a40d5d	các bạn (2 người)
+vsl-48098cc0043918049338	bạn yêu bạn ấy
+vsl-3e82422eecccd3a4986d	về 5 (về nhà)
+vsl-4dd177347ef013da1912	kể từ bây giờ
+vsl-5a983494519442d406cc	bàn chải đánh răng
+vsl-3e29a2683b1881fc0fbe	ánh nắng mặt trời
+vsl-10295bff39a758a572f1	điều khiển từ xa
+vsl-7afac082a3975555cc1a	thứ hai hàng tuần
+vsl-4fd410094efe33e98394	thứ ba hàng tuần
+vsl-0250f386b269dd300cb8	con nai sừng tấm
+vsl-32ad710d2bb73d93409c	diện tích toàn phần
+vsl-d16a7271053131bf287a	chương trình giảng dạy
+vsl-fbb107f095bde2f9e841	thể dục dụng cụ
+vsl-12461e47f16a6f1d3f09	giãn cách xã hội
+vsl-058b77903c9325fdcf32	chợ nổi cái bè
+vsl-65d36e36592c67891e0d	xì hơi (đánh rắm)
+vsl-98f29dd30a77a0751410	danh lam thắng cảnh
+vsl-ec375c337a5c0e6d3d60	bài tập về nhà
+vsl-04d9b50400f08e04ab9a	trọng nam khinh nữ
+vsl-c045fbee94e37c6f2851	về 2 (miền bắc)
+vsl-13f6a53ae41ef6d29d7e	miền bắc việt nam
+vsl-1df025079ae366a18c3b	cử chỉ điệu bộ
+vsl-228382370cdc24eed167	một ngày nào đó
+vsl-c82035681ab0f1bcccb6	thánh địa mỹ sơn
+vsl-169c826d398e7ee8cdff	cuộn giấy vệ sinh
+vsl-9880e9477287f6e274ca	bay liệng (bay lượn)
+vsl-c4105bc1e4ca612b02d1	tai nạn giao thông
+vsl-d5bec8428bc7cffe79f2	về 3 (đi về)
+vsl-98416dfa887a7e814da1	bím tóc đuôi sam
+vsl-b8228fe54a97ddf5dd8b	con trai (động vật)
+vsl-e42d1efb73aa891adb52	mồ côi cha mẹ
+vsl-8199e75cc2e55ce9c215	hình hộp chữ nhật
+vsl-465501310cc82cd591bc	miền nam việt nam
+vsl-1345b490f2a6a1a2de5d	gậy của người già
+vsl-2a6996f539e5d11047be	xếp hàng ưu tiên
+vsl-71e02516ff296c0a32c9	luyện từ và câu
+vsl-eacc573529c28aa3c32c	đường ray xe lửa
+vsl-054f25c0abbd2de5b452	chủ nghĩa xã hội
+vsl-ab9ff248af61a85fd36c	diện tích xung quanh
+vsl-35d5afbd1afacc003f6d	đồng bằng sông hồng
+vsl-c89498a5087b6113ccbe	chợ nổi cái răng
+vsl-516b6d2313df3671d198	nhà thờ đức bà
+vsl-f6bf623c400b97e25313	bãi biển vũng tàu
+vsl-300dd7801c62bfb57cd7	náo động, náo nhiệt
+vsl-8f7cea73114acba58968	chuyển đổi số đo
+vsl-7c532ac0991953013ad7	từ phải sang trái
+vsl-341dbd53cf58a64533cb	vô lo vô nghĩ
+vsl-5877367837dabfa3880c	vòng quanh trái đất
+vsl-de78117ff773a6f8e0f8	gãi đầu gãi tai
+vsl-f6812ce750672075c13e	từ trái sang phải
+vsl-68544cbdbada6dca01b6	bẫy chuột (dụng cụ)
+vsl-5e374320ae95d612e758	đồ dùng dạy học
+vsl-6961a14b13c8ac3d59b5	bản sao (chỉ người)
+vsl-14eb7cb9c37739b8abe8	giá trị tuyệt đối
+vsl-54fe8ea6ef06282797e6	địa đạo củ chi
+vsl-19f9bbbdb037b7d30667	làng gốm bát tràng
+vsl-2af724b23c13de0b739e	học sinh miền nam
+vsl-76cc75f683db27b4a8bc	vệ sinh cá nhân
+vsl-c84785b4fe3b7b41a9bf	ba chân bốn cẳng
+vsl-0d17ddf27a29da4b0aba	đầu xuôi đuôi lọt
+vsl-17951e03e2b1d086c4c2	biểu đồ hình quạt
+vsl-62f77d740b5acce89766	miến điện (nước mi-an-ma)
+vsl-fc5e095b545798fbd694	hòn bi (giống viên bi)
+vsl-6bb7a5571e7e0f6afd06	hội chứng đao - down
+vsl-5146220ad99364351411	lượt về (trong thể thao)
+vsl-eafb265cc0047cfb8990	lớn hơn 2 (toán học)
+vsl-37e0002519e5243afcca	lớn hơn 1 (toán học)
+vsl-473ecb630d198048bf78	cùng / với (giới từ)
+vsl-9a3ba7c28f5883cb6628	hai phân số bằng nhau
+vsl-347eb377a06e6a004d85	cầu thê húc (hồ gươm)
+vsl-8a5841654302fe5e3507	ngày nhà giáo việt nam
+vsl-fd58c66e84aa70bc60c4	ăn vú sữa (bằng thìa)
+vsl-8f192f643fa5e468de92	họ (2 người) (đại từ)
+vsl-4f9ff7e67fa24c812df2	quán ăn tự phục vụ
+vsl-6c10bd7d007d5b239965	môn giáo dục thể chất
+vsl-21d86401abcccaa9009c	đánh vần bằng ngón tay
+vsl-416576adf2ad46dfaae1	châu á thái bình dương
+vsl-f8f83756f1cb56d244dd	chất độc màu da cam
+vsl-eb513ffd757e88276a28	cấy ốc tai điện tử
+vsl-43719b66fc970af37b82	môn giáo dục công dân
+vsl-3da02a206e2e3b57d22c	hà lan (nước hà lan)
+vsl-0b481679b2d4e9678d34	mê say (như: say mê)
+vsl-94735afd4bd34855c0c2	đu bai (nước đu bai)
+vsl-1f1d14affc97187fd435	dãy núi hoàng liên sơn
+vsl-f883df6ae058d5015d51	cố ý (như cố tình)
+vsl-4d7d47fd3b3010a72570	đông timor (nước đông timor)
+vsl-73a64f79629e0e146dae	bảng chữ cái ngón tay
+vsl-b8c5176d917a8684077e	đồng bằng sông cửu long
+vsl-cc2e28bbc43695129206	số la mã (toán học)
+vsl-18d23db0f2be3e83018c	bàn phím (máy vi tính)
+vsl-d72fffd3f4e3a6bdf80d	vùng vẫy (dành cho người)
+vsl-260bdbf8352f28182ecc	kiên trì (giống: kiên nhẫn)
+vsl-f3203d806affe29ea7cf	bà rịa - vũng tàu
+vsl-5efc8d0edde3a8bf021e	giả bộ (giống giả vờ)
+vsl-40f5db5c2f6178579cea	ả rập (nước ả rập)
+vsl-cac0e04453b0a4e92999	bãi đỗ xe (ô tô)
+vsl-f01419aeb75fb4f1f2de	văn miếu quốc tử giám
+vsl-9ef3b4cae7c54035ec19	điểm ở giữa đoạn thẳng
+vsl-c70b362666d5e94b5567	cu ba (nước cu ba)
+vsl-a7339f9b450305958be9	kiêu (kiêu căng, kiêu xa)
+vsl-46136cc743b067a66189	mạnh bạo (giống: mạnh dạn)
+vsl-ee26a1f9e1557423919c	môn tin học và công nghệ
+vsl-cc67d4e512af77b2ba4a	về 4 (từ nơi khác về)
+vsl-3a5ecf1357029142fd2d	tuần lễ người điếc thế giới
+vsl-1a8880e118b98f8adc07	môn tự nhiên và xã hội
+vsl-b0e8af05b5a1cc1522a1	đàn xê lô đại vĩ cầm
+vsl-77dc40f1634baa5dacbf	gặm xương (con chó gặm xương)
+vsl-eea4ad58b882468850b9	đồng bằng duyên hải miền trung
+vsl-515b3f9a0856888e8ce1	u ám ( trời u ám)
+vsl-3ccaa816d01f6c600362	tính chất cơ bản của phân số
+vsl-ea74257201928081a92b	đất nước bị chia cắt (việt nam)
+vsl-d373fb379c4e1c18f04a	bao tay (dùng cho trẻ sơ sinh)
+vsl-86eac096888cbe98068b	cộng hòa séc (nước cộng hòa séc)
